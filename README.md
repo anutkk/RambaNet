@@ -44,6 +44,6 @@ TODO: preprocessing
 ## References
 1. Sebastian Ruder, Parsa Ghaffari, John G. Breslin, "Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution", [_arXiv:1609.06686_](https://arxiv.org/abs/1609.06686) (2016).
 1. Chen Qian, Tianchang He, Rao Zhang, ["Deep Learning based Authorship Identification"](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2760185.pdf), Stanford University (2017).
-<!--1. Asad Mahmood, ["Authorship Attribution using CNNs"](https://github.com/asad1996172/Authorship-attribution-using-CNN), GitHub.-->
 1. Xiang Zhang, Junbo Zhao, Yann LeCun, "Character-level Convolutional Networks for Text Classification", [_ 	arXiv:1509.01626_](https://arxiv.org/abs/1509.01626v3) (2015).
 1. Aisha Khatun, Anisur Rahman, Md. Saiful Islam, Marium-E-Jannat, "Authorship Attribution in Bangla literature using Character-level CNN",[ _arXiv:2001.05316_](https://arxiv.org/abs/2001.05316) (2020).
+<!--1. Asad Mahmood, ["Authorship Attribution using CNNs"](https://github.com/asad1996172/Authorship-attribution-using-CNN), GitHub.-->

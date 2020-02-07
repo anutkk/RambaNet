@@ -25,7 +25,7 @@ Recent research in Bengali [Khatun 2020] suggests that character-level embedding
 
 Moreover, homonyms and homographs are frequent in Hebrew, much more than in English (see [this paper](https://m.tau.ac.il/~pelegor/pdfs/15.%20Peleg,%20Edelist,%20Eviatar,%20&%20Bergerbest,%20in%20press.pdf), pp. 3-4 and [that paper](https://www.academia.edu/35145231/The_Vocabulary_of_Classical_Hebrew_New_Facts_and_Figures) pp. 9-10); and the number of byforms (alternative spellings of words) is astoninishgly high (more than 30% of Classical Hebrew according to [that paper](https://www.academia.edu/35145231/The_Vocabulary_of_Classical_Hebrew_New_Facts_and_Figures)).
 
-Lastly, an important drawback of word embeddings is that the vocabulary must be defined in advance, and less common words are left out of the embedding. However, for authorship attribution purposes the study of hapax legomena embeds a lot of information.
+Lastly, an important drawback of word embeddings is that the vocabulary must be defined in advance, and out-of-vocabulary and less common words are left out of the embedding. However, for authorship attribution purposes the study of hapax legomena bears a lot of information.
 
 
 ## Dataset

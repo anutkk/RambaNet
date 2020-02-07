@@ -12,3 +12,6 @@ raw_dataset
 raw_dataset/*
 sample_dataset
 sample_dataset/*
+
+.ipynb_checkpoints
+.ipynb_checkpoints/*

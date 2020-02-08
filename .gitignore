@@ -10,8 +10,8 @@ __pycache__/*
 
 raw_dataset
 raw_dataset/*
-sample_dataset
-sample_dataset/*
+sample_dataset/raw
+sample_dataset/raw/*
 
 .ipynb_checkpoints
 .ipynb_checkpoints/*

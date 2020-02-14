@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1761.0546"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-938.000000 -802.000000 1761.054565 2011.000000" height="2011.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.3410386"
+              d="M -322.971161,434.417236 C -397.485687,274.049744 -268.706207,-78.273262 -108.338699,-152.787781"
+              class="id_Abarbanel id_Bible" stroke-opacity="1.0"
+              stroke="#8b8bc2"/>
+        <path fill="none" stroke-width="0.14354521"
+              d="M -322.971161,434.417236 C -241.290756,419.870758 -96.950455,520.571655 -82.403999,602.252075"
+              class="id_Abarbanel id_Talmud" stroke-opacity="1.0"
+              stroke="#dc3168"/>
+        <path fill="none" stroke-width="6.17372"
+              d="M -108.338699,-152.787781 C -102.372040,44.134895 -388.806030,348.468903 -585.728699,354.435577"
+              class="id_Bible id_Bachya_ben_Asher" stroke-opacity="1.0"
+              stroke="#9f6cce"/>
+        <path fill="none" stroke-width="0.30349013"
+              d="M -108.338699,-152.787781 C -155.246857,-329.166840 38.959480,-664.097656 215.338547,-711.005798"
+              class="id_Bible id_Bachya_ibn_Pekuda" stroke-opacity="1.0"
+              stroke="#4acccc"/>
+        <path fill="none" stroke-width="9.454684"
+              d="M -108.338699,-152.787781 C -47.124046,-261.113525 207.186523,-331.780151 315.512268,-270.565491"
+              class="id_Bible id_Adin_Steinsaltz" stroke-opacity="1.0"
+              stroke="#4acccc"/>
+        <path fill="none" stroke-width="0.22393638"
+              d="M -108.338699,-152.787781 C -22.168282,-65.383675 -24.018822,194.978088 -111.422928,281.148499"
+              class="id_Bible id_Barukh_HaLevi_Epstein" stroke-opacity="1.0"
+              stroke="#9d6ecd"/>
+        <path fill="none" stroke-width="0.16950487"
+              d="M -108.338699,-152.787781 C -28.688423,-28.777491 -95.228432,276.713348 -219.238724,356.363647"
+              class="id_Bible id_Chaim_ibn_Attar" stroke-opacity="1.0"
+              stroke="#9778c9"/>
+        <path fill="none" stroke-width="0.6778115"
+              d="M -108.338699,-152.787781 C -51.080173,-304.269531 262.030243,-445.604370 413.511963,-388.345825"
+              class="id_Bible id_David_Altschuler" stroke-opacity="1.0"
+              stroke="#4acccc"/>
+        <path fill="none" stroke-width="0.13935818"
+              d="M -108.338699,-152.787781 C -178.500565,-220.344437 -182.408371,-426.922180 -114.851715,-497.084045"
+              class="id_Bible id_Ernest_Klein" stroke-opacity="1.0"
+              stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="0.4877199"
+              d="M -108.338699,-152.787781 C -206.749802,-89.977173 -448.582367,-143.377945 -511.392944,-241.789047"
+              class="id_Bible id_Ibn_Ezra" stroke-opacity="1.0" stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="0.40146688"
+              d="M -108.338699,-152.787781 C -7.044579,-231.668945 263.218353,-198.049530 342.099518,-96.755409"
+              class="id_Bible id_Isaac_ben_Joseph_of_Corbeil"
+              stroke-opacity="1.0" stroke="#71b2b2"/>
+        <path fill="none" stroke-width="6.721385"
+              d="M -108.338699,-152.787781 C 21.306244,-137.018967 192.120422,81.101669 176.351608,210.746613"
+              class="id_Bible id_Isaiah_HaLevi_Horovitz" stroke-opacity="1.0"
+              stroke="#9f6cce"/>
+        <path fill="none" stroke-width="0.5011184"
+              d="M -108.338699,-152.787781 C -191.008026,-312.629211 -75.249832,-676.395386 84.591614,-759.064697"
+              class="id_Bible id_Israel_Meir_Kagan" stroke-opacity="1.0"
+              stroke="#5ac1c1"/>
+        <path fill="none" stroke-width="0.7012589"
+              d="M -108.338699,-152.787781 C 86.347137,-188.577576 432.060577,49.766487 467.850372,244.452332"
+              class="id_Bible id_Jacob_ben_Asher" stroke-opacity="1.0"
+              stroke="#9f6cce"/>
+        <path fill="none" stroke-width="0.31437644"
+              d="M -108.338699,-152.787781 C -149.500534,-22.377686 -406.858398,111.494705 -537.268494,70.332878"
+              class="id_Bible id_Judah_David_Eisenstein" stroke-opacity="1.0"
+              stroke="#9d6ecd"/>
+        <path fill="none" stroke-width="0.13768336"
+              d="M -108.338699,-152.787781 C -207.550903,-222.121674 -252.368347,-474.940765 -183.034454,-574.152954"
+              class="id_Bible id_Judah_HeHasid" stroke-opacity="1.0"
+              stroke="#36d8d8"/>
+        <path fill="none" stroke-width="0.5505255"
+              d="M -108.338699,-152.787781 C -294.682007,-135.363373 -600.333557,-388.741669 -617.757996,-575.084961"
+              class="id_Bible id_Levi_Yitzchok_of_Berditchev"
+              stroke-opacity="1.0" stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="1.8476704"
+              d="M -108.338699,-152.787781 C -210.947144,-245.646942 -225.571060,-538.848328 -132.711899,-641.456787"
+              class="id_Bible id_Levi_ibn_Habib" stroke-opacity="1.0"
+              stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="1.0479459"
+              d="M -108.338699,-152.787781 C 13.540031,-157.926331 204.065918,17.183937 209.204453,139.062668"
+              class="id_Bible id_Maharal" stroke-opacity="1.0" stroke="#a267d0"/>
+        <path fill="none" stroke-width="0.23817232"
+              d="M -108.338699,-152.787781 C -81.866982,54.559143 -353.179749,405.287079 -560.526672,431.758820"
+              class="id_Bible id_Malbim" stroke-opacity="1.0" stroke="#9b72cc"/>
+        <path fill="none" stroke-width="0.9591806"
+              d="M -108.338699,-152.787781 C -194.698029,-190.107346 -268.257690,-375.625671 -230.938141,-461.985016"
+              class="id_Bible id_Meir_Simha_HaKohen_Dvinsk" stroke-opacity="1.0"
+              stroke="#36d8d8"/>
+        <path fill="none" stroke-width="1.3510875"
+              d="M -108.338699,-152.787781 C -125.749817,-244.291214 -14.611355,-407.663025 76.892075,-425.074158"
+              class="id_Bible id_Menahem_ben_Saruq" stroke-opacity="1.0"
+              stroke="#5ac1c1"/>
+        <path fill="none" stroke-width="0.3101894"
+              d="M -108.338699,-152.787781 C -41.980850,-295.639954 271.834229,-410.381470 414.686401,-344.023621"
+              class="id_Bible id_Moses_Isserles" stroke-opacity="1.0"
+              stroke="#4acccc"/>
+        <path fill="none" stroke-width="0.69623446"
+              d="M -108.338699,-152.787781 C 74.607407,-110.405121 285.452515,227.588028 243.069855,410.534119"
+              class="id_Bible id_Moses_ben_Jacob_of_Coucy" stroke-opacity="1.0"
+              stroke="#9280c6"/>
+        <path fill="none" stroke-width="5.118586"
+              d="M -108.338699,-152.787781 C 55.458344,-113.345642 241.990723,191.513123 202.548584,355.310181"
+              class="id_Bible id_Moshe_Teitelbaum_of_Ujhel" stroke-opacity="1.0"
+              stroke="#9b72cc"/>
+        <path fill="none" stroke-width="0.94410723"
+              d="M -108.338699,-152.787781 C 9.893753,-112.129745 126.255386,126.205956 85.597351,244.438416"
+              class="id_Bible id_Nachman_of_Breslov" stroke-opacity="1.0"
+              stroke="#9f6cce"/>
+        <path fill="none" stroke-width="0.34452313"
+              d="M -108.338699,-152.787781 C -286.780579,-101.726563 -631.035156,-292.797546 -682.096436,-471.239441"
+              class="id_Bible id_Nathan_Nota_Spira" stroke-opacity="1.0"
+              stroke="#36d8d8"/>
+        <path fill="none" stroke-width="0.32358792"
+              d="M -108.338699,-152.787781 C -125.751259,-318.956207 97.382568,-594.327759 263.550995,-611.740295"
+              class="id_Bible id_Nathan_Sternhartz" stroke-opacity="1.0"
+              stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="0.26413196"
+              d="M -108.338699,-152.787781 C -244.928040,-70.811325 -572.776733,-152.730652 -654.753174,-289.319977"
+              class="id_Bible id_Philo_of_Alexandria" stroke-opacity="1.0"
+              stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="12.507036"
+              d="M -82.403999,602.252075 C 80.240608,441.323792 565.599976,443.898254 726.528259,606.542847"
+              class="id_Talmud id_0" stroke-opacity="1.0" stroke="#dc3131"/>
+        <path fill="none" stroke-width="4.146355"
+              d="M 243.069855,410.534119 C 378.963287,353.044189 669.038269,470.649445 726.528259,606.542847"
+              class="id_Moses_ben_Jacob_of_Coucy id_0" stroke-opacity="1.0"
+              stroke="#d33f85"/>
+        <path fill="none" stroke-width="0.7582027"
+              d="M -108.338699,-152.787781 C -254.899445,-148.369888 -481.367432,-361.584167 -485.785309,-508.144897"
+              class="id_Bible id_Radak" stroke-opacity="1.0" stroke="#36d8d8"/>
+        <path fill="none" stroke-width="0.81849605"
+              d="M -108.338699,-152.787781 C 156.672791,-238.802399 683.211914,29.692917 769.226563,294.704407"
+              class="id_Bible id_Rambam" stroke-opacity="1.0" stroke="#9b72cc"/>
+        <path fill="none" stroke-width="2.1265273"
+              d="M -108.338699,-152.787781 C -156.521729,55.488441 -541.210632,295.628235 -749.486816,247.445175"
+              class="id_Bible id_Ramban" stroke-opacity="1.0" stroke="#9778c9"/>
+        <path fill="none" stroke-width="0.24152195"
+              d="M -108.338699,-152.787781 C -3.882858,-68.945740 27.037842,213.501068 -56.804203,317.956909"
+              class="id_Bible id_Rashba" stroke-opacity="1.0" stroke="#9f6cce"/>
+        <path fill="none" stroke-width="0.57648516"
+              d="M -108.338699,-152.787781 C -89.335854,-315.521210 183.268555,-531.117126 346.001984,-512.114258"
+              class="id_Bible id_Rashbam" stroke-opacity="1.0" stroke="#4acccc"/>
+        <path fill="none" stroke-width="7.167723"
+              d="M -108.338699,-152.787781 C -215.241592,68.116608 -706.952515,239.118851 -927.856873,132.215958"
+              class="id_Bible id_Rashi" stroke-opacity="1.0" stroke="#8b8bc2"/>
+        <path fill="none" stroke-width="0.35038498"
+              d="M -108.338699,-152.787781 C -225.465775,-49.967430 -555.386963,-71.427513 -658.207275,-188.554596"
+              class="id_Bible id_Recanati" stroke-opacity="1.0" stroke="#5ac1c1"/>
+        <path fill="none" stroke-width="0.5588996"
+              d="M -108.338699,-152.787781 C 27.958447,-208.419220 315.851257,-87.420631 371.482697,48.876514"
+              class="id_Bible id_Saadia_Gaon" stroke-opacity="1.0"
+              stroke="#9d6ecd"/>
+        <path fill="none" stroke-width="0.10586186"
+              d="M -108.338699,-152.787781 C -131.732483,-2.672409 -391.996216,187.409958 -542.111572,164.016174"
+              class="id_Bible id_Samson_ben_Abraham_of_Sens"
+              stroke-opacity="1.0" stroke="#a366d0"/>
+        <path fill="none" stroke-width="0.9315461"
+              d="M -108.338699,-152.787781 C 44.540421,-117.309448 220.641617,165.226715 185.163284,318.105835"
+              class="id_Bible id_Sefer_HaChinukh" stroke-opacity="1.0"
+              stroke="#9d6ecd"/>
+        <path fill="none" stroke-width="0.30265272"
+              d="M -108.338699,-152.787781 C -138.578842,-292.985443 26.357445,-548.642212 166.555115,-578.882324"
+              class="id_Bible id_Sforno" stroke-opacity="1.0" stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="0.40146688"
+              d="M -108.338699,-152.787781 C -191.941254,-58.445244 -458.858887,-42.335274 -553.201416,-125.937820"
+              class="id_Bible id_Shabbetai_ben_Joseph_Bass" stroke-opacity="1.0"
+              stroke="#4acccc"/>
+        <path fill="none" stroke-width="0.4793458"
+              d="M -108.338699,-152.787781 C -244.820648,-271.976715 -270.760162,-655.483032 -151.571228,-791.964966"
+              class="id_Bible id_Shadal" stroke-opacity="1.0" stroke="#5ac1c1"/>
+        <path fill="none" stroke-width="7.1132917"
+              d="M 769.226563,294.704407 C 823.054565,365.611755 797.435608,552.714844 726.528259,606.542847"
+              class="id_Rambam id_0" stroke-opacity="1.0" stroke="#dc318b"/>
+        <path fill="none" stroke-width="0.15861855"
+              d="M -108.338699,-152.787781 C -281.930237,-197.686798 -474.969055,-525.422607 -430.070038,-699.014099"
+              class="id_Bible id_Shlomo_Ephraim_ben_Aaron_Luntschitz"
+              stroke-opacity="1.0" stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="0.3738324"
+              d="M -108.338699,-152.787781 C -255.342957,-188.053192 -422.951233,-461.457672 -387.685822,-608.461914"
+              class="id_Bible id_Shmuel_Bornsztain_of_Sochatchov"
+              stroke-opacity="1.0" stroke="#36d8d8"/>
+        <path fill="none" stroke-width="0.7213567"
+              d="M -108.338699,-152.787781 C -255.463684,-88.414818 -572.710571,-212.542877 -637.083496,-359.667847"
+              class="id_Bible id_Steinsaltz" stroke-opacity="1.0"
+              stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="5.178042"
+              d="M -108.338699,-152.787781 C 47.856209,-6.966755 63.417023,446.057159 -82.403999,602.252075"
+              class="id_Bible id_Talmud" stroke-opacity="1.0" stroke="#9b7272"/>
+        <path fill="none" stroke-width="0.76490194"
+              d="M 726.528259,606.542847 C 684.187622,704.666199 473.491638,788.340210 375.368286,745.999573"
+              class="id_0 id_Kollel_Eretz_Chemda" stroke-opacity="1.0"
+              stroke="#cc4a4a"/>
+        <path fill="none" stroke-width="1.296656"
+              d="M -108.338699,-152.787781 C -248.660461,-245.924271 -319.438385,-596.111633 -226.301895,-736.433411"
+              class="id_Bible id_Tikkunei_Zohar" stroke-opacity="1.0"
+              stroke="#4acccc"/>
+        <path fill="none" stroke-width="0.28506717"
+              d="M -108.338699,-152.787781 C -47.462269,-94.661774 -43.336620,83.841858 -101.462624,144.718292"
+              class="id_Bible id_Tosafot" stroke-opacity="1.0" stroke="#a16acf"/>
+        <path fill="none" stroke-width="0.17787895"
+              d="M 726.528259,606.542847 C 680.977356,733.430054 422.320221,855.434509 295.433014,809.883606"
+              class="id_0 id_Yechiel_Michel_Epstein" stroke-opacity="1.0"
+              stroke="#d33e3e"/>
+        <path fill="none" stroke-width="0.83273196"
+              d="M -108.338699,-152.787781 C -81.863525,-74.984550 -158.855591,81.433060 -236.658829,107.908241"
+              class="id_Bible id_Yom-Tov_Lipmann_Heller" stroke-opacity="1.0"
+              stroke="#9b72cc"/>
+        <path fill="none" stroke-width="0.24822122"
+              d="M -108.338699,-152.787781 C -16.639801,-270.057587 296.813232,-308.413940 414.083038,-216.715042"
+              class="id_Bible id_Yosef_Giqatillah" stroke-opacity="1.0"
+              stroke="#5ac1c1"/>
+        <path fill="none" stroke-width="6.3897715"
+              d="M -108.338699,-152.787781 C -79.304192,-252.865005 114.363365,-359.429016 214.440582,-330.394531"
+              class="id_Bible id_Zohar" stroke-opacity="1.0" stroke="#4acccc"/>
+        <path fill="none" stroke-width="0.9080987"
+              d="M -108.338699,-152.787781 C -103.956841,-285.766113 102.083420,-478.660797 235.061737,-474.278931"
+              class="id_Bible id_Zohar_Chadash" stroke-opacity="1.0"
+              stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="0.44836172"
+              d="M -108.338699,-152.787781 C -55.725906,-49.021767 -132.455719,185.546432 -236.221741,238.159225"
+              class="id_Bible id_Birkat_Asher" stroke-opacity="1.0"
+              stroke="#9f6cce"/>
+        <path fill="none" stroke-width="1.4624628"
+              d="M -108.338699,-152.787781 C -65.360703,-121.546852 -47.755100,-10.218480 -78.996025,32.759518"
+              class="id_Bible id_Chaim_Tyrer_of_Tchernovitz"
+              stroke-opacity="1.0" stroke="#9b72cc"/>
+        <path fill="none" stroke-width="1.0948406"
+              d="M -108.338699,-152.787781 C -232.472992,-183.781586 -372.183716,-416.473785 -341.189911,-540.608093"
+              class="id_Bible id_Chizkuni" stroke-opacity="1.0" stroke="#3ed3d3"/>
+        <path fill="none" stroke-width="0.11842298"
+              d="M -108.338699,-152.787781 C -76.842438,3.918415 -264.657349,286.222107 -421.363556,317.718353"
+              class="id_Bible id_David_Solomon_Eibeschutz" stroke-opacity="1.0"
+              stroke="#a268d0"/>
+        <path fill="none" stroke-width="1.5219188"
+              d="M -108.338699,-152.787781 C -161.993637,-252.440277 -92.997314,-482.401398 6.655179,-536.056335"
+              class="id_Bible id_Ein_Yaakov_(Glick_Edition)"
+              stroke-opacity="1.0" stroke="#36d8d8"/>
+        <path fill="none" stroke-width="3.12723"
+              d="M -108.338699,-152.787781 C -1.841270,-127.057808 119.309898,71.283302 93.579926,177.780731"
+              class="id_Bible id_Isaac_ben_Moses_Arama" stroke-opacity="1.0"
+              stroke="#9b72cc"/>
+        <path fill="none" stroke-width="0.28255492"
+              d="M -108.338699,-152.787781 C -171.300323,-298.460571 -47.233543,-611.412231 98.439270,-674.373840"
+              class="id_Bible id_J._David_Bleich" stroke-opacity="1.0"
+              stroke="#36d8d8"/>
+        <path fill="none" stroke-width="1.1048895"
+              d="M -108.338699,-152.787781 C -9.279381,-32.017254 -41.846184,297.727448 -162.616714,396.786774"
+              class="id_Bible id_Joshua_Kulp" stroke-opacity="1.0"
+              stroke="#9778c9"/>
+        <path fill="none" stroke-width="0.18206598"
+              d="M -108.338699,-152.787781 C -189.930801,-140.518646 -330.722687,-244.503098 -342.991821,-326.095215"
+              class="id_Bible id_Moshe_Chaim_Luzzatto" stroke-opacity="1.0"
+              stroke="#2ae0e0"/>
+        <path fill="none" stroke-width="0.8653909"
+              d="M -108.338699,-152.787781 C -227.138336,-129.872528 -439.710663,-273.699158 -462.625916,-392.498810"
+              class="id_Bible id_Ovadiah_Bartenura" stroke-opacity="1.0"
+              stroke="#36d8d8"/>
+        <path fill="none" stroke-width="0.32777497"
+              d="M -108.338699,-152.787781 C -96.267952,-23.132313 -272.645050,189.456940 -402.300507,201.527695"
+              class="id_Bible id_Yaakov_Tzvi_Mecklenburg" stroke-opacity="1.0"
+              stroke="#a268d0"/>
+        <path fill="none" stroke-width="0.455061"
+              d="M -82.403999,602.252075 C -232.632233,653.353699 -534.627075,504.663818 -585.728699,354.435577"
+              class="id_Talmud id_Bachya_ben_Asher" stroke-opacity="1.0"
+              stroke="#f01274"/>
+        <path fill="none" stroke-width="3.5467713"
+              d="M -82.403999,602.252075 C -152.428497,543.835144 -169.839859,351.172974 -111.422928,281.148499"
+              class="id_Talmud id_Barukh_HaLevi_Epstein" stroke-opacity="1.0"
+              stroke="#ee1473"/>
+        <path fill="none" stroke-width="0.13600855"
+              d="M -82.403999,602.252075 C -185.986115,560.197083 -278.276764,341.741333 -236.221741,238.159225"
+              class="id_Talmud id_Birkat_Asher" stroke-opacity="1.0"
+              stroke="#f01274"/>
+        <path fill="none" stroke-width="1.1852807"
+              d="M -82.403999,602.252075 C -195.620911,487.671997 -193.576141,145.976440 -78.996025,32.759518"
+              class="id_Talmud id_Chaim_Tyrer_of_Tchernovitz"
+              stroke-opacity="1.0" stroke="#ec1872"/>
+        <path fill="none" stroke-width="0.4023043"
+              d="M -82.403999,602.252075 C -158.948624,580.441345 -241.049469,432.908264 -219.238724,356.363647"
+              class="id_Talmud id_Chaim_ibn_Attar" stroke-opacity="1.0"
+              stroke="#e81e6f"/>
+        <path fill="none" stroke-width="0.40900356"
+              d="M -82.403999,602.252075 C -207.102661,613.137268 -410.478394,442.416992 -421.363556,317.718353"
+              class="id_Talmud id_David_Solomon_Eibeschutz" stroke-opacity="1.0"
+              stroke="#f30e76"/>
+        <path fill="none" stroke-width="1.0923284"
+              d="M -82.403999,602.252075 C -132.101486,482.161011 -26.511127,227.478210 93.579926,177.780731"
+              class="id_Talmud id_Isaac_ben_Moses_Arama" stroke-opacity="1.0"
+              stroke="#ec1872"/>
+        <path fill="none" stroke-width="2.3953352"
+              d="M -82.403999,602.252075 C -108.953964,472.199860 46.299385,237.296570 176.351608,210.746613"
+              class="id_Talmud id_Isaiah_HaLevi_Horovitz" stroke-opacity="1.0"
+              stroke="#f01274"/>
+        <path fill="none" stroke-width="0.1829034"
+              d="M -82.403999,602.252075 C 46.343666,598.980225 244.372894,787.194031 247.644714,915.941711"
+              class="id_Talmud id_Israel_Lifschitz" stroke-opacity="1.0"
+              stroke="#e32525"/>
+        <path fill="none" stroke-width="12.841163"
+              d="M -82.403999,602.252075 C -43.913078,420.641266 286.239563,205.961395 467.850372,244.452332"
+              class="id_Talmud id_Jacob_ben_Asher" stroke-opacity="1.0"
+              stroke="#f01274"/>
+        <path fill="none" stroke-width="3.8365145"
+              d="M -82.403999,602.252075 C -139.539612,577.201538 -187.667236,453.922363 -162.616714,396.786774"
+              class="id_Talmud id_Joshua_Kulp" stroke-opacity="1.0"
+              stroke="#e81e6f"/>
+        <path fill="none" stroke-width="0.23398528"
+              d="M -82.403999,602.252075 C -279.760742,586.841125 -552.679443,267.689606 -537.268494,70.332878"
+              class="id_Talmud id_Judah_David_Eisenstein" stroke-opacity="1.0"
+              stroke="#ee1473"/>
+        <path fill="none" stroke-width="1.3628112"
+              d="M -82.403999,602.252075 C 37.899948,539.447144 312.563354,625.695618 375.368286,745.999573"
+              class="id_Talmud id_Kollel_Eretz_Chemda" stroke-opacity="1.0"
+              stroke="#dc3131"/>
+        <path fill="none" stroke-width="0.47264653"
+              d="M -82.403999,602.252075 C -116.720184,451.292511 58.244873,173.378845 209.204453,139.062668"
+              class="id_Talmud id_Maharal" stroke-opacity="1.0" stroke="#f30d76"/>
+        <path fill="none" stroke-width="0.39141798"
+              d="M -82.403999,602.252075 C -212.127182,663.777954 -499.000793,561.482056 -560.526672,431.758820"
+              class="id_Talmud id_Malbim" stroke-opacity="1.0" stroke="#ec1872"/>
+        <path fill="none" stroke-width="9.554336"
+              d="M -82.403999,602.252075 C -55.652828,498.813751 139.631500,383.782959 243.069855,410.534119"
+              class="id_Talmud id_Moses_ben_Jacob_of_Coucy" stroke-opacity="1.0"
+              stroke="#e3266c"/>
+        <path fill="none" stroke-width="0.4977688"
+              d="M -82.403999,602.252075 C -120.366455,497.089050 -19.565647,282.400879 85.597351,244.438416"
+              class="id_Talmud id_Nachman_of_Breslov" stroke-opacity="1.0"
+              stroke="#f01274"/>
+        <path fill="none" stroke-width="15.0"
+              d="M -82.403999,602.252075 C 26.412586,370.416443 537.390930,185.887833 769.226563,294.704407"
+              class="id_Talmud id_Rambam" stroke-opacity="1.0" stroke="#ec1872"/>
+        <path fill="none" stroke-width="0.41988984"
+              d="M -82.403999,602.252075 C -286.781921,664.707275 -687.031616,451.823120 -749.486816,247.445175"
+              class="id_Talmud id_Ramban" stroke-opacity="1.0" stroke="#e81e6f"/>
+        <path fill="none" stroke-width="4.7509637"
+              d="M -82.403999,602.252075 C -134.143082,540.273132 -118.783203,369.695984 -56.804203,317.956909"
+              class="id_Talmud id_Rashba" stroke-opacity="1.0" stroke="#f01274"/>
+        <path fill="none" stroke-width="3.7938066"
+              d="M -82.403999,602.252075 C -345.501801,677.335449 -852.773560,395.313782 -927.856873,132.215958"
+              class="id_Talmud id_Rashi" stroke-opacity="1.0" stroke="#dc3168"/>
+        <path fill="none" stroke-width="1.5319676"
+              d="M -82.403999,602.252075 C -75.645081,719.007080 -240.639145,904.277893 -357.394104,911.036804"
+              class="id_Talmud id_Rosh" stroke-opacity="1.0" stroke="#e32525"/>
+        <path fill="none" stroke-width="1.8870286"
+              d="M -82.403999,602.252075 C -144.009537,731.963135 -430.984467,834.121338 -560.695496,772.515808"
+              class="id_Talmud id_Shimon_ben_Tzemach_Duran" stroke-opacity="1.0"
+              stroke="#e32525"/>
+        <path fill="none" stroke-width="0.44249985"
+              d="M -82.403999,602.252075 C -49.435646,705.959717 -155.544586,910.973694 -259.252228,943.942078"
+              class="id_Talmud id_Solomon_Adeni" stroke-opacity="1.0"
+              stroke="#ec1818"/>
+        <path fill="none" stroke-width="0.18206598"
+              d="M -82.403999,602.252075 C -59.106812,751.939514 -248.692169,1011.416443 -398.379608,1034.713623"
+              class="id_Talmud id_Aryeh_Leib_Heller" stroke-opacity="1.0"
+              stroke="#e81d1d"/>
+        <path fill="none" stroke-width="0.10586186"
+              d="M -82.403999,602.252075 C -19.343796,690.997192 -57.871193,918.705261 -146.616333,981.765442"
+              class="id_Talmud id_Eliezer_of_Metz" stroke-opacity="1.0"
+              stroke="#ec1818"/>
+        <path fill="none" stroke-width="0.9926769"
+              d="M -82.403999,602.252075 C -17.540482,762.412354 -160.485641,1099.948120 -320.645966,1164.811646"
+              class="id_Talmud id_Isaac_ben_Sheshet_Perfet" stroke-opacity="1.0"
+              stroke="#dc3131"/>
+        <path fill="none" stroke-width="0.30349013"
+              d="M -82.403999,602.252075 C 95.803619,620.856934 335.207764,916.075684 316.602875,1094.283325"
+              class="id_Talmud id_Jonathan_Eybeschutz" stroke-opacity="1.0"
+              stroke="#dc3131"/>
+        <path fill="none" stroke-width="0.14689484"
+              d="M -82.403999,602.252075 C 64.056046,688.096313 154.979736,1036.552856 69.135483,1183.012817"
+              class="id_Talmud id_Joseph_Colon" stroke-opacity="1.0"
+              stroke="#e81d1d"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -82.403999,602.252075 C 25.029350,633.415039 139.434998,841.309387 108.272087,948.742737"
+              class="id_Talmud id_Joshua_Falk" stroke-opacity="1.0"
+              stroke="#dc3131"/>
+        <path fill="none" stroke-width="2.097218"
+              d="M -82.403999,602.252075 C 23.000160,663.821899 88.751617,914.282898 27.181768,1019.687073"
+              class="id_Talmud id_Maharam_of_Rothenburg" stroke-opacity="1.0"
+              stroke="#ec1818"/>
+        <path fill="none" stroke-width="0.24319677"
+              d="M -82.403999,602.252075 C -30.106049,752.807251 -177.491898,1057.086914 -328.047058,1109.384888"
+              class="id_Talmud id_Meir_Abulafia" stroke-opacity="1.0"
+              stroke="#e32525"/>
+        <path fill="none" stroke-width="1.8150115"
+              d="M -82.403999,602.252075 C -74.801865,495.873199 96.169693,347.708038 202.548584,355.310181"
+              class="id_Talmud id_Moshe_Teitelbaum_of_Ujhel"
+              stroke-opacity="1.0" stroke="#ec1872"/>
+        <path fill="none" stroke-width="0.141033"
+              d="M -82.403999,602.252075 C 30.646980,727.868774 11.798416,1085.870239 -113.818283,1198.921265"
+              class="id_Talmud id_Rif" stroke-opacity="1.0" stroke="#e81d1d"/>
+        <path fill="none" stroke-width="0.504468"
+              d="M -82.403999,602.252075 C -261.992706,606.546448 -537.817200,343.604889 -542.111572,164.016174"
+              class="id_Talmud id_Samson_ben_Abraham_of_Sens"
+              stroke-opacity="1.0" stroke="#f40c76"/>
+        <path fill="none" stroke-width="0.94410723"
+              d="M -82.403999,602.252075 C -85.719788,491.909393 74.820580,321.421631 185.163284,318.105835"
+              class="id_Talmud id_Sefer_HaChinukh" stroke-opacity="1.0"
+              stroke="#ee1473"/>
+        <path fill="none" stroke-width="0.20886303"
+              d="M -82.403999,602.252075 C 57.952763,673.348083 161.843857,990.527222 90.747826,1130.884033"
+              class="id_Talmud id_Shabbatai_ben_Meir_Hakohen"
+              stroke-opacity="1.0" stroke="#e81d1d"/>
+        <path fill="none" stroke-width="0.29930308"
+              d="M -82.403999,602.252075 C 92.511505,609.263428 344.367676,882.153809 337.356293,1057.069336"
+              class="id_Talmud id_Shmuel_Navon" stroke-opacity="1.0"
+              stroke="#e32525"/>
+        <path fill="none" stroke-width="1.756393"
+              d="M -82.403999,602.252075 C -177.722473,514.557007 -189.157654,240.036774 -101.462624,144.718292"
+              class="id_Talmud id_Tosafot" stroke-opacity="1.0" stroke="#f21075"/>
+        <path fill="none" stroke-width="3.359192"
+              d="M -82.403999,602.252075 C -99.333855,777.453674 -387.530975,1014.861206 -562.732544,997.931335"
+              class="id_Talmud id_Tzadok_HaKohen_Rabinowitz"
+              stroke-opacity="1.0" stroke="#d14141"/>
+        <path fill="none" stroke-width="0.5270781"
+              d="M -82.403999,602.252075 C -117.317711,754.720947 -398.391510,931.053589 -550.860352,896.139893"
+              class="id_Talmud id_Vidal_of_Tolosa" stroke-opacity="1.0"
+              stroke="#e81d1d"/>
+        <path fill="none" stroke-width="1.2589726"
+              d="M -82.403999,602.252075 C 71.587082,560.613892 365.030914,729.143433 406.669037,883.134460"
+              class="id_Talmud id_Yerucham_Fishel_Perla" stroke-opacity="1.0"
+              stroke="#e81d1d"/>
+        <path fill="none" stroke-width="0.29930308"
+              d="M -82.403999,602.252075 C -212.123718,534.234253 -304.676636,237.627975 -236.658829,107.908241"
+              class="id_Talmud id_Yom-Tov_Lipmann_Heller" stroke-opacity="1.0"
+              stroke="#ec1872"/>
+        <path fill="none" stroke-width="0.16029337"
+              d="M -82.403999,602.252075 C -110.795792,722.206543 -333.315186,859.550598 -453.269653,831.158752"
+              class="id_Talmud id_Vilna_Gaon" stroke-opacity="1.0"
+              stroke="#e32525"/>
+        <path fill="none" stroke-width="0.414028"
+              d="M -82.403999,602.252075 C -226.528168,586.086487 -418.466064,345.651886 -402.300507,201.527695"
+              class="id_Talmud id_Yaakov_Tzvi_Mecklenburg" stroke-opacity="1.0"
+              stroke="#f30e76"/>
+        <path fill="none" stroke-width="1.4298038"
+              d="M -82.403999,602.252075 C 34.689705,568.210999 261.391907,692.789917 295.433014,809.883606"
+              class="id_Talmud id_Yechiel_Michel_Epstein" stroke-opacity="1.0"
+              stroke="#e32525"/>
+        <path fill="none" stroke-width="1.2547855"
+              d="M -82.403999,602.252075 C 3.081467,704.510742 -22.078285,986.126831 -124.336914,1071.612305"
+              class="id_Talmud id_Yoel_ben_Shmuel_Sirkes" stroke-opacity="1.0"
+              stroke="#ec1818"/>
+        <path fill="none" stroke-width="0.23984714"
+              d="M 342.099518,-96.755409 C 505.816895,-103.888863 762.093140,130.987030 769.226563,294.704407"
+              class="id_Isaac_ben_Joseph_of_Corbeil id_Rambam"
+              stroke-opacity="1.0" stroke="#c259b2"/>
+        <path fill="none" stroke-width="2.797291"
+              d="M 467.850372,244.452332 C 456.110657,322.624817 321.242310,422.273865 243.069855,410.534119"
+              class="id_Jacob_ben_Asher id_Moses_ben_Jacob_of_Coucy"
+              stroke-opacity="1.0" stroke="#e820c9"/>
+        <path fill="none" stroke-width="7.854398"
+              d="M 467.850372,244.452332 C 538.176025,194.227509 719.001709,224.378754 769.226563,294.704407"
+              class="id_Jacob_ben_Asher id_Rambam" stroke-opacity="1.0"
+              stroke="#f012ce"/>
+        <path fill="none" stroke-width="8.035278"
+              d="M 243.069855,410.534119 C 325.135254,282.136810 640.829285,212.639008 769.226563,294.704407"
+              class="id_Moses_ben_Jacob_of_Coucy id_Rambam" stroke-opacity="1.0"
+              stroke="#e326c6"/>
+        <path fill="none" stroke-width="0.69037265"
+              d="M 243.069855,410.534119 C 213.002884,403.629761 178.258942,348.172791 185.163284,318.105835"
+              class="id_Moses_ben_Jacob_of_Coucy id_Sefer_HaChinukh"
+              stroke-opacity="1.0" stroke="#e622c8"/>
+        <path fill="none" stroke-width="0.33531165"
+              d="M 769.226563,294.704407 C 640.512207,325.087616 401.865875,177.590866 371.482697,48.876514"
+              class="id_Rambam id_Saadia_Gaon" stroke-opacity="1.0"
+              stroke="#ee15cd"/>
+        <path fill="none" stroke-width="0.18876524"
+              d="M 769.226563,294.704407 C 657.094177,416.197357 306.656250,430.238190 185.163284,318.105835"
+              class="id_Rambam id_Sefer_HaChinukh" stroke-opacity="1.0"
+              stroke="#ee15cd"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#cc4bb8" r="10.0" cx="-322.97116"
+                class="id_Abarbanel" cy="434.41724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4acccc" r="10.0" cx="-108.3387"
+                class="id_Bible" cy="-152.78778" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec1818" r="10.0" cx="-82.404"
+                class="id_Talmud" cy="602.2521" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f50cd1" r="10.0" cx="-585.7287"
+                class="id_Bachya_ben_Asher" cy="354.43558" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4acccc" r="10.0" cx="215.33855"
+                class="id_Bachya_ibn_Pekuda" cy="-711.0058" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f111cf" r="10.0" cx="-111.42293"
+                class="id_Barukh_HaLevi_Epstein" cy="281.1485" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cc4bb8" r="10.0" cx="-927.8569"
+                class="id_Rashi" cy="132.21596" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4acccc" r="10.0" cx="315.51227"
+                class="id_Adin_Steinsaltz" cy="-270.5655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e524c7" r="10.0" cx="-219.23872"
+                class="id_Chaim_ibn_Attar" cy="356.36365" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4acccc" r="10.0" cx="413.51196"
+                class="id_David_Altschuler" cy="-388.34583" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="-114.851715"
+                class="id_Ernest_Klein" cy="-497.08405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="-511.39294"
+                class="id_Ibn_Ezra" cy="-241.78905" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="342.09952"
+                class="id_Isaac_ben_Joseph_of_Corbeil" cy="-96.75541"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f50cd1" r="10.0" cx="176.35161"
+                class="id_Isaiah_HaLevi_Horovitz" cy="210.74661"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bb7b7" r="10.0" cx="84.59161"
+                class="id_Israel_Meir_Kagan" cy="-759.0647" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f50cd1" r="10.0" cx="467.85037"
+                class="id_Jacob_ben_Asher" cy="244.45233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f111cf" r="10.0" cx="-537.2685"
+                class="id_Judah_David_Eisenstein" cy="70.33288" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23e5e5" r="10.0" cx="-183.03445"
+                class="id_Judah_HeHasid" cy="-574.15295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="-617.758"
+                class="id_Levi_Yitzchok_of_Berditchev" cy="-575.08496"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="-132.7119"
+                class="id_Levi_ibn_Habib" cy="-641.4568" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb03d5" r="10.0" cx="209.20445"
+                class="id_Maharal" cy="139.06267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec19cc" r="10.0" cx="-560.5267"
+                class="id_Malbim" cy="431.75882" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23e5e5" r="10.0" cx="-230.93814"
+                class="id_Meir_Simha_HaKohen_Dvinsk" cy="-461.98502"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bb7b7" r="10.0" cx="76.892075"
+                class="id_Menahem_ben_Saruq" cy="-425.07416" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4acccc" r="10.0" cx="414.6864"
+                class="id_Moses_Isserles" cy="-344.02362" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#db34c1" r="10.0" cx="243.06985"
+                class="id_Moses_ben_Jacob_of_Coucy" cy="410.53412"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec19cc" r="10.0" cx="202.54858"
+                class="id_Moshe_Teitelbaum_of_Ujhel" cy="355.31018"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f50cd1" r="10.0" cx="85.59735"
+                class="id_Nachman_of_Breslov" cy="244.43842" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23e5e5" r="10.0" cx="-682.09644"
+                class="id_Nathan_Nota_Spira" cy="-471.23944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="263.551"
+                class="id_Nathan_Sternhartz" cy="-611.7403" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="-654.7532"
+                class="id_Philo_of_Alexandria" cy="-289.31998" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23e5e5" r="10.0" cx="-485.7853"
+                class="id_Radak" cy="-508.1449" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec19cc" r="10.0" cx="769.22656"
+                class="id_Rambam" cy="294.7044" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e524c7" r="10.0" cx="-749.4868"
+                class="id_Ramban" cy="247.44518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f50cd1" r="10.0" cx="-56.804203"
+                class="id_Rashba" cy="317.9569" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4acccc" r="10.0" cx="346.00198"
+                class="id_Rashbam" cy="-512.11426" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bb7b7" r="10.0" cx="-658.2073"
+                class="id_Recanati" cy="-188.5546" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f111cf" r="10.0" cx="371.4827"
+                class="id_Saadia_Gaon" cy="48.876514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc01d5" r="10.0" cx="-542.1116"
+                class="id_Samson_ben_Abraham_of_Sens" cy="164.01617"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f111cf" r="10.0" cx="185.16328"
+                class="id_Sefer_HaChinukh" cy="318.10583" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="166.55511"
+                class="id_Sforno" cy="-578.8823" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4acccc" r="10.0" cx="-553.2014"
+                class="id_Shabbetai_ben_Joseph_Bass" cy="-125.93782"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bb7b7" r="10.0" cx="-151.57123"
+                class="id_Shadal" cy="-791.96497" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="-430.07004"
+                class="id_Shlomo_Ephraim_ben_Aaron_Luntschitz" cy="-699.0141"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23e5e5" r="10.0" cx="-387.68582"
+                class="id_Shmuel_Bornsztain_of_Sochatchov" cy="-608.4619"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="-637.0835"
+                class="id_Steinsaltz" cy="-359.66785" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4acccc" r="10.0" cx="-226.3019"
+                class="id_Tikkunei_Zohar" cy="-736.4334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f808d3" r="10.0" cx="-101.46262"
+                class="id_Tosafot" cy="144.71829" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cc4a4a" r="10.0" cx="726.52826"
+                class="id_0" cy="606.54285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec19cc" r="10.0" cx="-236.65883"
+                class="id_Yom-Tov_Lipmann_Heller" cy="107.90824"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6bb7b7" r="10.0" cx="414.08304"
+                class="id_Yosef_Giqatillah" cy="-216.71504" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4acccc" r="10.0" cx="214.44058"
+                class="id_Zohar" cy="-330.39453" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="235.06174"
+                class="id_Zohar_Chadash" cy="-474.27893" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f50cd1" r="10.0" cx="-236.22174"
+                class="id_Birkat_Asher" cy="238.15923" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec19cc" r="10.0" cx="-78.996025"
+                class="id_Chaim_Tyrer_of_Tchernovitz" cy="32.759518"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#33dbdb" r="10.0" cx="-341.1899"
+                class="id_Chizkuni" cy="-540.6081" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa05d4" r="10.0" cx="-421.36356"
+                class="id_David_Solomon_Eibeschutz" cy="317.71835"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23e5e5" r="10.0" cx="6.655179"
+                class="id_Ein_Yaakov_(Glick_Edition)" cy="-536.05634"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec19cc" r="10.0" cx="93.579926"
+                class="id_Isaac_ben_Moses_Arama" cy="177.78073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#db3333" r="10.0" cx="247.64471"
+                class="id_Israel_Lifschitz" cy="915.9417" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23e5e5" r="10.0" cx="98.43927"
+                class="id_J._David_Bleich" cy="-674.37384" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e524c7" r="10.0" cx="-162.61671"
+                class="id_Joshua_Kulp" cy="396.78677" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cc4a4a" r="10.0" cx="375.3683"
+                class="id_Kollel_Eretz_Chemda" cy="745.9996" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0bf4f5" r="10.0" cx="-342.99182"
+                class="id_Moshe_Chaim_Luzzatto" cy="-326.0952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#23e5e5" r="10.0" cx="-462.62592"
+                class="id_Ovadiah_Bartenura" cy="-392.4988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#db3333" r="10.0" cx="-357.3941"
+                class="id_Rosh" cy="911.0368" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#db3333" r="10.0" cx="-560.6955"
+                class="id_Shimon_ben_Tzemach_Duran" cy="772.5158"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec1818" r="10.0" cx="-259.25223"
+                class="id_Solomon_Adeni" cy="943.9421" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e52323" r="10.0" cx="-398.3796"
+                class="id_Aryeh_Leib_Heller" cy="1034.7136" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec1818" r="10.0" cx="-146.61633"
+                class="id_Eliezer_of_Metz" cy="981.76544" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cc4a4a" r="10.0" cx="-320.64597"
+                class="id_Isaac_ben_Sheshet_Perfet" cy="1164.8116"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cc4a4a" r="10.0" cx="316.60287"
+                class="id_Jonathan_Eybeschutz" cy="1094.2833" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e52323" r="10.0" cx="69.13548"
+                class="id_Joseph_Colon" cy="1183.0128" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cc4a4a" r="10.0" cx="108.27209"
+                class="id_Joshua_Falk" cy="948.74274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec1818" r="10.0" cx="27.181768"
+                class="id_Maharam_of_Rothenburg" cy="1019.6871" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#db3333" r="10.0" cx="-328.04706"
+                class="id_Meir_Abulafia" cy="1109.3849" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e52323" r="10.0" cx="-113.81828"
+                class="id_Rif" cy="1198.9213" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e52323" r="10.0" cx="90.747826"
+                class="id_Shabbatai_ben_Meir_Hakohen" cy="1130.884"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#db3333" r="10.0" cx="337.3563"
+                class="id_Shmuel_Navon" cy="1057.0693" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b76b6b" r="10.0" cx="-562.73254"
+                class="id_Tzadok_HaKohen_Rabinowitz" cy="997.93134"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e52323" r="10.0" cx="-550.86035"
+                class="id_Vidal_of_Tolosa" cy="896.1399" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e52323" r="10.0" cx="406.66904"
+                class="id_Yerucham_Fishel_Perla" cy="883.13446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#db3333" r="10.0" cx="-453.26965"
+                class="id_Vilna_Gaon" cy="831.15875" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa05d4" r="10.0" cx="-402.3005"
+                class="id_Yaakov_Tzvi_Mecklenburg" cy="201.5277"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#db3333" r="10.0" cx="295.433"
+                class="id_Yechiel_Michel_Epstein" cy="809.8836" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec1818" r="10.0" cx="-124.336914"
+                class="id_Yoel_ben_Shmuel_Sirkes" cy="1071.6123"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-322.97116" y="438.78247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Abarbanel">
+            Abarbanel
+        </text>
+        <text font-size="96" x="-108.3387" y="-135.32684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bible">
+            Bible
+        </text>
+        <text font-size="96" x="-82.404" y="619.713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Talmud">
+            Talmud
+        </text>
+        <text font-size="24" x="-585.7287" y="359.99417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bachya_ben_Asher">
+            Bachya ben Asher
+        </text>
+        <text font-size="24" x="215.33855" y="-705.4472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bachya_ibn_Pekuda">
+            Bachya ibn Pekuda
+        </text>
+        <text font-size="24" x="-111.42293" y="286.63678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Barukh_HaLevi_Epstein">
+            Barukh HaLevi Epstein
+        </text>
+        <text font-size="48" x="-927.8569" y="140.94643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rashi">
+            Rashi
+        </text>
+        <text font-size="24" x="315.51227" y="-266.12213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Adin_Steinsaltz">
+            Adin Steinsaltz
+        </text>
+        <text font-size="24" x="-219.23872" y="360.807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chaim_ibn_Attar">
+            Chaim ibn Attar
+        </text>
+        <text font-size="24" x="413.51196" y="-383.9806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_David_Altschuler">
+            David Altschuler
+        </text>
+        <text font-size="24" x="-114.851715" y="-492.7188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ernest_Klein">
+            Ernest Klein
+        </text>
+        <text font-size="24" x="-511.39294" y="-237.42381" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ibn_Ezra">
+            Ibn Ezra
+        </text>
+        <text font-size="24" x="342.09952" y="-91.19291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Isaac_ben_Joseph_of_Corbeil">
+            Isaac ben Joseph of Corbeil
+        </text>
+        <text font-size="24" x="176.35161" y="215.11185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Isaiah_HaLevi_Horovitz">
+            Isaiah HaLevi Horovitz
+        </text>
+        <text font-size="24" x="84.59161" y="-753.5061" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Israel_Meir_Kagan">
+            Israel Meir Kagan
+        </text>
+        <text font-size="24" x="467.85037" y="248.82147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jacob_ben_Asher">
+            Jacob ben Asher
+        </text>
+        <text font-size="24" x="-537.2685" y="74.70202" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Judah_David_Eisenstein">
+            Judah David Eisenstein
+        </text>
+        <text font-size="24" x="-183.03445" y="-569.7838" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Judah_HeHasid">
+            Judah HeHasid
+        </text>
+        <text font-size="24" x="-617.758" y="-570.6455" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Levi_Yitzchok_of_Berditchev">
+            Levi Yitzchok of Berditchev
+        </text>
+        <text font-size="24" x="-132.7119" y="-637.09155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Levi_ibn_Habib">
+            Levi ibn Habib
+        </text>
+        <text font-size="24" x="209.20445" y="143.4279" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Maharal">
+            Maharal
+        </text>
+        <text font-size="24" x="-560.5267" y="436.12405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Malbim">
+            Malbim
+        </text>
+        <text font-size="24" x="-230.93814" y="-457.54166" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Meir_Simha_HaKohen_Dvinsk">
+            Meir Simha HaKohen Dvinsk
+        </text>
+        <text font-size="24" x="76.892075" y="-419.51166" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Menahem_ben_Saruq">
+            Menahem ben Saruq
+        </text>
+        <text font-size="24" x="414.6864" y="-339.6584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moses_Isserles">
+            Moses Isserles
+        </text>
+        <text font-size="24" x="243.06985" y="416.16693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moses_ben_Jacob_of_Coucy">
+            Moses ben Jacob of Coucy
+        </text>
+        <text font-size="24" x="202.54858" y="360.943" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moshe_Teitelbaum_of_Ujhel">
+            Moshe Teitelbaum of Ujhel
+        </text>
+        <text font-size="24" x="85.59735" y="248.87787" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nachman_of_Breslov">
+            Nachman of Breslov
+        </text>
+        <text font-size="24" x="-682.09644" y="-465.67694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nathan_Nota_Spira">
+            Nathan Nota Spira
+        </text>
+        <text font-size="24" x="263.551" y="-607.29694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nathan_Sternhartz">
+            Nathan Sternhartz
+        </text>
+        <text font-size="24" x="-654.7532" y="-284.88052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Philo_of_Alexandria">
+            Philo of Alexandria
+        </text>
+        <text font-size="24" x="-485.7853" y="-503.77966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Radak">
+            Radak
+        </text>
+        <text font-size="48" x="769.22656" y="303.43488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rambam">
+            Rambam
+        </text>
+        <text font-size="48" x="-749.4868" y="256.17566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ramban">
+            Ramban
+        </text>
+        <text font-size="24" x="-56.804203" y="322.32214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rashba">
+            Rashba
+        </text>
+        <text font-size="24" x="346.00198" y="-507.74902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rashbam">
+            Rashbam
+        </text>
+        <text font-size="24" x="-658.2073" y="-184.18936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Recanati">
+            Recanati
+        </text>
+        <text font-size="24" x="371.4827" y="53.319874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Saadia_Gaon">
+            Saadia Gaon
+        </text>
+        <text font-size="24" x="-542.1116" y="168.45953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Samson_ben_Abraham_of_Sens">
+            Samson ben Abraham of Sens
+        </text>
+        <text font-size="24" x="185.16328" y="322.5492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sefer_HaChinukh">
+            Sefer HaChinukh
+        </text>
+        <text font-size="24" x="166.55511" y="-574.43896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sforno">
+            Sforno
+        </text>
+        <text font-size="24" x="-553.2014" y="-120.37532" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shabbetai_ben_Joseph_Bass">
+            Shabbetai ben Joseph Bass
+        </text>
+        <text font-size="24" x="-151.57123" y="-787.5216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shadal">
+            Shadal
+        </text>
+        <text font-size="24" x="-430.07004" y="-693.4516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shlomo_Ephraim_ben_Aaron_Luntschitz">
+            Shlomo Ephraim ben Aaron Luntschitz
+        </text>
+        <text font-size="24" x="-387.68582" y="-604.01855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shmuel_Bornsztain_of_Sochatchov">
+            Shmuel Bornsztain of Sochatchov
+        </text>
+        <text font-size="24" x="-637.0835" y="-355.2245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Steinsaltz">
+            Steinsaltz
+        </text>
+        <text font-size="24" x="-226.3019" y="-732.0682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tikkunei_Zohar">
+            Tikkunei Zohar
+        </text>
+        <text font-size="24" x="-101.46262" y="149.15775" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tosafot">
+            Tosafot
+        </text>
+        <text font-size="24" x="726.52826" y="612.0311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_0">
+            Joseph Karo
+        </text>
+        <text font-size="24" x="-236.65883" y="113.39652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yom-Tov_Lipmann_Heller">
+            Yom-Tov Lipmann Heller
+        </text>
+        <text font-size="24" x="414.08304" y="-211.15254" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yosef_Giqatillah">
+            Yosef Giqatillah
+        </text>
+        <text font-size="24" x="214.44058" y="-326.0293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zohar">
+            Zohar
+        </text>
+        <text font-size="24" x="235.06174" y="-469.83557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zohar_Chadash">
+            Zohar Chadash
+        </text>
+        <text font-size="24" x="-236.22174" y="242.52446" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Birkat_Asher">
+            Birkat Asher
+        </text>
+        <text font-size="24" x="-78.996025" y="38.39233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chaim_Tyrer_of_Tchernovitz">
+            Chaim Tyrer of Tchernovitz
+        </text>
+        <text font-size="24" x="-341.1899" y="-536.16473" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chizkuni">
+            Chizkuni
+        </text>
+        <text font-size="24" x="-421.36356" y="322.1617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_David_Solomon_Eibeschutz">
+            David Solomon Eibeschutz
+        </text>
+        <text font-size="24" x="6.655179" y="-530.4235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ein_Yaakov_(Glick_Edition)">
+            Ein Yaakov (Glick Edition)
+        </text>
+        <text font-size="24" x="93.579926" y="182.14597" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Isaac_ben_Moses_Arama">
+            Isaac ben Moses Arama
+        </text>
+        <text font-size="24" x="247.64471" y="920.38116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Israel_Lifschitz">
+            Israel Lifschitz
+        </text>
+        <text font-size="24" x="98.43927" y="-670.0047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_J._David_Bleich">
+            J. David Bleich
+        </text>
+        <text font-size="24" x="-162.61671" y="402.27505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Joshua_Kulp">
+            Joshua Kulp
+        </text>
+        <text font-size="24" x="375.3683" y="750.44293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kollel_Eretz_Chemda">
+            Kollel Eretz Chemda
+        </text>
+        <text font-size="24" x="-342.99182" y="-321.65186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moshe_Chaim_Luzzatto">
+            Moshe Chaim Luzzatto
+        </text>
+        <text font-size="24" x="-462.62592" y="-388.0535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ovadiah_Bartenura">
+            Ovadiah Bartenura
+        </text>
+        <text font-size="24" x="-357.3941" y="915.40204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rosh">
+            Rosh
+        </text>
+        <text font-size="24" x="-560.6955" y="776.95917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shimon_ben_Tzemach_Duran">
+            Shimon ben Tzemach Duran
+        </text>
+        <text font-size="24" x="-259.25223" y="948.38544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Solomon_Adeni">
+            Solomon Adeni
+        </text>
+        <text font-size="24" x="-398.3796" y="1040.2722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Aryeh_Leib_Heller">
+            Aryeh Leib Heller
+        </text>
+        <text font-size="24" x="-146.61633" y="986.2049" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Eliezer_of_Metz">
+            Eliezer of Metz
+        </text>
+        <text font-size="24" x="-320.64597" y="1169.255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Isaac_ben_Sheshet_Perfet">
+            Isaac ben Sheshet Perfet
+        </text>
+        <text font-size="24" x="316.60287" y="1099.8419" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jonathan_Eybeschutz">
+            Jonathan Eybeschutz
+        </text>
+        <text font-size="24" x="69.13548" y="1188.5753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Joseph_Colon">
+            Joseph Colon
+        </text>
+        <text font-size="24" x="108.27209" y="953.1119" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Joshua_Falk">
+            Joshua Falk
+        </text>
+        <text font-size="24" x="27.181768" y="1025.3198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Maharam_of_Rothenburg">
+            Maharam of Rothenburg
+        </text>
+        <text font-size="24" x="-328.04706" y="1113.8243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Meir_Abulafia">
+            Meir Abulafia
+        </text>
+        <text font-size="24" x="-113.81828" y="1203.2904" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rif">
+            Rif
+        </text>
+        <text font-size="24" x="90.747826" y="1135.3274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shabbatai_ben_Meir_Hakohen">
+            Shabbatai ben Meir Hakohen
+        </text>
+        <text font-size="24" x="337.3563" y="1061.5127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Shmuel_Navon">
+            Shmuel Navon
+        </text>
+        <text font-size="24" x="-562.73254" y="1002.2966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tzadok_HaKohen_Rabinowitz">
+            Tzadok HaKohen Rabinowitz
+        </text>
+        <text font-size="24" x="-550.86035" y="900.57935" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vidal_of_Tolosa">
+            Vidal of Tolosa
+        </text>
+        <text font-size="24" x="406.66904" y="887.4997" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yerucham_Fishel_Perla">
+            Yerucham Fishel Perla
+        </text>
+        <text font-size="24" x="-453.26965" y="835.6021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vilna_Gaon">
+            Vilna Gaon
+        </text>
+        <text font-size="24" x="-402.3005" y="207.08629" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yaakov_Tzvi_Mecklenburg">
+            Yaakov Tzvi Mecklenburg
+        </text>
+        <text font-size="24" x="295.433" y="815.3719" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yechiel_Michel_Epstein">
+            Yechiel Michel Epstein
+        </text>
+        <text font-size="24" x="-124.336914" y="1076.0557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yoel_ben_Shmuel_Sirkes">
+            Yoel ben Shmuel Sirkes
+        </text>
+    </g>
+</svg>

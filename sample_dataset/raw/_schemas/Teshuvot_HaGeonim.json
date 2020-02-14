@@ -1,0 +1,60 @@
+{
+    "heCategories": [
+        "שו\"ת"
+    ], 
+    "pubDate": "1648", 
+    "title": "Teshuvot HaGeonim", 
+    "compPlace": "Ottoman Palestine", 
+    "heTitleVariants": [
+        "תשובות הגאונים"
+    ], 
+    "depth": 2, 
+    "compPlaceString": {
+        "en": "Ottoman Palestine", 
+        "he": "פלשתינה העותמאנית"
+    }, 
+    "heTitle": "תשובות הגאונים", 
+    "era": "GN", 
+    "authors": [], 
+    "titleVariants": [
+        "Teshuvot HaGeonim"
+    ], 
+    "sectionNames": [
+        "Teshuva", 
+        "Paragraph"
+    ], 
+    "categories": [
+        "Responsa"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Teshuvot HaGeonim", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "תשובות הגאונים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תשובות הגאונים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Teshuvot HaGeonim", 
+                "primary": true
+            }
+        ], 
+        "key": "Teshuvot HaGeonim", 
+        "heSectionNames": [
+            "", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Teshuva", 
+            "Paragraph"
+        ]
+    }
+}

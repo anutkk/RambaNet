@@ -1,0 +1,130 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Tamid", 
+            "he": "תמיד"
+        }
+    ], 
+    "pubPlace": "", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "מפרש על תמיד", 
+        "מפורש על תמיד", 
+        "המפרש על תמיד"
+    ], 
+    "heTitle": "מפרש על תמיד", 
+    "errorMargin": "", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "מפרש", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "", 
+    "title": "Mefaresh on Tamid", 
+    "compDate": "", 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Mefaresh on Tamid", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "מפרש על תמיד", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mefaresh on Tractate Tamid"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mefaresh on Talmud Tamid"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mefaresh on Masekhet Tamid"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Meforash on Tractate Tamid"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Meforash on Talmud Tamid"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Meforash on Masekhet Tamid"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Meforash on Tamid"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מפרש על תמיד", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "מפורש על תמיד"
+            }, 
+            {
+                "lang": "he", 
+                "text": "המפרש על תמיד"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mefaresh on Tamid", 
+                "primary": true
+            }
+        ], 
+        "key": "Mefaresh on Tamid", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "An anoymous commentary on Tractate Tamid printed in the Vilna edition in place of Rashi.", 
+    "heDesc": "פירוש למסכת תמיד שנדפס בדפוס וילנא במקום רש\"י.", 
+    "authors": [], 
+    "titleVariants": [
+        "Mefaresh on Tractate Tamid", 
+        "Mefaresh on Talmud Tamid", 
+        "Mefaresh on Masekhet Tamid", 
+        "Meforash on Tractate Tamid", 
+        "Meforash on Talmud Tamid", 
+        "Meforash on Masekhet Tamid", 
+        "Meforash on Tamid", 
+        "Mefaresh on Tamid"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Mefaresh", 
+        "Seder Kodashim"
+    ], 
+    "collective_title": {
+        "en": "Mefaresh", 
+        "he": "מפרש"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

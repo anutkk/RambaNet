@@ -1,0 +1,87 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Section"
+    ], 
+    "heCategories": [
+        "מדרש", 
+        "מדרש אגדה"
+    ], 
+    "title": "Pesikta Rabbati", 
+    "compDate": "750", 
+    "compPlace": "Talmudic Israel", 
+    "heTitleVariants": [
+        "פסיקתא רבתי", 
+        "פסי\"ר"
+    ], 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (c.600  - c.900 CE)", 
+        "he": " (600 - 900 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "heTitle": "פסיקתא רבתי", 
+    "authors": [], 
+    "titleVariants": [
+        "Pesik. R.", 
+        "P’siḳta Rabbathi", 
+        "Pesiḳta Rabbathi", 
+        "Pesikta Rabbati"
+    ], 
+    "errorMargin": "150", 
+    "categories": [
+        "Midrash", 
+        "Aggadic Midrash"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Pesikta Rabbati", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "פסיקתא רבתי", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Pesik. R."
+            }, 
+            {
+                "lang": "en", 
+                "text": "P’siḳta Rabbathi"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Pesiḳta Rabbathi"
+            }, 
+            {
+                "lang": "he", 
+                "text": "פסיקתא רבתי", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "פסי\"ר"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Pesikta Rabbati", 
+                "primary": true
+            }
+        ], 
+        "key": "Pesikta Rabbati", 
+        "heSectionNames": [
+            "פרק", 
+            "חלק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Section"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Avot D'Rabbi Natan", 
+            "he": "אבות דרבי נתן"
+        }
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "מפרשים", 
+        "תומת ישרים", 
+        "מסכתות קטנות"
+    ], 
+    "title": "Tumat Yesharim on Avot D'Rabbi Natan", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Tumat Yesharim", 
+        "he": "תומת ישרים"
+    }, 
+    "heTitleVariants": [
+        "תומת ישרים על אבות דרבי נתן"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "תומת ישרים על אבות דרבי נתן", 
+    "titleVariants": [
+        "Tumat Yesharim on Avot D'Rabbi Natan"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah", 
+        "Comment"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Commentary", 
+        "Tumat Yesharim", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Tumat Yesharim on Avot D'Rabbi Natan", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah", 
+            "Integer"
+        ], 
+        "heTitle": "תומת ישרים על אבות דרבי נתן", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תומת ישרים על אבות דרבי נתן", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tumat Yesharim on Avot D'Rabbi Natan", 
+                "primary": true
+            }
+        ], 
+        "key": "Tumat Yesharim on Avot D'Rabbi Natan", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah", 
+            "Comment"
+        ]
+    }
+}

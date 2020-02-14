@@ -1,0 +1,86 @@
+{
+    "depth": 2, 
+    "heTitleVariants": [
+        "רי\"ף יבמות"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Yevamot", 
+            "he": "יבמות"
+        }
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רי\"ף", 
+        "סדר נשים"
+    ], 
+    "title": "Rif Yevamot", 
+    "base_text_mapping": null, 
+    "compPlace": "Fes, Morocco", 
+    "enDesc": "Hilchot HaRif or Sefer HaHalachot, written by Isaac ben Jacob Alfasi ha-Cohen (1013–1103) compiles the legal decisions from the tractates of the Talmud relating to halakha that was practiced in his day. The Rif recorded the halakhic rulings without the discussions surrounding them. He also excluded all non-halakhic material. The Rif became the basis of many later works. ", 
+    "dependence": "Commentary", 
+    "compPlaceString": {
+        "en": "Fes, Morocco", 
+        "he": "פס, מרוקו"
+    }, 
+    "heDesc": "הלכות הריף או \"ספר ההלכות\", שנכתב על ידי יצחק בן יעקב אלפסי הכהן (1013-1103), מסכם את ההכרעות הנוגעות להלכה במסכתות התלמוד ללא הדיונים ומשא ומתן הארוך. ", 
+    "heTitle": "רי\"ף יבמות", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rif", 
+            "he": "רי\"ף"
+        }
+    ], 
+    "titleVariants": [
+        "Rif Yevamot"
+    ], 
+    "collective_title": {
+        "en": "Rif", 
+        "he": "רי\"ף"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rif", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rif Yevamot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "רי\"ף יבמות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "רי\"ף יבמות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rif Yevamot", 
+                "primary": true
+            }
+        ], 
+        "key": "Rif Yevamot", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }
+}

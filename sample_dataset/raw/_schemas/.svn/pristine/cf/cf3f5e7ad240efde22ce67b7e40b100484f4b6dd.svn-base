@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Beitzah", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Bezah (Eggs) belongs to the second order, Moed (Festivals) and discusses the rules to be observed on Festivals. It has five chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה ביצה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה ביצה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Mishna Beitzah", 
+        "M. Beitzah", 
+        "M Beitzah", 
+        "Mishnah Bets.", 
+        "Mishnah Betsah", 
+        "Mishnah Beitzah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        18, 
+        7
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            5, 
+            42
+        ], 
+        "title": "Mishnah Beitzah", 
+        "heTitle": "משנה ביצה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishna Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Beitzah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה ביצה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Bets."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Betsah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Beitzah", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Beitzah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

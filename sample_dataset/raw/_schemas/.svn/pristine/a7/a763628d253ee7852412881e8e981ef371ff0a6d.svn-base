@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Bava Metzia", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Bava Meziah (Middle Gate) belongs to the fourth order, Nezikin (The Order of Damages) and discusses the civil matters, largely torts and property law. It has ten chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה בבא מציעא"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה בבא מציעא", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Mishna Bava Metzia", 
+        "M. Bava Metzia", 
+        "M Bava Metzia", 
+        "Mishnah B. Mets.", 
+        "Mishnah Baba M’tsiʿa", 
+        "Mishnah Bava Metzia"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        32, 
+        2
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            10, 
+            101
+        ], 
+        "title": "Mishnah Bava Metzia", 
+        "heTitle": "משנה בבא מציעא", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishna Bava Metzia"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Bava Metzia"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Bava Metzia"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה בבא מציעא", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah B. Mets."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Baba M’tsiʿa"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Bava Metzia", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Bava Metzia", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

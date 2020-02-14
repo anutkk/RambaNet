@@ -1,0 +1,100 @@
+{
+    "heTitleVariants": [
+        "שו\"ת מהרי\"ל"
+    ], 
+    "heCategories": [
+        "שו\"ת"
+    ], 
+    "pubDate": "1549", 
+    "title": "Teshuvot Maharil", 
+    "compDate": "1405", 
+    "pubPlace": "Venice", 
+    "enDesc": "Responsa of Rabbi Yaakov HaLevi Moelin (Maharil), one of the major transmitters of the halakhic traditions and customs of Ashkenazic Jewry.", 
+    "compDateString": {
+        "en": " (c.1385  - c.1425 CE)", 
+        "he": " (1385 - 1425 לספירה בקירוב)"
+    }, 
+    "heDesc": "חלק מתשובותיו של מהרי\"ל, שראו אור לראשונה בוינציה בשנת שט\"ז. תשובות נוספות נדפסו לאחרונה תחת השם \"שו\"ת מהרי\"ל החדשות.\"", 
+    "heTitle": "שו\"ת מהרי\"ל", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Yaakov Levi Moelin", 
+            "he": "יעקב לוי מולין"
+        }
+    ], 
+    "titleVariants": [
+        "Teshuvot Maharil"
+    ], 
+    "errorMargin": "20", 
+    "categories": [
+        "Responsa"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Index", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "מפתחות", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Index", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מפתחות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Index", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "", 
+                "default": true, 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "", 
+                "depth": 2, 
+                "key": "default", 
+                "heSectionNames": [
+                    "", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Teshuva", 
+                    "Paragraph"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "שו\"ת מהרי\"ל", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Teshuvot Maharil", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "שו\"ת מהרי\"ל", 
+        "key": "Teshuvot Maharil", 
+        "title": "Teshuvot Maharil"
+    }
+}

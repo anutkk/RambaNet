@@ -1,0 +1,94 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Yoma", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Yoma (The Day) belongs to the second order, Moed (Festivals) and discusses the prescriptions Yom Kippur, especially the ceremony by the Kohen Gadol. It has eight chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה יומא"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה יומא", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M Yoma", 
+        "Mishna Yoma", 
+        "M. Yoma", 
+        "Mishnah Yoma"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        16, 
+        5
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            8, 
+            61
+        ], 
+        "title": "Mishnah Yoma", 
+        "heTitle": "משנה יומא", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M Yoma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Yoma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Yoma"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה יומא", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Yoma", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Yoma", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

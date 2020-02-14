@@ -1,0 +1,124 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Challah", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Hallah (Glob of Dough) belongs to the first order, Zera'im (seeds) and discusses the laws regarding the hallah offering of dough to be given to the Kohanim, as stated in Numbers 15:18-21. It consists of four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה חלה", 
+        "חלה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה חלה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Challah", 
+        "M Challah", 
+        "Mishna Challah", 
+        "Ḥall.", 
+        "Ḥallah", 
+        "Mishnah Ḥall.", 
+        "Mishnah Ḥallah", 
+        "Hal.", 
+        "Mishnah Challah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        9, 
+        9
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            4, 
+            38
+        ], 
+        "title": "Mishnah Challah", 
+        "heTitle": "משנה חלה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Challah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Challah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Challah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ḥall."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ḥallah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Ḥall."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Ḥallah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Hal."
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה חלה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "חלה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Challah", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Challah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

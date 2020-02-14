@@ -1,0 +1,105 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Daf", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "ירושלמי", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1523", 
+    "title": "Jerusalem Talmud Yoma", 
+    "compDate": "400", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Yoma (The Day) belongs to the second order, Moed (Festivals) and discusses the prescriptions Yom Kippur, especially the ceremony by the Kohen Gadol. It has eight chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תלמוד ירושלמי יומא", 
+        "ירושלמי יומא"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)", 
+        "he": " (375 - 425 לספירה בקירוב)"
+    }, 
+    "heTitle": "תלמוד ירושלמי יומא", 
+    "era": "A", 
+    "authors": [], 
+    "titleVariants": [
+        "Tamud Yerushalmi Yoma", 
+        "Yerushalmi Yoma", 
+        "JT Yoma", 
+        "Y. Yoma", 
+        "Jerusalem Talmud Yoma"
+    ], 
+    "errorMargin": "25", 
+    "order": [
+        15
+    ], 
+    "categories": [
+        "Talmud", 
+        "Yerushalmi", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            84, 
+            171
+        ], 
+        "title": "Jerusalem Talmud Yoma", 
+        "heTitle": "תלמוד ירושלמי יומא", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tamud Yerushalmi Yoma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Yoma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Yoma"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תלמוד ירושלמי יומא", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ירושלמי יומא"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Y. Yoma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Jerusalem Talmud Yoma", 
+                "primary": true
+            }
+        ], 
+        "key": "Jerusalem Talmud Yoma", 
+        "heSectionNames": [
+            "דף", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Halakhah"
+        ]
+    }
+}

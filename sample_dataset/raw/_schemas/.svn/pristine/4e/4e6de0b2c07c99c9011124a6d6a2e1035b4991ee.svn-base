@@ -1,0 +1,155 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר טהרה"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Those Who Defile Bed or Seat", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The tenth book is Sefer Taharah (Cleanness: the rules of purity). Hilchot Metamei Mischkav Umoschav.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות מטמאי משכב ומושב", 
+        "רמב\"ם, הלכות מטמאי משכב ומושב", 
+        "משנה תורה, הל' מטמאי משכב ומושב", 
+        "רמב\"ם, הל' מטמאי משכב ומושב", 
+        "רמב\"ם הלכות מטמאי משכב ומושב", 
+        "רמב\"ם הל' מטמאי משכב ומושב"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות מטמאי משכב ומושב", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Rambam, Hilchot Metamme'ey Mishkav uMoshav", 
+        "Rambam, Those Who Defile Bed or Seat", 
+        "Mishneh Torah, Laws of Those Who Defile Bed or Seat", 
+        "Mishneh Torah, Metamme'ey Mishkav uMoshav", 
+        "Rambam, Laws of Those Who Defile Bed or Seat", 
+        "Rambam, Metamme'ey Mishkav uMoshav", 
+        "Mishneh Torah, Hilchot Metamme'ey Mishkav uMoshav", 
+        "Rambam, Hilkhot Metamme'ey Mishkav uMoshav", 
+        "Mishneh Torah, Hilkhot Metamme'ey Mishkav uMoshav", 
+        "Mishneh Torah, Those Who Defile Bed or Seat"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        64, 
+        4
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Taharah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            13
+        ], 
+        "title": "Mishneh Torah, Those Who Defile Bed or Seat", 
+        "heTitle": "משנה תורה, הלכות מטמאי משכב ומושב", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Metamme'ey Mishkav uMoshav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Those Who Defile Bed or Seat"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Those Who Defile Bed or Seat"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Metamme'ey Mishkav uMoshav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Those Who Defile Bed or Seat"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Metamme'ey Mishkav uMoshav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Metamme'ey Mishkav uMoshav"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות מטמאי משכב ומושב", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות מטמאי משכב ומושב"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Metamme'ey Mishkav uMoshav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Metamme'ey Mishkav uMoshav"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' מטמאי משכב ומושב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' מטמאי משכב ומושב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות מטמאי משכב ומושב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' מטמאי משכב ומושב"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Those Who Defile Bed or Seat", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Those Who Defile Bed or Seat", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

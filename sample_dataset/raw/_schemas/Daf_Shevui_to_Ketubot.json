@@ -1,0 +1,70 @@
+{
+    "depth": 2, 
+    "collective_title": {
+        "en": "Daf Shevui", 
+        "he": "דף שבועי"
+    }, 
+    "heCategories": [
+        "יצירות מודרניות"
+    ], 
+    "title": "Daf Shevui to Ketubot", 
+    "heTitleVariants": [
+        "דף שבועי על כתובות"
+    ], 
+    "compPlace": "Modiin", 
+    "enDesc": "Commentary on the Talmud written by Rabbi Joshua Kulp, Rosh Yeshiva at the Conservative Yeshiva in Jerusalem. Rabbi Kulp’s English commentary is accessible to beginner learners and does not assume previous Talmud experience.", 
+    "dependence": "Commentary", 
+    "compPlaceString": {
+        "en": "Modiin", 
+        "he": "מודיעין"
+    }, 
+    "heTitle": "דף שבועי על כתובות", 
+    "era": "CO", 
+    "authors": [
+        {
+            "en": "Joshua Kulp", 
+            "he": "יהושע מנחם קולפ"
+        }
+    ], 
+    "titleVariants": [
+        "Daf Shevui to Ketubot"
+    ], 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "categories": [
+        "Modern Works"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Daf Shevui to Ketubot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "דף שבועי על כתובות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "דף שבועי על כתובות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Daf Shevui to Ketubot", 
+                "primary": true
+            }
+        ], 
+        "key": "Daf Shevui to Ketubot", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }
+}

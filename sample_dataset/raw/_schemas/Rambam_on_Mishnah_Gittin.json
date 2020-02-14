@@ -1,0 +1,127 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Gittin", 
+            "he": "משנה גיטין"
+        }
+    ], 
+    "pubPlace": "Naples", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "רמב\"ם על משנה גיטין"
+    ], 
+    "heTitle": "רמב\"ם על משנה גיטין", 
+    "errorMargin": "5", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "רמב\"ם", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Rambam on Mishnah Gittin", 
+    "compDate": "1163", 
+    "compDateString": {
+        "en": " (c.1158  - c.1168 CE)", 
+        "he": " (1158 - 1168 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rambam on Mishnah Gittin", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "רמב\"ם על משנה גיטין", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Maimonides on Mishna Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on M Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on M. Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on Mishnah Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on Mishna Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on M Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on M. Gittin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם על משנה גיטין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on Mishnah Gittin", 
+                "primary": true
+            }
+        ], 
+        "key": "Rambam on Mishnah Gittin", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Rabbi Moshe ben Maimon’s (Rambam) commentary was the first to be written on the entire Mishnah. The commentary was written by Rambam in Judeo-Arabic, and has been translated into Hebrew. He started working on it at age 23 while living in Spain, and completed it seven years later after settling in Egypt. It offers a running commentary on the Mishnah, and often includes a Halachic ruling based on the Talmud's conclusion.", 
+    "heDesc": "פירושו של הרמב\"ם הוא הראשון שנכתב על כל המשנה, והוא אחד הפירושים החשובים שעל המשנה. הרמב\"ם כתבו בצעירותו בשפה הערבית-יהודית, ותורגם פעמים רבות לעברית. הפירוש מכיל ביאור קצר לכל משנה ודיון מעמיק בעניינים המרכזיים שבה. בסוף כל עניין הוא פוסק הלכה על-פי מסקנת התלמוד. ", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Maimonides on Mishna Gittin", 
+        "Maimonides on M Gittin", 
+        "Maimonides on M. Gittin", 
+        "Maimonides on Mishnah Gittin", 
+        "Rambam on Mishna Gittin", 
+        "Rambam on M Gittin", 
+        "Rambam on M. Gittin", 
+        "Rambam on Mishnah Gittin"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Rambam", 
+        "Seder Nashim"
+    ], 
+    "collective_title": {
+        "en": "Rambam", 
+        "he": "רמב\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

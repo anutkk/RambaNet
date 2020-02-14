@@ -1,0 +1,150 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Joshua", 
+            "he": "יהושע"
+        }
+    ], 
+    "pubPlace": "Mantua", 
+    "compPlace": "Provence, France", 
+    "heTitleVariants": [
+        "רלב\"ג על יהושע"
+    ], 
+    "heTitle": "רלב\"ג על יהושע", 
+    "errorMargin": "10", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רלב\"ג", 
+        "נביאים"
+    ], 
+    "pubDate": "1480", 
+    "title": "Ralbag on Joshua", 
+    "compDate": "1335", 
+    "compDateString": {
+        "en": " (c.1325  - c.1345 CE)", 
+        "he": " (1325 - 1345 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Provence, France", 
+        "he": "פרובנס, צרפת"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ralbag on Joshua", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רלב\"ג על יהושע", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ralbag on Jos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Yehoshua"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Jos."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Josh"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Josh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Jos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Yehoshua"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Jos."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Josh"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Josh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Joshua"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רלב\"ג על יהושע", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Joshua", 
+                "primary": true
+            }
+        ], 
+        "key": "Ralbag on Joshua", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "A commentary written by Rabbi Levi ben Gershon (1288–1344) of Provence. Ralbag was a Talmudist, mathematician and astronomer. He was a rationalist which is reflected in his approach to angels and miracles in his commentary. The commentary is divided into 3 parts: the lexicon (bi’ur ha-milot), exegesis (bi’ur ha-parasha), and the lessons (to’alot). ", 
+    "authors": [
+        {
+            "en": "Ralbag", 
+            "he": "רלב\"ג"
+        }
+    ], 
+    "titleVariants": [
+        "Ralbag on Jos", 
+        "Ralbag on Yehoshua", 
+        "Ralbag on Jos.", 
+        "Ralbag on Josh", 
+        "Ralbag on Josh.", 
+        "Gersonides on Jos", 
+        "Gersonides on Yehoshua", 
+        "Gersonides on Jos.", 
+        "Gersonides on Josh", 
+        "Gersonides on Josh.", 
+        "Gersonides on Joshua", 
+        "Ralbag on Joshua"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Ralbag", 
+        "Prophets"
+    ], 
+    "collective_title": {
+        "en": "Ralbag", 
+        "he": "רלב\"ג"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

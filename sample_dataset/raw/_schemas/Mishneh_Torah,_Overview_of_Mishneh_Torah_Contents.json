@@ -1,0 +1,107 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "הקדמה"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Overview of Mishneh Torah Contents", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "Introduction - overview. ", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, תוכן החיבור", 
+        "רמב\"ם, תוכן החיבור", 
+        "רמב\"ם תוכן החיבור"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, תוכן החיבור", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Rambam, Tachon haChibor", 
+        "Rambam, Overview of Mishneh Torah Contents", 
+        "Mishneh Torah, Tachon haChibor", 
+        "Mishneh Torah, Overview of Mishneh Torah Contents"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        4, 
+        4
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Introduction"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Mishneh Torah, Overview of Mishneh Torah Contents", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "heTitle": "משנה תורה, תוכן החיבור", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rambam, Tachon haChibor"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Overview of Mishneh Torah Contents"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Tachon haChibor"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, תוכן החיבור", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, תוכן החיבור"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם תוכן החיבור"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Overview of Mishneh Torah Contents", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Overview of Mishneh Torah Contents", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Psalms", 
+            "he": "תהילים"
+        }
+    ], 
+    "pubPlace": "Jerusalem, Israel", 
+    "compPlace": "Jerusalem", 
+    "heTitleVariants": [
+        "תורה תמימה על תהילים", 
+        "תורה תמימה על תהלים", 
+        "תורה תמימה על תְּהִלִּים", 
+        "תורה תמימה על תילים", 
+        "תורה תמימה על תהילות", 
+        "תורה תמימה על תהילי'", 
+        "תורה תמימה על תהילי׳", 
+        "תורה תמימה על תהלי׳", 
+        "תורה תמימה על תהלי'"
+    ], 
+    "heTitle": "תורה תמימה על תהילים", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "תורה תמימה", 
+        "כתובים"
+    ], 
+    "pubDate": "2011", 
+    "title": "Torah Temimah on Psalms", 
+    "compDate": "2011", 
+    "compDateString": {
+        "en": " (2011 CE)", 
+        "he": " (2011 לספירה)"
+    }, 
+    "compPlaceString": {
+        "en": "Jerusalem", 
+        "he": "ירושלים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Torah Temimah on Psalms", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "תורה תמימה על תהילים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Torah Temimah on Ps"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Torah Temimah on Ps."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Torah Temimah on Psa"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Torah Temimah on Tehilim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Torah Temimah on Psa."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Torah Temimah on Psalm"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Torah Temimah on Tehillim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תורה תמימה על תהילים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "תורה תמימה על תהלים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תורה תמימה על תְּהִלִּים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תורה תמימה על תילים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תורה תמימה על תהילות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תורה תמימה על תהילי'"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תורה תמימה על תהילי׳"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תורה תמימה על תהלי׳"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תורה תמימה על תהלי'"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Torah Temimah on Psalms", 
+                "primary": true
+            }
+        ], 
+        "key": "Torah Temimah on Psalms", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "A compilation of Talmudic citations on each verse of the Book of Psalms, following the style of  \"Torah Temimah\" on the Chumash.", 
+    "heDesc": " בו נלקטו כל המימרות מש\"ס תלמוד בבלי על סדר התהילים בסגנון של הספר \"תורה תמימה\" על החומש.", 
+    "authors": [
+        {
+            "en": "Shmuel Navon", 
+            "he": "שמואל נבון"
+        }
+    ], 
+    "titleVariants": [
+        "Torah Temimah on Ps", 
+        "Torah Temimah on Ps.", 
+        "Torah Temimah on Psa", 
+        "Torah Temimah on Tehilim", 
+        "Torah Temimah on Psa.", 
+        "Torah Temimah on Psalm", 
+        "Torah Temimah on Tehillim", 
+        "Torah Temimah on Psalms"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Torah Temimah", 
+        "Writings"
+    ], 
+    "collective_title": {
+        "en": "Torah Temimah", 
+        "he": "תורה תמימה"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "CO", 
+    "base_text_mapping": "many_to_one"
+}

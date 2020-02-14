@@ -1,0 +1,76 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "Ruth", 
+            "he": "רות"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "תרגומים", 
+        "תרגום", 
+        "כתובים"
+    ], 
+    "title": "Aramaic Targum to Ruth", 
+    "base_text_mapping": "one_to_one", 
+    "collective_title": {
+        "en": "Aramaic Targum", 
+        "he": "תרגום"
+    }, 
+    "heTitleVariants": [
+        "תרגום רות"
+    ], 
+    "dependence": "Targum", 
+    "heTitle": "תרגום רות", 
+    "titleVariants": [
+        "Targ. Ruth", 
+        "Aramaic Targum to Ruth"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Targum", 
+        "Aramaic Targum", 
+        "Writings"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Aramaic Targum to Ruth", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תרגום רות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תרגום רות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. Ruth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Aramaic Targum to Ruth", 
+                "primary": true
+            }
+        ], 
+        "key": "Aramaic Targum to Ruth", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

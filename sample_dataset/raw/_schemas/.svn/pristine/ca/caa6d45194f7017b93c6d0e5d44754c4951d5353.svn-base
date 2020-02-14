@@ -1,0 +1,185 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר קדושה"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Forbidden Intercourse", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The fifth book is Kedushah (Holiness). Issurei Biah: forbidden sexual relations, including niddah, incest and adultery. Since intermarriage with non-Jews is forbidden, the laws of conversion to Judaism are also included.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות איסורי ביאה", 
+        "רמב\"ם, הלכות איסורי ביאה", 
+        "משנה תורה, הל' איסורי ביאה", 
+        "רמב\"ם, הל' איסורי ביאה", 
+        "רמב\"ם הלכות איסורי ביאה", 
+        "רמב\"ם הל' איסורי ביאה", 
+        "הל' איסורי ביאה", 
+        "משנה תורה, איסורי ביאה", 
+        "הל׳ איסו״ב", 
+        "הל' איסו\"ב"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות איסורי ביאה", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Mishneh Torah, Hilchot Issurei Biah", 
+        "Mishneh Torah, Issurei Biah", 
+        "Rambam, Issurei Biah", 
+        "Rambam, Laws of Forbidden Intercourse", 
+        "Rambam, Forbidden Intercourse", 
+        "Mishneh Torah, Laws of Forbidden Intercourse", 
+        "Rambam, Hilchot Issurei Biah", 
+        "Mishneh Torah, Hilkhot Issurei Biah", 
+        "Rambam, Hilkhot Issurei Biah", 
+        "Rambam, Hilkhot Issurei Bi'ah", 
+        "Rambam, <i>Hilkhot Issurei Bi'ah</i>", 
+        "Mishneh Torah, Forbidden Intercourse"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        32, 
+        1
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Kedushah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            22
+        ], 
+        "title": "Mishneh Torah, Forbidden Intercourse", 
+        "heTitle": "משנה תורה, הלכות איסורי ביאה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Issurei Biah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Issurei Biah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Issurei Biah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Forbidden Intercourse"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Forbidden Intercourse"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Forbidden Intercourse"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Issurei Biah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Issurei Biah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Issurei Biah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Issurei Bi'ah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, <i>Hilkhot Issurei Bi'ah</i>"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות איסורי ביאה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות איסורי ביאה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' איסורי ביאה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' איסורי ביאה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות איסורי ביאה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' איסורי ביאה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "הל' איסורי ביאה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, איסורי ביאה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "הל׳ איסו״ב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "הל' איסו\"ב"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Forbidden Intercourse", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Forbidden Intercourse", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

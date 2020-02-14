@@ -1,0 +1,124 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Zavim", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Zavim (Seminal Emissions) belongs to the sixth order, Tahorot (Purities) and discusses the laws of a person who has ejaculated. It has five chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה זבים", 
+        "זבים"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה זבים", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Zavim", 
+        "Mishna Zavim", 
+        "M Zavim", 
+        "Zavim", 
+        "Zab.", 
+        "Zabim", 
+        "Mishnah Zab.", 
+        "Mishnah Zabim", 
+        "Mishnah Zavim"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        60, 
+        9
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            5, 
+            32
+        ], 
+        "title": "Mishnah Zavim", 
+        "heTitle": "משנה זבים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Zavim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Zavim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Zavim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Zavim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה זבים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "זבים"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Zab."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Zabim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Zab."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Zabim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Zavim", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Zavim", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

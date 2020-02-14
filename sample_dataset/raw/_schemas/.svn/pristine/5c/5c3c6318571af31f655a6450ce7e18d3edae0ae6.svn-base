@@ -1,0 +1,124 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Shevi'it", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Sheviit (Seventh Year) belongs to the first order, Zera'im (seeds) and discusses rules of agricultural and fiscal regulations concerning the Sabbatical Year, as stated in Exodus 23:11, Leviticus 25:1-8, Deuteronomy 15:1-11. It consists of eight chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא שביעית"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא שביעית", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Shevi'it", 
+        "Tosefta Shvi'it", 
+        "Tosefta Shviit", 
+        "Tosefta Shevi'is", 
+        "T. Shevi'it", 
+        "Tos. Shvi'it", 
+        "Tosefta Sheviit", 
+        "Tosefta Shevi’it", 
+        "Tosef. Shebi.", 
+        "Tosefta Shevi'it"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        5
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            8
+        ], 
+        "title": "Tosefta Shevi'it", 
+        "heTitle": "תוספתא שביעית", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Shevi'it"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Shvi'it"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Shviit"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Shevi'is"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Shevi'it"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Shvi'it"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Sheviit"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Shevi’it"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא שביעית", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Shebi."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Shevi'it", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Shevi'it", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

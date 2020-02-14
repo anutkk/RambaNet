@@ -1,0 +1,130 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Jeremiah", 
+            "he": "ירמיהו"
+        }
+    ], 
+    "pubPlace": "Guadalajara, Spain", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על ירמיהו", 
+        "רש\"י על ירמיה", 
+        "רש\"י על ירמי׳", 
+        "רש\"י על ירמי'"
+    ], 
+    "heTitle": "רש\"י על ירמיהו", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רש\"י", 
+        "נביאים"
+    ], 
+    "pubDate": "1476", 
+    "title": "Rashi on Jeremiah", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Jeremiah", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על ירמיהו", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Yirmiyahu"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Jer"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Jer."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Yirmiyohu"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ירמיהו", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ירמיה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ירמי׳"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ירמי'"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Jeremiah", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Jeremiah", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Commentary on the Tanakh written by Rabbi Shlomo Yitzchaki (Rashi). Rashi lived in Troyes, France (1040-1105). Rashi’s commentary is an essential explanation of the Tanakh and resides in a place of honor on the page of almost all editions of the Tanakh. Over 300 supercommentaries have been written to further explain Rashi’s comments on the Torah. While quoting many midrashim and Talmudic passages, Rashi, in his commentary, states that his purpose is to present the pshat (contextual meaning) of the text.  ", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Yirmiyahu", 
+        "Rashi on Jer", 
+        "Rashi on Jer.", 
+        "Rashi on Yirmiyohu", 
+        "Rashi on Jeremiah"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Rashi", 
+        "Prophets"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

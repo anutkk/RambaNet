@@ -1,0 +1,80 @@
+{
+    "heTitleVariants": [
+        "ביאור עשר ספירות"
+    ], 
+    "sectionNames": [
+        "Section", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "קבלה"
+    ], 
+    "pubDate": "", 
+    "title": "Be'ur Eser S'firot", 
+    "compDate": "", 
+    "pubPlace": "", 
+    "compPlace": "Girona, Catalonia, Spain", 
+    "enDesc": "Kabbalistic work explaining the ten emanations in question and answer form.", 
+    "depth": 2, 
+    "compPlaceString": {
+        "en": "Girona, Catalonia, Spain", 
+        "he": "גירונה, קטלוניה, ספרד"
+    }, 
+    "heDesc": "פירוש לעשר ספירות בדרך שאלות ותשובות.", 
+    "heTitle": "ביאור עשר ספירות", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Azriel of Gerona", 
+            "he": "עזריאל בן מנחם"
+        }
+    ], 
+    "titleVariants": [
+        "Explanation of the 10 Sefirot (Azriel of Gerona)", 
+        "Beur Eser Sfirot", 
+        "Be'ur Eser S'firot"
+    ], 
+    "errorMargin": "", 
+    "categories": [
+        "Kabbalah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Be'ur Eser S'firot", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "ביאור עשר ספירות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Explanation of the 10 Sefirot (Azriel of Gerona)"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Beur Eser Sfirot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ביאור עשר ספירות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Be'ur Eser S'firot", 
+                "primary": true
+            }
+        ], 
+        "key": "Be'ur Eser S'firot", 
+        "heSectionNames": [
+            "חלק", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Section", 
+            "Paragraph"
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Maaser Sheni", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Maaseh Sheni (Second Tithes) belongs to the first order, Zera'im (seeds) and discusses the rules concerning the tithe which was to be eaten in Jerusalem, as stated in Deuteronomy 14:22-26. It consists of five chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה מעשר שני", 
+        "מעשר שני"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה מעשר שני", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Maaser Sheni", 
+        "Mishna Maaser Sheni", 
+        "M Maaser Sheni", 
+        "Ma’aser Sheni", 
+        "Maaser Sheni", 
+        "Maas. Sh.", 
+        "Maʿǎser Sheni", 
+        "Mishnah Maas. Sh.", 
+        "Mishnah Maʿǎser Sheni", 
+        "Mishnah Maaser Sheni"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        8, 
+        8
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            5, 
+            57
+        ], 
+        "title": "Mishnah Maaser Sheni", 
+        "heTitle": "משנה מעשר שני", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Maaser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Maaser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Maaser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ma’aser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maaser Sheni"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה מעשר שני", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "מעשר שני"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maas. Sh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maʿǎser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Maas. Sh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Maʿǎser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Maaser Sheni", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Maaser Sheni", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

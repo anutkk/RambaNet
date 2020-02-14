@@ -1,0 +1,54 @@
+{
+    "heCategories": [
+        "ספרות תנאית", 
+        "מסכתות קטנות"
+    ], 
+    "title": "Tractate Kallah Rabbati", 
+    "heTitleVariants": [
+        "מסכת כלה רבתי"
+    ], 
+    "depth": 2, 
+    "heTitle": "מסכת כלה רבתי", 
+    "titleVariants": [
+        "Tractate Kallah Rabbati"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Tractate Kallah Rabbati", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "heTitle": "מסכת כלה רבתי", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מסכת כלה רבתי", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tractate Kallah Rabbati", 
+                "primary": true
+            }
+        ], 
+        "key": "Tractate Kallah Rabbati", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

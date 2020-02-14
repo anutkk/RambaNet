@@ -1,0 +1,105 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Daf", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "ירושלמי", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1523", 
+    "title": "Jerusalem Talmud Sotah", 
+    "compDate": "400", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Sotah (Wayward Wife) belongs to the third order, Nashim (Women) and discusses the ritual of the Sotah – the woman suspected of adultery (Num 5) as well as other rituals involving a spoken formula (such as breaking the heifer's neck, the King's septa-annual public Torah reading, the Blessings and Curses of Mount Gerizim and Mount Ebal, etc...). It has nine chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תלמוד ירושלמי סוטה", 
+        "ירושלמי סוטה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)", 
+        "he": " (375 - 425 לספירה בקירוב)"
+    }, 
+    "heTitle": "תלמוד ירושלמי סוטה", 
+    "era": "A", 
+    "authors": [], 
+    "titleVariants": [
+        "Yerushalmi Sotah", 
+        "JT Sotah", 
+        "Talmud Yerushalmi Sotah", 
+        "Y. Sot.", 
+        "Jerusalem Talmud Sotah"
+    ], 
+    "errorMargin": "25", 
+    "order": [
+        25
+    ], 
+    "categories": [
+        "Talmud", 
+        "Yerushalmi", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            93, 
+            229
+        ], 
+        "title": "Jerusalem Talmud Sotah", 
+        "heTitle": "תלמוד ירושלמי סוטה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Sotah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Sotah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Talmud Yerushalmi Sotah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תלמוד ירושלמי סוטה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ירושלמי סוטה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Y. Sot."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Jerusalem Talmud Sotah", 
+                "primary": true
+            }
+        ], 
+        "key": "Jerusalem Talmud Sotah", 
+        "heSectionNames": [
+            "דף", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Halakhah"
+        ]
+    }
+}

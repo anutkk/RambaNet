@@ -1,0 +1,99 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Sotah", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Sotah (Wayward Wife) belongs to the third order, Nashim (Women) and discusses the ritual of the Sotah – the woman suspected of adultery (Num 5) as well as other rituals involving a spoken formula (such as breaking the heifer's neck, the King's septa-annual public Torah reading, the Blessings and Curses of Mount Gerizim and Mount Ebal, etc...). It has fifteen chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא סוטה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא סוטה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "T. Sotah", 
+        "Tos. Sotah", 
+        "Tosefta Sota", 
+        "Tosef. Sot.", 
+        "Tosefta Sotah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        5
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            15
+        ], 
+        "title": "Tosefta Sotah", 
+        "heTitle": "תוספתא סוטה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "T. Sotah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Sotah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Sota"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא סוטה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Sot."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Sotah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Sotah", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

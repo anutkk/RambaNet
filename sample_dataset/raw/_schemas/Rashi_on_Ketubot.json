@@ -1,0 +1,122 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Ketubot", 
+            "he": "כתובות"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על כתובות"
+    ], 
+    "heTitle": "רש\"י על כתובות", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רש\"י", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1520", 
+    "title": "Rashi on Ketubot", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Ketubot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על כתובות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Talmud Ketubot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Masekhet Ketubot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Tractate Ketubot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Kethuvoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Ketuvot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על כתובות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Ketubot", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Ketubot", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Talmud Ketubot", 
+        "Rashi on Masekhet Ketubot", 
+        "Rashi on Tractate Ketubot", 
+        "Rashi on Kethuvoth", 
+        "Rashi on Ketuvot", 
+        "Rashi on Ketubot"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashi", 
+        "Seder Nashim"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

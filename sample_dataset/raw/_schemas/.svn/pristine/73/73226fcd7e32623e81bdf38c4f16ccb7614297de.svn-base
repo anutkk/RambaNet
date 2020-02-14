@@ -1,0 +1,177 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Rosh Hashanah", 
+            "he": "משנה ראש השנה"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "ברטנורא על משנה ראש השנה", 
+        "עובדיה מברטנורא על משנה ראש השנה", 
+        "ר' עובדיה מברטנורא על משנה ראש השנה"
+    ], 
+    "heTitle": "ברטנורא על משנה ראש השנה", 
+    "errorMargin": "12", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "ברטנורא", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1549", 
+    "title": "Bartenura on Mishnah Rosh Hashanah", 
+    "compDate": "1482", 
+    "compDateString": {
+        "en": " (c.1470  - c.1494 CE)", 
+        "he": " (1470 - 1494 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Bartenura on Mishnah Rosh Hashanah", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "ברטנורא על משנה ראש השנה", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishna Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M. Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishnah Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishna Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M. Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishnah Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishna Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M. Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishna Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M. Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishnah Rosh Hashanah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ברטנורא על משנה ראש השנה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "עובדיה מברטנורא על משנה ראש השנה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ר' עובדיה מברטנורא על משנה ראש השנה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishnah Rosh Hashanah", 
+                "primary": true
+            }
+        ], 
+        "key": "Bartenura on Mishnah Rosh Hashanah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "R' Ovadiah ben Abraham of Bartenura (c. 1445-c.1515) wrote a commentary of the Mishnah that has been printed in almost every edition of the Mishnah since it was first published in Venice in 1548. The commentary, popularly called “The Bartenura” is mainly based on discussions in the Gemara and the Rambam's Mishna commentary. The Bartenura is particularly valuable to Mishnah learners due to the inclusion of a summary of the Talmudic discussions along with the accepted opinions.", 
+    "heDesc": "ר' עובדיה מברטנורא כתב פירוש למשנה שנדפס כמעט בכל מהדורה של המשנה מאז שיצא לאור לראשונה בוונציה בשנת 1548. הפירוש מבוסס בעיקר על הדיונים בגמרא ועל פירוש הרמב\"ם למשנה. ", 
+    "authors": [
+        {
+            "en": "Ovadiah Bartenura", 
+            "he": "רב עובדיה מברטנורא"
+        }
+    ], 
+    "titleVariants": [
+        "Ovadia of Bartenura on M Rosh Hashanah", 
+        "Ovadia of Bartenura on Mishna Rosh Hashanah", 
+        "Ovadia of Bartenura on M. Rosh Hashanah", 
+        "Ovadia of Bartenura on Mishnah Rosh Hashanah", 
+        "Obadiah of Bertinoro on M Rosh Hashanah", 
+        "Obadiah of Bertinoro on Mishna Rosh Hashanah", 
+        "Obadiah of Bertinoro on M. Rosh Hashanah", 
+        "Obadiah of Bertinoro on Mishnah Rosh Hashanah", 
+        "Bartenura on M Rosh Hashanah", 
+        "Bartenura on Mishna Rosh Hashanah", 
+        "Bartenura on M. Rosh Hashanah", 
+        "Obadiah ben Abraham of Bertinoro on M Rosh Hashanah", 
+        "Obadiah ben Abraham of Bertinoro on Mishna Rosh Hashanah", 
+        "Obadiah ben Abraham of Bertinoro on M. Rosh Hashanah", 
+        "Obadiah ben Abraham of Bertinoro on Mishnah Rosh Hashanah", 
+        "Bartenura on Mishnah Rosh Hashanah"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Bartenura", 
+        "Seder Moed"
+    ], 
+    "collective_title": {
+        "en": "Bartenura", 
+        "he": "ברטנורא"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

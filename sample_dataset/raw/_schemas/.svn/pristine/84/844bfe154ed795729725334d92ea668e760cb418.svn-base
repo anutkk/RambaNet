@@ -1,0 +1,137 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Bava Kamma", 
+            "he": "בבא קמא"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על בבא קמא", 
+        "רש\"י על ב\"ק", 
+        "רש\"י על ב״ק"
+    ], 
+    "heTitle": "רש\"י על בבא קמא", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רש\"י", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1520", 
+    "title": "Rashi on Bava Kamma", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Bava Kamma", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על בבא קמא", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Talmud Bava Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Masekhet Bava Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Tractate Bava Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Bava Kama"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Baba Kama"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Baba Kamma"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על בבא קמא", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ב\"ק"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ב״ק"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Bava Kamma", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Bava Kamma", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Talmud Bava Kamma", 
+        "Rashi on Masekhet Bava Kamma", 
+        "Rashi on Tractate Bava Kamma", 
+        "Rashi on Bava Kama", 
+        "Rashi on Baba Kama", 
+        "Rashi on Baba Kamma", 
+        "Rashi on Bava Kamma"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashi", 
+        "Seder Nezikin"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

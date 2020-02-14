@@ -1,0 +1,97 @@
+{
+    "depth": 2, 
+    "heTitleVariants": [
+        "מהרש\"ל עירובין", 
+        "חכמת שלמה על עירובין"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Eruvin", 
+            "he": "עירובין"
+        }
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "חכמת שלמה", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1582", 
+    "title": "Chokhmat Shlomo on Eruvin", 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "compDate": "1550", 
+    "pubPlace": "Kraków", 
+    "collective_title": {
+        "en": "Chokhmat Shlomo", 
+        "he": "חכמת שלמה"
+    }, 
+    "enDesc": "Glosses on the Talmud by Rabbi Shlomo Luria (Maharshal). An important component of the commentary is establishing the correct text of the Talmud. Maharshal scrutinized the published editions of the Talmud as well as the commentaries of Rashi, Tosafot, and other Rishonim. An abridged version of Chochmat Shlomo appears in nearly all editions of the Talmud today, together with the commentary of Maharsha.", 
+    "dependence": "Commentary", 
+    "compDateString": {
+        "en": " (c.1530  - c.1570 CE)", 
+        "he": " (1530 - 1570 לספירה בקירוב)"
+    }, 
+    "heTitle": "חכמת שלמה על עירובין", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Maharshal", 
+            "he": "מהרש\"ל"
+        }
+    ], 
+    "titleVariants": [
+        "Maharshal on Eruvin", 
+        "Chokhmat Shlomo on Eruvin"
+    ], 
+    "errorMargin": "20", 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Chokhmat Shlomo", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Chokhmat Shlomo on Eruvin", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "חכמת שלמה על עירובין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Maharshal on Eruvin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מהרש\"ל עירובין"
+            }, 
+            {
+                "lang": "he", 
+                "text": "חכמת שלמה על עירובין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Chokhmat Shlomo on Eruvin", 
+                "primary": true
+            }
+        ], 
+        "key": "Chokhmat Shlomo on Eruvin", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }
+}

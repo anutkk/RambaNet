@@ -1,0 +1,177 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Beitzah", 
+            "he": "משנה ביצה"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "ברטנורא על משנה ביצה", 
+        "עובדיה מברטנורא על משנה ביצה", 
+        "ר' עובדיה מברטנורא על משנה ביצה"
+    ], 
+    "heTitle": "ברטנורא על משנה ביצה", 
+    "errorMargin": "12", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "ברטנורא", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1549", 
+    "title": "Bartenura on Mishnah Beitzah", 
+    "compDate": "1482", 
+    "compDateString": {
+        "en": " (c.1470  - c.1494 CE)", 
+        "he": " (1470 - 1494 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Bartenura on Mishnah Beitzah", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "ברטנורא על משנה ביצה", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishna Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M. Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishnah Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishna Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M. Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishnah Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishna Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M. Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishna Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M. Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishnah Beitzah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ברטנורא על משנה ביצה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "עובדיה מברטנורא על משנה ביצה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ר' עובדיה מברטנורא על משנה ביצה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishnah Beitzah", 
+                "primary": true
+            }
+        ], 
+        "key": "Bartenura on Mishnah Beitzah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "R' Ovadiah ben Abraham of Bartenura (c. 1445-c.1515) wrote a commentary of the Mishnah that has been printed in almost every edition of the Mishnah since it was first published in Venice in 1548. The commentary, popularly called “The Bartenura” is mainly based on discussions in the Gemara and the Rambam's Mishna commentary. The Bartenura is particularly valuable to Mishnah learners due to the inclusion of a summary of the Talmudic discussions along with the accepted opinions.", 
+    "heDesc": "ר' עובדיה מברטנורא כתב פירוש למשנה שנדפס כמעט בכל מהדורה של המשנה מאז שיצא לאור לראשונה בוונציה בשנת 1548. הפירוש מבוסס בעיקר על הדיונים בגמרא ועל פירוש הרמב\"ם למשנה. ", 
+    "authors": [
+        {
+            "en": "Ovadiah Bartenura", 
+            "he": "רב עובדיה מברטנורא"
+        }
+    ], 
+    "titleVariants": [
+        "Ovadia of Bartenura on Mishna Beitzah", 
+        "Ovadia of Bartenura on M. Beitzah", 
+        "Ovadia of Bartenura on M Beitzah", 
+        "Ovadia of Bartenura on Mishnah Beitzah", 
+        "Obadiah of Bertinoro on Mishna Beitzah", 
+        "Obadiah of Bertinoro on M. Beitzah", 
+        "Obadiah of Bertinoro on M Beitzah", 
+        "Obadiah of Bertinoro on Mishnah Beitzah", 
+        "Bartenura on Mishna Beitzah", 
+        "Bartenura on M. Beitzah", 
+        "Bartenura on M Beitzah", 
+        "Obadiah ben Abraham of Bertinoro on Mishna Beitzah", 
+        "Obadiah ben Abraham of Bertinoro on M. Beitzah", 
+        "Obadiah ben Abraham of Bertinoro on M Beitzah", 
+        "Obadiah ben Abraham of Bertinoro on Mishnah Beitzah", 
+        "Bartenura on Mishnah Beitzah"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Bartenura", 
+        "Seder Moed"
+    ], 
+    "collective_title": {
+        "en": "Bartenura", 
+        "he": "ברטנורא"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

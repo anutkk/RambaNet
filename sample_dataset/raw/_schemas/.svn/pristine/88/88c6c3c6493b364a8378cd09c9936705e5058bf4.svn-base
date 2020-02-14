@@ -1,0 +1,92 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Bava Metzia", 
+            "he": "בבא מציעא"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Poland", 
+    "heTitleVariants": [
+        "מהר\"ם על בבא מציעא"
+    ], 
+    "heTitle": "מהר\"ם על בבא מציעא", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "מהר\"ם", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1619", 
+    "title": "Maharam on Bava Metzia", 
+    "compDate": "1600", 
+    "compDateString": {
+        "en": " (c.1585  - c.1615 CE)", 
+        "he": " (1585 - 1615 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Poland", 
+        "he": "פולין"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Maharam on Bava Metzia", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "מהר\"ם על בבא מציעא", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מהר\"ם על בבא מציעא", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maharam on Bava Metzia", 
+                "primary": true
+            }
+        ], 
+        "key": "Maharam on Bava Metzia", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "A commentary on the Talmud written by Rabbi Meir of Lublin (Maharam 1558 – 1616). Published after his death by his son, Gedaliah, in 1619, the commentary deals extensively with the interpretations of Rashi and the Tosafists.  ", 
+    "authors": [
+        {
+            "en": "Maharam Lublin", 
+            "he": "מהר\"ם לובלין"
+        }
+    ], 
+    "titleVariants": [
+        "Maharam on Bava Metzia"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Maharam", 
+        "Seder Nezikin"
+    ], 
+    "collective_title": {
+        "en": "Maharam", 
+        "he": "מהר\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 2, 
+    "era": "AH"
+}

@@ -1,0 +1,82 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Avot D'Rabbi Natan", 
+            "he": "אבות דרבי נתן"
+        }
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "מפרשים", 
+        "בנין יהושע", 
+        "מסכתות קטנות"
+    ], 
+    "pubDate": "1788", 
+    "title": "Binyan Yehoshua on Avot D'Rabbi Natan", 
+    "base_text_mapping": null, 
+    "pubPlace": "Dyhernfurth", 
+    "collective_title": {
+        "en": "Binyan Yehoshua", 
+        "he": "בנין יהושע"
+    }, 
+    "heTitleVariants": [
+        "בנין יהושע על אבות דרבי נתן"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "בנין יהושע על אבות דרבי נתן", 
+    "authors": [
+        {
+            "en": "Joshua Falk of Lisa", 
+            "he": "יהושע פלק בן יצחק אייזיק מליסא"
+        }
+    ], 
+    "titleVariants": [
+        "Binyan Yehoshua on Avot D'Rabbi Natan"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah", 
+        "Comment"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Commentary", 
+        "Binyan Yehoshua", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Binyan Yehoshua on Avot D'Rabbi Natan", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah", 
+            "Integer"
+        ], 
+        "heTitle": "בנין יהושע על אבות דרבי נתן", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "בנין יהושע על אבות דרבי נתן", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Binyan Yehoshua on Avot D'Rabbi Natan", 
+                "primary": true
+            }
+        ], 
+        "key": "Binyan Yehoshua on Avot D'Rabbi Natan", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah", 
+            "Comment"
+        ]
+    }
+}

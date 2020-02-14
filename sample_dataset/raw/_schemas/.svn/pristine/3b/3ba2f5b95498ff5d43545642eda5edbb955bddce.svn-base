@@ -1,0 +1,79 @@
+{
+    "depth": 2, 
+    "heTitleVariants": [
+        "שיטה מקובצת על נדרים"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Nedarim", 
+            "he": "נדרים"
+        }
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "שיטה מקובצת", 
+        "סדר נשים"
+    ], 
+    "title": "Shita Mekubetzet on Nedarim", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Shita Mekubetzet", 
+        "he": "שיטה מקובצת"
+    }, 
+    "enDesc": "Written by Bezalel ben Abraham Ashkenazi (c.1520 – c.1592), Shita Mekubetzet is a collection of glosses on the Talmud. Within the work are contained many passages of Talmudic commentary that are not found anywhere else. ", 
+    "dependence": "Commentary", 
+    "heTitle": "שיטה מקובצת על נדרים", 
+    "authors": [
+        {
+            "en": "Bezalel ben Abraham Ashkenazi", 
+            "he": "בצלאל בן אברהם אשכנזי"
+        }
+    ], 
+    "titleVariants": [
+        "Shita Mekubetzet on Nedarim"
+    ], 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Shita Mekubetzet", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Shita Mekubetzet on Nedarim", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "שיטה מקובצת על נדרים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "שיטה מקובצת על נדרים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shita Mekubetzet on Nedarim", 
+                "primary": true
+            }
+        ], 
+        "key": "Shita Mekubetzet on Nedarim", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }
+}

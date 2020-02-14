@@ -1,0 +1,117 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "כתובים"
+    ], 
+    "pubDate": "1488", 
+    "title": "Ecclesiastes", 
+    "compDate": "-500", 
+    "pubPlace": "Soncino", 
+    "compPlace": "Judea/Israel", 
+    "enDesc": "Qoheleth (Book of Ecclesiastes ) is the fourth of the five Megillot (scrolls) of Ketuvim (Writings) the last section of the Tanakh (Bible). It proceeds to discuss the meaning of life and the best way of life. He proclaims all the actions of man to be inherently hevel, meaning \"vain\", \"futile\", \"empty\", \"meaningless\", \"temporary\", \"transitory\", \"fleeting\", or \"mere breath,\" as the lives of both wise and foolish people end in death. While Koheleth clearly endorses wisdom as a means for a well-lived earthly life, he does not ascribe eternal meaning to it. In light of this senselessness, one should enjoy the simple pleasures of daily life, such as eating, drinking, and taking enjoyment in one's work, which are gifts from the hand of God. The book concludes with the injunction: \"Fear God, and keep his commandments; for that is the whole duty of everyone\" (12:13). The author \"Koheleth\" uses a literary device to introduce himself as \"son of David king in Jerusalem\" - Solomon. It is read by Yemenite and Ashkenazi Jews during Sukkot.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "קהלת", 
+        "קוהלת"
+    ], 
+    "compPlaceString": {
+        "en": "Judea/Israel", 
+        "he": "יהודה / ישראל"
+    }, 
+    "compDateString": {
+        "en": " (c.900  - c.100 BCE)", 
+        "he": " (900 - 100 לפנה\"ס בקירוב)"
+    }, 
+    "heTitle": "קהלת", 
+    "titleVariants": [
+        "Eccles.", 
+        "Ecc", 
+        "Kohelet", 
+        "Ecc.", 
+        "Koheleth", 
+        "Koh.", 
+        "Eccl.", 
+        "Ecclesiastes"
+    ], 
+    "errorMargin": "400", 
+    "order": [
+        33, 
+        7
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Writings"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            12, 
+            222
+        ], 
+        "title": "Ecclesiastes", 
+        "heTitle": "קהלת", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Eccles."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ecc"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kohelet"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ecc."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Koheleth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Koh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eccl."
+            }, 
+            {
+                "lang": "he", 
+                "text": "קהלת", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "קוהלת"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ecclesiastes", 
+                "primary": true
+            }
+        ], 
+        "key": "Ecclesiastes", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "heCategories": [
+        "ספרים חיצונים"
+    ], 
+    "title": "Prayer of Manasseh", 
+    "heTitleVariants": [
+        "תְּפִלַּת מְנַשֶׁה", 
+        "וִדּוּי שֶׁל מְנַשֶׁה הַמֶלֶךְ"
+    ], 
+    "enDesc": "A short prayer of repentance attributed to Manasseh ben Hezekiah, 14th king of Judah.", 
+    "depth": 2, 
+    "heDesc": "בקשה למחילת חטאים המיוחסת למלך ה-13 של מלכות יהודה, מנשה בן חזקיה.", 
+    "heTitle": "תְּפִלַּת מְנַשֶׁה", 
+    "authors": [], 
+    "titleVariants": [
+        "Prayer of Manasseh"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Apocrypha"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Prayer of Manasseh", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תְּפִלַּת מְנַשֶׁה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תְּפִלַּת מְנַשֶׁה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "וִדּוּי שֶׁל מְנַשֶׁה הַמֶלֶךְ"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Prayer of Manasseh", 
+                "primary": true
+            }
+        ], 
+        "key": "Prayer of Manasseh", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

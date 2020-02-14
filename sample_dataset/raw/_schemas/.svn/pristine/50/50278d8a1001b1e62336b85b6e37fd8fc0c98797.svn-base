@@ -1,0 +1,58 @@
+{
+    "heCategories": [
+        "מחשבת ישראל"
+    ], 
+    "pubDate": "", 
+    "title": "Duties of the Heart (abridged)", 
+    "compDate": "", 
+    "pubPlace": "", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "חובות הלבבות (תקציר)"
+    ], 
+    "depth": 2, 
+    "heTitle": "חובות הלבבות (תקציר)", 
+    "era": null, 
+    "authors": [], 
+    "titleVariants": [
+        "Duties of the Heart (abridged)"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Paragraph"
+    ], 
+    "categories": [
+        "Philosophy"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Duties of the Heart (abridged)", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "חובות הלבבות (תקציר)", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "חובות הלבבות (תקציר)", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Duties of the Heart (abridged)", 
+                "primary": true
+            }
+        ], 
+        "key": "Duties of the Heart (abridged)", 
+        "heSectionNames": [
+            "פרק", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Paragraph"
+        ]
+    }
+}

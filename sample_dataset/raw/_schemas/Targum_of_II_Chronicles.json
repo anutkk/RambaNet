@@ -1,0 +1,87 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "II Chronicles", 
+            "he": "דברי הימים ב"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "תרגומים", 
+        "תרגום ירושלמי"
+    ], 
+    "title": "Targum of II Chronicles", 
+    "base_text_mapping": "one_to_one", 
+    "collective_title": {
+        "en": "Targum Jerusalem", 
+        "he": "תרגום ירושלמי"
+    }, 
+    "enDesc": "The Targum of Chronicles is ascribed to the Talmudic sage, Rabbi Joseph.", 
+    "dependence": "Targum", 
+    "heTitleVariants": [
+        "תרגום דברי הימים ב"
+    ], 
+    "heDesc": "התרגום הארמי לדברי הימים נתייחס להאמורא רב יוסף בר חייא ונקרא על שמו: תרגום רב יוסף.", 
+    "heTitle": "תרגום דברי הימים ב", 
+    "authors": [], 
+    "titleVariants": [
+        "Aramaic Targum to II Chronicles", 
+        "Targ. II Chr.", 
+        "Targ. II Chron.", 
+        "Targum of II Chronicles"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Targum", 
+        "Targum Jerusalem"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Targum of II Chronicles", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תרגום דברי הימים ב", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Aramaic Targum to II Chronicles"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תרגום דברי הימים ב", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. II Chr."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. II Chron."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targum of II Chronicles", 
+                "primary": true
+            }
+        ], 
+        "key": "Targum of II Chronicles", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

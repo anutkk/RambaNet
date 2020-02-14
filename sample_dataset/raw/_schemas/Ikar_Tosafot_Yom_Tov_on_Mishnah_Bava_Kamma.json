@@ -1,0 +1,126 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Bava Kamma", 
+            "he": "משנה בבא קמא"
+        }
+    ], 
+    "pubPlace": "Lemberg", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "עיקר תוספות יום טוב על משנה בבא קמא", 
+        "עיקר התוספות יו\"ט על משנה בבא קמא", 
+        "עיקר התוספות יום-טוב על משנה בבא קמא", 
+        "עיקר ר' יום טוב ליפמן הלוי הלר על משנה בבא קמא"
+    ], 
+    "heTitle": "עיקר תוספות יום טוב על משנה בבא קמא", 
+    "errorMargin": "5", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "עיקר תוספות יום טוב", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1790", 
+    "title": "Ikar Tosafot Yom Tov on Mishnah Bava Kamma", 
+    "compDate": "1785", 
+    "compDateString": {
+        "en": " (c.1780  - c.1790 CE)", 
+        "he": " (1780 - 1790 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ikar Tosafot Yom Tov on Mishnah Bava Kamma", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "עיקר תוספות יום טוב על משנה בבא קמא", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on M. Bava Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on Mishna Bava Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on M Bava Kamma"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר תוספות יום טוב על משנה בבא קמא", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר התוספות יו\"ט על משנה בבא קמא"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר התוספות יום-טוב על משנה בבא קמא"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר ר' יום טוב ליפמן הלוי הלר על משנה בבא קמא"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on Mishnah Bava Kamma", 
+                "primary": true
+            }
+        ], 
+        "key": "Ikar Tosafot Yom Tov on Mishnah Bava Kamma", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Ikar Tosafot Yom Tov is an abridged version of Rabbi Yom Tov Lippmann Heller’s (1579 - 1654) classic commentary on the Mishnah - Tosafot Yom Tov. ", 
+    "heDesc": "עיבוד מקוצר של הפירוש למשנה של הרב יום טוב ליפמן הלר (1579 - 1654). ", 
+    "authors": [
+        {
+            "en": "Meshulam Katz", 
+            "he": "משולם בן יואל כץ"
+        }, 
+        {
+            "en": "Yom-Tov Lipmann Heller", 
+            "he": "יום-טוב ליפמן הלר"
+        }
+    ], 
+    "titleVariants": [
+        "Ikar Tosafot Yom Tov on M. Bava Kamma", 
+        "Ikar Tosafot Yom Tov on Mishna Bava Kamma", 
+        "Ikar Tosafot Yom Tov on M Bava Kamma", 
+        "Ikar Tosafot Yom Tov on Mishnah Bava Kamma"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Ikar Tosafot Yom Tov", 
+        "Seder Nezikin"
+    ], 
+    "collective_title": {
+        "en": "Ikar Tosafot Yom Tov", 
+        "he": "עיקר תוספות יום טוב"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

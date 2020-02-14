@@ -1,0 +1,56 @@
+{
+    "heCategories": [
+        "שו\"ת"
+    ], 
+    "title": "Chazeh Hatenufa", 
+    "heTitleVariants": [
+        "חזה התנופה"
+    ], 
+    "enDesc": "An abridgement of Responsa of the Rosh, printed by Chida together with his responsa \"Chaim Sha'al.\"", 
+    "depth": 1, 
+    "heDesc": "קיצור של תשובות הרא\"ש, נדפס על ידי החיד\"א בספר השו\"ת שלו \"חיים שאל\".", 
+    "heTitle": "חזה התנופה", 
+    "authors": [
+        {
+            "en": "Moshe of Brussels", 
+            "he": "משה די ברושלייש"
+        }
+    ], 
+    "titleVariants": [
+        "Chazeh Hatenufa"
+    ], 
+    "sectionNames": [
+        "Siman"
+    ], 
+    "categories": [
+        "Responsa"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Chazeh Hatenufa", 
+        "addressTypes": [
+            "Siman"
+        ], 
+        "heTitle": "חזה התנופה", 
+        "depth": 1, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "חזה התנופה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Chazeh Hatenufa", 
+                "primary": true
+            }
+        ], 
+        "key": "Chazeh Hatenufa", 
+        "heSectionNames": [
+            "סימן"
+        ], 
+        "sectionNames": [
+            "Siman"
+        ]
+    }
+}

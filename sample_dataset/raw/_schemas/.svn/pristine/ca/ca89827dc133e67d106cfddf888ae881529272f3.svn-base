@@ -1,0 +1,117 @@
+{
+    "heTitleVariants": [
+        "רלב\"ג שיר השירים"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Song of Songs", 
+            "he": "שיר השירים"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רלב\"ג", 
+        "כתובים"
+    ], 
+    "title": "Ralbag on Song of Songs", 
+    "compDate": "1335", 
+    "collective_title": {
+        "en": "Ralbag", 
+        "he": "רלב\"ג"
+    }, 
+    "enDesc": "A commentary written by Rabbi Levi ben Gershon (1288–1344) of Provence. Ralbag was a Talmudist, mathematician and astronomer. He was a rationalist which is reflected in his approach to angels and miracles in his commentary. The commentary is divided into 3 parts: the lexicon (bi’ur ha-milot), exegesis (bi’ur ha-parasha), and the lessons (to’alot). ", 
+    "dependence": "Commentary", 
+    "compDateString": {
+        "en": " (c.1325  - c.1345 CE)", 
+        "he": " (1325 - 1345 לספירה בקירוב)"
+    }, 
+    "base_text_mapping": null, 
+    "heTitle": "רלב\"ג שיר השירים", 
+    "authors": [
+        {
+            "en": "Ralbag", 
+            "he": "רלב\"ג"
+        }
+    ], 
+    "titleVariants": [
+        "Ralbag on Song of Songs"
+    ], 
+    "errorMargin": "10", 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Ralbag", 
+        "Writings"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Introduction", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "הקדמה", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Introduction", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "הקדמה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Introduction", 
+                "heSectionNames": [
+                    "פירוש"
+                ], 
+                "sectionNames": [
+                    "Comment"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "", 
+                "default": true, 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "", 
+                "depth": 3, 
+                "key": "default", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסוק", 
+                    "פירוש"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Verse", 
+                    "Comment"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "רלב\"ג שיר השירים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Song of Songs", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "רלב\"ג שיר השירים", 
+        "key": "Ralbag on Song of Songs", 
+        "title": "Ralbag on Song of Songs"
+    }
+}

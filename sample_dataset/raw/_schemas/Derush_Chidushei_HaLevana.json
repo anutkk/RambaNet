@@ -1,0 +1,136 @@
+{
+    "heTitleVariants": [
+        "דרוש חדושי הלבנה"
+    ], 
+    "heCategories": [
+        "שונות"
+    ], 
+    "pubDate": "1866", 
+    "title": "Derush Chidushei HaLevana", 
+    "compDate": "1624", 
+    "pubPlace": "Vilna", 
+    "enDesc": " A treatise by Rabbi Yom-Tov Lippman Heller (the “Tosafot Yom-Tov”) on the topic of the diminishing of the moon. It contains an extensive discussion of several difficult and seemingly conflicting rabbinic passages regarding astronomy, and at times offering a resolution based on the teachings of Kabbalah.", 
+    "compDateString": {
+        "en": " (c.1599  - c.1649 CE)", 
+        "he": " (1599 - 1649 לספירה בקירוב)"
+    }, 
+    "heDesc": "ביאור בענין אסטרונומיה ומיעוט הירח, מאת הרב יום טוב ליפמן הלר, בעל 'תוספות יום טוב'.", 
+    "heTitle": "דרוש חדושי הלבנה", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Yom-Tov Lipmann Heller", 
+            "he": "יום-טוב ליפמן הלר"
+        }
+    ], 
+    "titleVariants": [
+        "Derush Chidushei HaLevana"
+    ], 
+    "errorMargin": "25", 
+    "categories": [
+        "Other"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Sources", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "המקורות", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Sources", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "המקורות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Sources", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "title": "Introduction", 
+                "heTitle": "הקדמה", 
+                "sharedTitle": "Introduction", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Introduction", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "הקדמה", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מבוא"
+                    }
+                ], 
+                "key": "Introduction", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "", 
+                "default": true, 
+                "addressTypes": [
+                    "Integer", 
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "", 
+                "depth": 3, 
+                "key": "default", 
+                "heSectionNames": [
+                    "חלק", 
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Section", 
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "דרוש חדושי הלבנה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Derush Chidushei HaLevana", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "דרוש חדושי הלבנה", 
+        "key": "Derush Chidushei HaLevana", 
+        "title": "Derush Chidushei HaLevana"
+    }
+}

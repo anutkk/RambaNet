@@ -1,0 +1,68 @@
+{
+    "heTitleVariants": [
+        "עת האוכל"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "חסידות", 
+        "ר' צדוק הכוהן"
+    ], 
+    "title": "Et HaOchel", 
+    "compDate": "1870", 
+    "enDesc": "Essays regarding the proper approach to food and gastronomic desires", 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (c.1840  - c.1900 CE)", 
+        "he": " (1840 - 1900 לספירה בקירוב)"
+    }, 
+    "heDesc": "מאמרים בענין תאוות האכילה ופרישות", 
+    "heTitle": "עת האוכל", 
+    "authors": [
+        {
+            "en": "Tzadok HaKohen Rabinowitz", 
+            "he": "צדוק הכהן רבינוביץ"
+        }
+    ], 
+    "titleVariants": [
+        "Et HaOchel"
+    ], 
+    "errorMargin": "30", 
+    "categories": [
+        "Chasidut", 
+        "R' Tzadok HaKohen"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Et HaOchel", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "עת האוכל", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "עת האוכל", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Et HaOchel", 
+                "primary": true
+            }
+        ], 
+        "key": "Et HaOchel", 
+        "heSectionNames": [
+            "פרק", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Paragraph"
+        ]
+    }
+}

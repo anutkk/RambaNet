@@ -1,0 +1,69 @@
+{
+    "heTitleVariants": [
+        "עשרה פרקים להרמח''ל"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "קבלה"
+    ], 
+    "title": "Assarah Perakim L'Ramchal", 
+    "compDate": "1737", 
+    "enDesc": "A summary of the Kabbalistic concepts discussed in the sefer Etz Chaim.", 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (c.1727  - c.1747 CE)", 
+        "he": " (1727 - 1747 לספירה בקירוב)"
+    }, 
+    "heTitle": "עשרה פרקים להרמח''ל", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Moshe Chaim Luzzatto", 
+            "he": "משה חיים לוצאטו"
+        }
+    ], 
+    "titleVariants": [
+        "Assarah Perakim L'Ramchal"
+    ], 
+    "errorMargin": "10", 
+    "categories": [
+        "Kabbalah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            10
+        ], 
+        "title": "Assarah Perakim L'Ramchal", 
+        "heTitle": "עשרה פרקים להרמח''ל", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "עשרה פרקים להרמח''ל", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Assarah Perakim L'Ramchal", 
+                "primary": true
+            }
+        ], 
+        "key": "Assarah Perakim L'Ramchal", 
+        "heSectionNames": [
+            "פרק", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Paragraph"
+        ]
+    }
+}

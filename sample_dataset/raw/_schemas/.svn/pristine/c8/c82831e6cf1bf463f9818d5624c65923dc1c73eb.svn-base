@@ -1,0 +1,109 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Yadayim", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Yadayim (Hands) belongs to the sixth order, Tahorot (Purities) and discusses Rabbinic impurity related to the hands. It has two chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא ידים"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא ידים", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Yadayim", 
+        "T. Yadayim", 
+        "Tosefta Yadaim", 
+        "Tos. Yadaim", 
+        "T. Yadaim", 
+        "Tosef. Yad.", 
+        "Tosefta Yadayim"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        12
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            2
+        ], 
+        "title": "Tosefta Yadayim", 
+        "heTitle": "תוספתא ידים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Yadayim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Yadayim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Yadaim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Yadaim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Yadaim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא ידים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Yad."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Yadayim", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Yadayim", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

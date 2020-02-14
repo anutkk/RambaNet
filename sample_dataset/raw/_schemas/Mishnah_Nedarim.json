@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Nedarim", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Nedarim (Vows) belongs to the third order, Nashim (Women) and discusses various types of vows, often known as nedarim, and their legal consequence. It has thirteen chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה נדרים"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה נדרים", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Mishna Nedarim", 
+        "M Nedarim", 
+        "M. Nedarim", 
+        "Mishnah Ned.", 
+        "Mishnah N’darim", 
+        "Mishnah Nedarim"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        26, 
+        3
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            11, 
+            90
+        ], 
+        "title": "Mishnah Nedarim", 
+        "heTitle": "משנה נדרים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishna Nedarim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Nedarim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Nedarim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה נדרים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Ned."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah N’darim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Nedarim", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Nedarim", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Oktzin", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Ukzim (Stems) belongs to the sixth order, Tahorot (Purities) and discusses the impurity of the stalks of fruit. It has three chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה עוקצים", 
+        "עוקצים", 
+        "עוקצין", 
+        "משנה עוקצין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה עוקצים", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Oktzin", 
+        "Mishna Oktzin", 
+        "M Oktzin", 
+        "Ukzim", 
+        "M Ukzim", 
+        "Uktsin", 
+        "Ukts.", 
+        "ʿUḳtsin", 
+        "Mishnah Ukts.", 
+        "Mishnah ʿUḳtsin", 
+        "Mishnah Oktzin"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        63, 
+        12
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            3, 
+            28
+        ], 
+        "title": "Mishnah Oktzin", 
+        "heTitle": "משנה עוקצים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Oktzin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Oktzin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Oktzin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ukzim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Ukzim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Uktsin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ukts."
+            }, 
+            {
+                "lang": "en", 
+                "text": "ʿUḳtsin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Ukts."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah ʿUḳtsin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה עוקצים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "עוקצים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עוקצין"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה עוקצין"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Oktzin", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Oktzin", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

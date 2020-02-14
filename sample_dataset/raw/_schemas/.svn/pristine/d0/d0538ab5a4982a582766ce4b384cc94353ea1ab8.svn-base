@@ -1,0 +1,149 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Eduyot", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Eduyot (Testimonies) belongs to the fourth order, Nezikin (The Order of Damages) and presents case studies of legal disputes in Mishnaic times and the miscellaneous testimonies that illustrate various Sages and principles of halakha. It has eight chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה עדיות", 
+        "משנה עדויות", 
+        "עדיות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה עדיות", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Eduyot", 
+        "Mishna Eduyot", 
+        "M Eduyot", 
+        "Eduyot", 
+        "Eduyoth", 
+        "Eyduos", 
+        "Ed.", 
+        "Eduy.", 
+        "Mishnah Ed.", 
+        "Mishnah Eduyoth", 
+        "Mishnah Eduy.", 
+        "Eduyyot", 
+        "Mishnah Eduyot"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        37, 
+        7
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            8, 
+            74
+        ], 
+        "title": "Mishnah Eduyot", 
+        "heTitle": "משנה עדיות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Eduyot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Eduyot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Eduyot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eduyot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eduyoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eyduos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ed."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eduy."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Ed."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Eduyoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Eduy."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eduyyot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה עדיות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה עדויות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עדיות"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Eduyot", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Eduyot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

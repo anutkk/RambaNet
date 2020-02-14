@@ -1,0 +1,112 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Temurah", 
+            "he": "תמורה"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על תמורה"
+    ], 
+    "heTitle": "רש\"י על תמורה", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רש\"י", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "1520", 
+    "title": "Rashi on Temurah", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Temurah", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על תמורה", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Masekhet Temurah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Talmud Temurah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Tractate Temurah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תמורה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Temurah", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Temurah", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Masekhet Temurah", 
+        "Rashi on Talmud Temurah", 
+        "Rashi on Tractate Temurah", 
+        "Rashi on Temurah"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashi", 
+        "Seder Kodashim"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

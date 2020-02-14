@@ -1,0 +1,98 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishneh Torah, Human Dispositions", 
+            "he": "משנה תורה, הלכות דעות"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Salonica / Thessaloniki ", 
+    "heTitleVariants": [
+        "לחם משנה על משנה תורה, הלכות דעות"
+    ], 
+    "heTitle": "לחם משנה על משנה תורה, הלכות דעות", 
+    "errorMargin": "10", 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "מפרשים", 
+        "לחם משנה", 
+        "ספר מדע"
+    ], 
+    "pubDate": "1609", 
+    "title": "Lehem Mishneh on Mishneh Torah, Human Dispositions", 
+    "compDate": "1578", 
+    "compDateString": {
+        "en": " (c.1568  - c.1588 CE)", 
+        "he": " (1568 - 1588 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Salonica / Thessaloniki ", 
+        "he": "סלוניקי"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Lehem Mishneh on Mishneh Torah, Human Dispositions", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah", 
+            "Integer"
+        ], 
+        "heTitle": "לחם משנה על משנה תורה, הלכות דעות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "לחם משנה על משנה תורה, הלכות דעות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Lehem Mishneh on Mishneh Torah, Human Dispositions", 
+                "primary": true
+            }
+        ], 
+        "key": "Lehem Mishneh on Mishneh Torah, Human Dispositions", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Commentary on Rambam's Mishneh Torah, incorporated with most editions of Rambam. While writing his commentary, the author became aware that R' Joseph Karo had recently released his own commentary entitled \"Kesef Mishneh\", so he decided to omit any duplicate material and label his own work \"Lechem Mishneh\" as a complementary text.", 
+    "heDesc": "פירוש על משנה תורה להרמב\"ם הנדפס ברוב המהדורות. תוך כדי כתיבת חיבורו על הרמב\"ם, הגיע לידי המחבר חיבורו של ר' יוסף קארו, \"כסף משנה\", ולכן השמיט כל מה שנכפל בחיבור שלו וקרא שם ספרו \"לחם משנה\", שהוא מעין תוספת על \"כסף משנה\". ", 
+    "authors": [
+        {
+            "en": "Abraham de Boton", 
+            "he": "אברהם די בוטון"
+        }
+    ], 
+    "titleVariants": [
+        "Lehem Mishneh on Mishneh Torah, Human Dispositions"
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Commentary", 
+        "Lehem Mishneh", 
+        "Sefer Madda"
+    ], 
+    "collective_title": {
+        "en": "Lehem Mishneh", 
+        "he": "לחם משנה"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

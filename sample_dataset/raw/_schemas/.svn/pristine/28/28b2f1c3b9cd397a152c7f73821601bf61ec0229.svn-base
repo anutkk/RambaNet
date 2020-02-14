@@ -1,0 +1,345 @@
+{
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Babylon", 
+    "enDesc": "Hagggiah (Festival Offering) belongs to the second order, Moed (Festivals) and the Three Pilgrimage Festivals (Passover, Shavuot, Sukkot) and the pilgrimage offering that men were supposed to bring in Jerusalem. It has three chapters.", 
+    "heTitle": "חגיגה", 
+    "errorMargin": "50", 
+    "is_cited": true, 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1523", 
+    "title": "Chagigah", 
+    "compDate": "500", 
+    "compDateString": {
+        "en": " (c.450  - c.550 CE)", 
+        "he": " (450 - 550 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Talmudic Babylon", 
+        "he": "בבל התלמודית"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "lengths": [
+            51, 
+            2482
+        ], 
+        "title": "Chagigah", 
+        "heTitle": "חגיגה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Talmud Chagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Chag."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Chagiga"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Masekhet Chagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tractate Chagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Hagiga"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Hagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ḥag."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ḥãgigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ḥagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Hegigah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "חגיגה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Chagigah", 
+                "primary": true
+            }
+        ], 
+        "key": "Chagigah", 
+        "checkFirst": {
+            "en": "Mishnah Chagigah", 
+            "he": "משנה חגיגה"
+        }, 
+        "heSectionNames": [
+            "דף", 
+            "שורה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line"
+        ]
+    }, 
+    "heTitleVariants": [
+        "חגיגה"
+    ], 
+    "authors": [], 
+    "titleVariants": [
+        "Talmud Chagigah", 
+        "Chag.", 
+        "Chagiga", 
+        "Masekhet Chagigah", 
+        "Tractate Chagigah", 
+        "Hagiga", 
+        "Hagigah", 
+        "Ḥag.", 
+        "Ḥãgigah", 
+        "Ḥagigah", 
+        "Hegigah", 
+        "Chagigah"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Seder Moed"
+    ], 
+    "depth": 2, 
+    "era": "A", 
+    "default_struct": "Chapters", 
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "wholeRef": "Chagigah 2a:1-11b:5", 
+                    "title": "Chapter 1", 
+                    "refs": [
+                        "Chagigah 2a:1-8", 
+                        "Chagigah 2b", 
+                        "Chagigah 3a", 
+                        "Chagigah 3b", 
+                        "Chagigah 4a", 
+                        "Chagigah 4b", 
+                        "Chagigah 5a", 
+                        "Chagigah 5b", 
+                        "Chagigah 6a", 
+                        "Chagigah 6b", 
+                        "Chagigah 7a", 
+                        "Chagigah 7b", 
+                        "Chagigah 8a", 
+                        "Chagigah 8b", 
+                        "Chagigah 9a", 
+                        "Chagigah 9b", 
+                        "Chagigah 10a", 
+                        "Chagigah 10b", 
+                        "Chagigah 11a", 
+                        "Chagigah 11b:1-5"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "הכל חייבין", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 1", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "הכל חייבין", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 2, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Chagigah 11b:6-20b:6", 
+                    "title": "Chapter 2", 
+                    "refs": [
+                        "Chagigah 11b:6-24", 
+                        "Chagigah 12a", 
+                        "Chagigah 12b", 
+                        "Chagigah 13a", 
+                        "Chagigah 13b", 
+                        "Chagigah 14a", 
+                        "Chagigah 14b", 
+                        "Chagigah 15a", 
+                        "Chagigah 15b", 
+                        "Chagigah 16a", 
+                        "Chagigah 16b", 
+                        "Chagigah 17a", 
+                        "Chagigah 17b", 
+                        "Chagigah 18a", 
+                        "Chagigah 18b", 
+                        "Chagigah 19a", 
+                        "Chagigah 19b", 
+                        "Chagigah 20a", 
+                        "Chagigah 20b:1-6"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "אין דורשין", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 2", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "אין דורשין", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 21, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Chagigah 20b:7-27a:9", 
+                    "title": "Chapter 3", 
+                    "refs": [
+                        "Chagigah 20b:7-11", 
+                        "Chagigah 21a", 
+                        "Chagigah 21b", 
+                        "Chagigah 22a", 
+                        "Chagigah 22b", 
+                        "Chagigah 23a", 
+                        "Chagigah 23b", 
+                        "Chagigah 24a", 
+                        "Chagigah 24b", 
+                        "Chagigah 25a", 
+                        "Chagigah 25b", 
+                        "Chagigah 26a", 
+                        "Chagigah 26b", 
+                        "Chagigah 27a:1-9"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "חומר בקודש", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 3", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "חומר בקודש", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 39, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }
+            ], 
+            "titles": [
+                {
+                    "lang": "en", 
+                    "text": "Talmud Chagigah"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Chag."
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Chagiga"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Masekhet Chagigah"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Tractate Chagigah"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Hagiga"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Hagigah"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Ḥag."
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Ḥãgigah"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Ḥagigah"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Hegigah"
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "חגיגה", 
+                    "primary": true
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Chagigah", 
+                    "primary": true
+                }
+            ], 
+            "heTitle": "חגיגה", 
+            "title": "Chagigah"
+        }
+    }, 
+    "order": [
+        12, 
+        11
+    ]
+}

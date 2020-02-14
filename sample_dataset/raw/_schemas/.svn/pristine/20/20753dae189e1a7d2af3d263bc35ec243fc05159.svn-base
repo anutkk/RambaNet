@@ -1,0 +1,530 @@
+{
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Babylon", 
+    "enDesc": "Shevuot (Oaths) belongs to the fourth order, Nezikin (The Order of Damages) and discusses various types of oaths and their consequences. It has eight chapters.", 
+    "heTitle": "שבועות", 
+    "errorMargin": "50", 
+    "is_cited": true, 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1523", 
+    "title": "Shevuot", 
+    "compDate": "500", 
+    "compDateString": {
+        "en": " (c.450  - c.550 CE)", 
+        "he": " (450 - 550 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Talmudic Babylon", 
+        "he": "בבל התלמודית"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "lengths": [
+            96, 
+            4842
+        ], 
+        "title": "Shevuot", 
+        "heTitle": "שבועות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Masekhet Shevuot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Talmud Shevuot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tractate Shevuot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shebu."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shʾbuoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shavuos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shavuot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shebu’ot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שבועות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "שבועו'"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שבועו׳"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shevuot", 
+                "primary": true
+            }
+        ], 
+        "key": "Shevuot", 
+        "checkFirst": {
+            "en": "Mishnah Shevuot", 
+            "he": "משנה שבועות"
+        }, 
+        "heSectionNames": [
+            "דף", 
+            "שורה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line"
+        ]
+    }, 
+    "heTitleVariants": [
+        "שבועות", 
+        "שבועו'", 
+        "שבועו׳"
+    ], 
+    "authors": [], 
+    "titleVariants": [
+        "Masekhet Shevuot", 
+        "Talmud Shevuot", 
+        "Tractate Shevuot", 
+        "Shebu.", 
+        "Shʾbuoth", 
+        "Shavuos", 
+        "Shavuot", 
+        "Shebu’ot", 
+        "Shevuot"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Seder Nezikin"
+    ], 
+    "depth": 2, 
+    "era": "A", 
+    "default_struct": "Chapters", 
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "wholeRef": "Shevuot 2a:1-14a:11", 
+                    "title": "Chapter 1", 
+                    "refs": [
+                        "Shevuot 2a:1-8", 
+                        "Shevuot 2b", 
+                        "Shevuot 3a", 
+                        "Shevuot 3b", 
+                        "Shevuot 4a", 
+                        "Shevuot 4b", 
+                        "Shevuot 5a", 
+                        "Shevuot 5b", 
+                        "Shevuot 6a", 
+                        "Shevuot 6b", 
+                        "Shevuot 7a", 
+                        "Shevuot 7b", 
+                        "Shevuot 8a", 
+                        "Shevuot 8b", 
+                        "Shevuot 9a", 
+                        "Shevuot 9b", 
+                        "Shevuot 10a", 
+                        "Shevuot 10b", 
+                        "Shevuot 11a", 
+                        "Shevuot 11b", 
+                        "Shevuot 12a", 
+                        "Shevuot 12b", 
+                        "Shevuot 13a", 
+                        "Shevuot 13b", 
+                        "Shevuot 14a:1-11"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "שבועות שתים קמא", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 1", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "שבועות שתים קמא", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 2, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Shevuot 14a:12-19b:12", 
+                    "title": "Chapter 2", 
+                    "refs": [
+                        "Shevuot 14a:12-16", 
+                        "Shevuot 14b", 
+                        "Shevuot 15a", 
+                        "Shevuot 15b", 
+                        "Shevuot 16a", 
+                        "Shevuot 16b", 
+                        "Shevuot 17a", 
+                        "Shevuot 17b", 
+                        "Shevuot 18a", 
+                        "Shevuot 18b", 
+                        "Shevuot 19a", 
+                        "Shevuot 19b:1-12"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "ידיעות הטומאה", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 2", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ידיעות הטומאה", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 26, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Shevuot 19b:13-29b:16", 
+                    "title": "Chapter 3", 
+                    "refs": [
+                        "Shevuot 19b:13-16", 
+                        "Shevuot 20a", 
+                        "Shevuot 20b", 
+                        "Shevuot 21a", 
+                        "Shevuot 21b", 
+                        "Shevuot 22a", 
+                        "Shevuot 22b", 
+                        "Shevuot 23a", 
+                        "Shevuot 23b", 
+                        "Shevuot 24a", 
+                        "Shevuot 24b", 
+                        "Shevuot 25a", 
+                        "Shevuot 25b", 
+                        "Shevuot 26a", 
+                        "Shevuot 26b", 
+                        "Shevuot 27a", 
+                        "Shevuot 27b", 
+                        "Shevuot 28a", 
+                        "Shevuot 28b", 
+                        "Shevuot 29a", 
+                        "Shevuot 29b:1-16"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "שבועות שתים בתרא", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 3", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "שבועות שתים בתרא", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 37, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Shevuot 30a:1-36b:4", 
+                    "title": "Chapter 4", 
+                    "refs": [
+                        "Shevuot 30a:1-14", 
+                        "Shevuot 30b", 
+                        "Shevuot 31a", 
+                        "Shevuot 31b", 
+                        "Shevuot 32a", 
+                        "Shevuot 32b", 
+                        "Shevuot 33a", 
+                        "Shevuot 33b", 
+                        "Shevuot 34a", 
+                        "Shevuot 34b", 
+                        "Shevuot 35a", 
+                        "Shevuot 35b", 
+                        "Shevuot 36a", 
+                        "Shevuot 36b:1-4"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "שבועת העדות", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 4", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "שבועת העדות", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 58, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Shevuot 36b:5-38b:7", 
+                    "title": "Chapter 5", 
+                    "refs": [
+                        "Shevuot 36b:5-19", 
+                        "Shevuot 37a", 
+                        "Shevuot 37b", 
+                        "Shevuot 38a", 
+                        "Shevuot 38b:1-7"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "שבועת הפקדון", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 5", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "שבועת הפקדון", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 71, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Shevuot 38b:8-44b:7", 
+                    "title": "Chapter 6", 
+                    "refs": [
+                        "Shevuot 38b:8-27", 
+                        "Shevuot 39a", 
+                        "Shevuot 39b", 
+                        "Shevuot 40a", 
+                        "Shevuot 40b", 
+                        "Shevuot 41a", 
+                        "Shevuot 41b", 
+                        "Shevuot 42a", 
+                        "Shevuot 42b", 
+                        "Shevuot 43a", 
+                        "Shevuot 43b", 
+                        "Shevuot 44a", 
+                        "Shevuot 44b:1-7"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "שבועת הדיינין", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 6", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "שבועת הדיינין", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 75, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Shevuot 44b:8-49a:3", 
+                    "title": "Chapter 7", 
+                    "refs": [
+                        "Shevuot 44b:8-12", 
+                        "Shevuot 45a", 
+                        "Shevuot 45b", 
+                        "Shevuot 46a", 
+                        "Shevuot 46b", 
+                        "Shevuot 47a", 
+                        "Shevuot 47b", 
+                        "Shevuot 48a", 
+                        "Shevuot 48b", 
+                        "Shevuot 49a:1-3"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "כל הנשבעין", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 7", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "כל הנשבעין", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 87, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Shevuot 49a:4-49b:16", 
+                    "title": "Chapter 8", 
+                    "refs": [
+                        "Shevuot 49a:4-12", 
+                        "Shevuot 49b:1-16"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "ארבעה שומרין", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 8", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ארבעה שומרין", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 96, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }
+            ], 
+            "titles": [
+                {
+                    "lang": "en", 
+                    "text": "Masekhet Shevuot"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Talmud Shevuot"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Tractate Shevuot"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Shebu."
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Shʾbuoth"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Shavuos"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Shavuot"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Shebu’ot"
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "שבועות", 
+                    "primary": true
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "שבועו'"
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "שבועו׳"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Shevuot", 
+                    "primary": true
+                }
+            ], 
+            "heTitle": "שבועות", 
+            "title": "Shevuot"
+        }
+    }, 
+    "order": [
+        25, 
+        6
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Exodus", 
+            "he": "ספר שמות"
+        }
+    ], 
+    "pubPlace": "Lublin", 
+    "enDesc": "Torah commentary written by Rabbi Shlomo Ephraim ben Aaron Luntschitz and originally published in 1602. The name, Kli Yakar, comes from Proverbs 20:15 where it says that wise speech is a “kli yakar”,  a precious object. ", 
+    "heTitle": "כלי יקר על שמות", 
+    "errorMargin": "2", 
+    "is_cited": true, 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "כלי יקר", 
+        "תורה"
+    ], 
+    "pubDate": "1602", 
+    "title": "Kli Yakar on Exodus", 
+    "compDate": "1600", 
+    "compDateString": {
+        "en": " (c.1598  - c.1602 CE)", 
+        "he": " (1598 - 1602 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Kli Yakar on Exodus", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "כלי יקר על שמות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Exod."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Ex."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Exo"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Shmot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Shemot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Ex"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Exo."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Exod"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Shemoth"
+            }, 
+            {
+                "lang": "he", 
+                "text": "כלי יקר על שמות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kli Yakar on Exodus", 
+                "primary": true
+            }
+        ], 
+        "key": "Kli Yakar on Exodus", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "heTitleVariants": [
+        "כלי יקר על שמות"
+    ], 
+    "authors": [
+        {
+            "en": "Shlomo Ephraim ben Aaron Luntschitz", 
+            "he": "שלמה אפרים מלונטשיץ"
+        }
+    ], 
+    "titleVariants": [
+        "Kli Yakar on Exod.", 
+        "Kli Yakar on Ex.", 
+        "Kli Yakar on Exo", 
+        "Kli Yakar on Shmot", 
+        "Kli Yakar on Shemot", 
+        "Kli Yakar on Ex", 
+        "Kli Yakar on Exo.", 
+        "Kli Yakar on Exod", 
+        "Kli Yakar on Shemoth", 
+        "Kli Yakar on Exodus"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Kli Yakar", 
+        "Torah"
+    ], 
+    "collective_title": {
+        "en": "Kli Yakar", 
+        "he": "כלי יקר"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

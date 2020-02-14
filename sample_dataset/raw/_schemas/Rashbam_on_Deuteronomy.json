@@ -1,0 +1,191 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Deuteronomy", 
+            "he": "ספר דברים"
+        }
+    ], 
+    "pubPlace": "Berlin", 
+    "compPlace": "Middle-Age France", 
+    "enDesc": "Commentary written by Rabbi Shmuel ben Meir, Rashbam (France, c.1080 - c.1160). Rashbam, a grandson of Rashi, was part of the Tosafist school. Whereas Rashi famously claimed that his commentary would present the pshat (contextual meaning) of the text, when in reality it relies heavily on midrash; Rashbam’s commentary actually stays very loyal to the pshat.  ", 
+    "heTitle": "רשב\"ם על דברים", 
+    "errorMargin": "20", 
+    "is_cited": true, 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רשב\"ם", 
+        "תורה"
+    ], 
+    "pubDate": "1705", 
+    "title": "Rashbam on Deuteronomy", 
+    "compDate": "1140", 
+    "compDateString": {
+        "en": " (c.1120  - c.1160 CE)", 
+        "he": " (1120 - 1160 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashbam on Deuteronomy", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רשב\"ם על דברים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Deu."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Devarim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Deu"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Deut."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Deut"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Deuteronomy"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Deu."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Devarim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Deu"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Deut."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Deut"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Deuteronomy"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Deu."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Devarim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Deu"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Deut."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Deut"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רשב\"ם על דברים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רשב\"ם על דברי'"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רשב\"ם על דברי׳"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Deuteronomy", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashbam on Deuteronomy", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "heTitleVariants": [
+        "רשב\"ם על דברים", 
+        "רשב\"ם על דברי'", 
+        "רשב\"ם על דברי׳"
+    ], 
+    "authors": [
+        {
+            "en": "Rashbam", 
+            "he": "רשב״ם"
+        }
+    ], 
+    "titleVariants": [
+        "Shumel ben Meir on Deu.", 
+        "Shumel ben Meir on Devarim", 
+        "Shumel ben Meir on Deu", 
+        "Shumel ben Meir on Deut.", 
+        "Shumel ben Meir on Deut", 
+        "Shumel ben Meir on Deuteronomy", 
+        "Samuel ben Meir on Deu.", 
+        "Samuel ben Meir on Devarim", 
+        "Samuel ben Meir on Deu", 
+        "Samuel ben Meir on Deut.", 
+        "Samuel ben Meir on Deut", 
+        "Samuel ben Meir on Deuteronomy", 
+        "Rashbam on Deu.", 
+        "Rashbam on Devarim", 
+        "Rashbam on Deu", 
+        "Rashbam on Deut.", 
+        "Rashbam on Deut", 
+        "Rashbam on Deuteronomy"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Rashbam", 
+        "Torah"
+    ], 
+    "collective_title": {
+        "en": "Rashbam", 
+        "he": "רשב\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

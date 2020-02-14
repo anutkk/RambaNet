@@ -1,0 +1,78 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "Genesis", 
+            "he": "בראשית"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "הרחב דבר", 
+        "תורה"
+    ], 
+    "title": "Harchev Davar on Genesis", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Harchev Davar", 
+        "he": "הרחב דבר"
+    }, 
+    "enDesc": "Harchev Davar are the footnotes that the Netziv wrote to his commentary, Haamek Davar.", 
+    "dependence": "Commentary", 
+    "heTitleVariants": [
+        "הרחב דבר על בראשית"
+    ], 
+    "heTitle": "הרחב דבר על בראשית", 
+    "authors": [
+        {
+            "en": "Naphtali Zevi Yehudah Berlin", 
+            "he": "נפתלי צבי יהודה ברלין"
+        }
+    ], 
+    "titleVariants": [
+        "Harchev Davar on Genesis"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Passuk"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Harchev Davar", 
+        "Torah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Harchev Davar on Genesis", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "הרחב דבר על בראשית", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "הרחב דבר על בראשית", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Harchev Davar on Genesis", 
+                "primary": true
+            }
+        ], 
+        "key": "Harchev Davar on Genesis", 
+        "heSectionNames": [
+            "פרק", 
+            ""
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Passuk"
+        ]
+    }
+}

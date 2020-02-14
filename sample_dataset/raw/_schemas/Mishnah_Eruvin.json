@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Eruvin", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Eruvim (Mixtures) belongs to the second order, Moed (Festivals) and discusses the Eruv or Sabbath-bound - a category of constructions/delineations that alter the domains of the Sabbath for carrying and travel. It has ten chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה עירובין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה עירובין", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M Eruvin", 
+        "M. Eruvin", 
+        "Mishna Eruvin", 
+        "Mishnah Erub.", 
+        "Mishnah Erubin", 
+        "Mishnah Eruvin"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        13, 
+        2
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            10, 
+            96
+        ], 
+        "title": "Mishnah Eruvin", 
+        "heTitle": "משנה עירובין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M Eruvin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Eruvin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Eruvin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה עירובין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Erub."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Erubin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Eruvin", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Eruvin", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

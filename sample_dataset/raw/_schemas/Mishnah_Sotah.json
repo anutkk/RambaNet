@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Sotah", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Sotah (Wayward Wife) belongs to the third order, Nashim (Women) and discusses the ritual of the Sotah – the woman suspected of adultery (Num 5) as well as other rituals involving a spoken formula (such as breaking the heifer's neck, the King's septa-annual public Torah reading, the Blessings and Curses of Mount Gerizim and Mount Ebal, etc...). It has nine chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה סוטה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה סוטה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Mishna Sotah", 
+        "M. Sotah", 
+        "M Sotah", 
+        "Mishnah Sot.", 
+        "Mishnah Soṭah", 
+        "Mishnah Sotah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        28, 
+        5
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            9, 
+            67
+        ], 
+        "title": "Mishnah Sotah", 
+        "heTitle": "משנה סוטה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishna Sotah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Sotah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Sotah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה סוטה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Sot."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Soṭah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Sotah", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Sotah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

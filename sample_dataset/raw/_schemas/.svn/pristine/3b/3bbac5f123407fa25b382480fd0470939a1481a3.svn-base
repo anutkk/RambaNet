@@ -1,0 +1,160 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר טהרה"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Immersion Pools", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The tenth book is Sefer Taharah (Cleanness: the rules of purity). Hilchot Mikvaot.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות מקואות", 
+        "רמב\"ם, הלכות מקואות", 
+        "משנה תורה, הל' מקואות", 
+        "רמב\"ם, הל' מקואות", 
+        "רמב\"ם הלכות מקואות", 
+        "רמב\"ם הל' מקואות", 
+        "משנה תורה, הלכות מקוואות"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות מקואות", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Rambam, Mikvot", 
+        "Mishneh Torah, Laws of Immersion Pools", 
+        "Rambam, Immersion Pools", 
+        "Rambam, Laws of Immersion Pools", 
+        "Rambam, Hilchot Mikvot", 
+        "Mishneh Torah, Hilchot Mikvot", 
+        "Mishneh Torah, Mikvot", 
+        "Rambam, Hilkhot Mikvot", 
+        "Mishneh Torah, Hilkhot Mikvot", 
+        "Mishneh Torah, Immersion Pools"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        68, 
+        8
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Taharah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            11
+        ], 
+        "title": "Mishneh Torah, Immersion Pools", 
+        "heTitle": "משנה תורה, הלכות מקואות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rambam, Mikvot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Immersion Pools"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Immersion Pools"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Immersion Pools"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Mikvot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Mikvot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Mikvot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Mikvot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Mikvot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות מקואות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות מקואות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' מקואות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' מקואות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות מקואות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' מקואות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות מקוואות"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Immersion Pools", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Immersion Pools", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "heTitleVariants": [
+        "תשובות הרשב\"א מיוחס להרמב\"ן"
+    ], 
+    "sectionNames": [
+        "Teshuva", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "שו\"ת", 
+        "רשב\"א"
+    ], 
+    "pubDate": "1470", 
+    "title": "Teshuvot haRashba Meyuchas LehaRamban", 
+    "compDate": "1290", 
+    "pubPlace": "Rome", 
+    "compPlace": "Barcelona, Spain", 
+    "enDesc": "A compilation of responsa written by the Rashba (Rabbi Shlomo ben Avraham ibn Aderet) but attributed to his the teacher, the Ramban (Nachmanides).", 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (c.1270  - c.1310 CE)", 
+        "he": " (1270 - 1310 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Barcelona, Spain", 
+        "he": "ברצלונה, ספרד"
+    }, 
+    "heTitle": "תשובות הרשב\"א מיוחס להרמב\"ן", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rashba", 
+            "he": "רשב\"א"
+        }
+    ], 
+    "titleVariants": [
+        "Teshuvot haRashba Meyuchas LehaRamban"
+    ], 
+    "errorMargin": "20", 
+    "categories": [
+        "Responsa", 
+        "Rashba"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Teshuvot haRashba Meyuchas LehaRamban", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "תשובות הרשב\"א מיוחס להרמב\"ן", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תשובות הרשב\"א מיוחס להרמב\"ן", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Teshuvot haRashba Meyuchas LehaRamban", 
+                "primary": true
+            }
+        ], 
+        "key": "Teshuvot haRashba Meyuchas LehaRamban", 
+        "heSectionNames": [
+            "", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Teshuva", 
+            "Paragraph"
+        ]
+    }
+}

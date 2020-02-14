@@ -1,0 +1,155 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר אהבה"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Fringes", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The second book is Ahavah (Love): the precepts which must be observed at all times if the love due to God is to be remembered continually (prayer, tefillin).", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות ציצית", 
+        "רמב\"ם, הלכות ציצית", 
+        "משנה תורה, הל' ציצית", 
+        "רמב\"ם, הל' ציצית", 
+        "רמב\"ם הלכות ציצית", 
+        "רמב\"ם הל' ציצית"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות ציצית", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Rambam, Laws of Fringes", 
+        "Rambam, Tzitzis", 
+        "Mishneh Torah, Laws of Fringes", 
+        "Rambam, Fringes", 
+        "Rambam, Hilchot Tzitzis", 
+        "Mishneh Torah, Hilchot Tzitzis", 
+        "Mishneh Torah, Tzitzis", 
+        "Rambam, Hilkhot Tzitzis", 
+        "Mishneh Torah, Hilkhot Tzitzis", 
+        "Mishneh Torah, Fringes"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        13, 
+        4
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Ahavah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            3
+        ], 
+        "title": "Mishneh Torah, Fringes", 
+        "heTitle": "משנה תורה, הלכות ציצית", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Fringes"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Tzitzis"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Fringes"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Fringes"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Tzitzis"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Tzitzis"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Tzitzis"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות ציצית", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות ציצית"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Tzitzis"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Tzitzis"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' ציצית"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' ציצית"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות ציצית"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' ציצית"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Fringes", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Fringes", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

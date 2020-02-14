@@ -1,0 +1,91 @@
+{
+    "heTitleVariants": [
+        "תשובות הרמב\"ם", 
+        "פרקי ההצלחה להרמב\"ם", 
+        "שו\"ת הרמב\"ם"
+    ], 
+    "sectionNames": [
+        "Teshuva", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "שו\"ת", 
+        "רמב\"ם"
+    ], 
+    "pubDate": "1765", 
+    "title": "Teshuvot HaRambam", 
+    "compDate": "1180", 
+    "pubPlace": "Amsterdam", 
+    "enDesc": "Responsa of Maimonides, also printed under the title \"Pe'er HaDor.\"", 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (c.1160  - c.1200 CE)", 
+        "he": " (1160 - 1200 לספירה בקירוב)"
+    }, 
+    "heDesc": "שו\"ת מהרמב\"ם, גם נדפסו תחת השם \"פאר הדור.\"", 
+    "heTitle": "תשובות הרמב\"ם", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "shut haRambam", 
+        "Teshuvot haRambam", 
+        "Teshuvot HaRambam"
+    ], 
+    "errorMargin": "20", 
+    "categories": [
+        "Responsa", 
+        "Rambam"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Teshuvot HaRambam", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "תשובות הרמב\"ם", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "shut haRambam"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Teshuvot haRambam"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תשובות הרמב\"ם", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "פרקי ההצלחה להרמב\"ם"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שו\"ת הרמב\"ם"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Teshuvot HaRambam", 
+                "primary": true
+            }
+        ], 
+        "key": "Teshuvot HaRambam", 
+        "heSectionNames": [
+            "", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Teshuva", 
+            "Paragraph"
+        ]
+    }
+}

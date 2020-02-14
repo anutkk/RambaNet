@@ -1,0 +1,170 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Psalms", 
+            "he": "תהילים"
+        }
+    ], 
+    "pubPlace": "Guadalajara, Spain", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על תהילים", 
+        "רש\"י על תהלים", 
+        "רש\"י על תְּהִלִּים", 
+        "רש\"י על תילים", 
+        "רש\"י על תהילות", 
+        "רש\"י על תהילי'", 
+        "רש\"י על תהילי׳", 
+        "רש\"י על תהלי׳", 
+        "רש\"י על תהלי'"
+    ], 
+    "heTitle": "רש\"י על תהילים", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רש\"י", 
+        "כתובים"
+    ], 
+    "pubDate": "1476", 
+    "title": "Rashi on Psalms", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Psalms", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על תהילים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Ps"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Ps."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Psa"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Tehilim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Psa."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Psalm"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Tehillim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תהילים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תהלים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תְּהִלִּים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תילים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תהילות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תהילי'"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תהילי׳"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תהלי׳"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על תהלי'"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Psalms", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Psalms", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Commentary on the Tanakh written by Rabbi Shlomo Yitzchaki (Rashi). Rashi lived in Troyes, France (1040-1105). Rashi’s commentary is an essential explanation of the Tanakh and resides in a place of honor on the page of almost all editions of the Tanakh. Over 300 supercommentaries have been written to further explain Rashi’s comments on the Torah. While quoting many midrashim and Talmudic passages, Rashi, in his commentary, states that his purpose is to present the pshat (contextual meaning) of the text.  ", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Ps", 
+        "Rashi on Ps.", 
+        "Rashi on Psa", 
+        "Rashi on Tehilim", 
+        "Rashi on Psa.", 
+        "Rashi on Psalm", 
+        "Rashi on Tehillim", 
+        "Rashi on Psalms"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Rashi", 
+        "Writings"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

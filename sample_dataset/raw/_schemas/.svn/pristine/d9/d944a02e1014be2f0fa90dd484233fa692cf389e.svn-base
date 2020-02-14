@@ -1,0 +1,130 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Shekalim", 
+            "he": "משנה שקלים"
+        }
+    ], 
+    "pubPlace": "Naples", 
+    "heTitleVariants": [
+        "רמב\"ם על משנה שקלים", 
+        "רמב\"ם על שקלים"
+    ], 
+    "heTitle": "רמב\"ם על משנה שקלים", 
+    "errorMargin": "5", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "רמב\"ם", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1492", 
+    "title": "Rambam on Mishnah Shekalim", 
+    "compDate": "1163", 
+    "compDateString": {
+        "en": " (c.1158  - c.1168 CE)", 
+        "he": " (1158 - 1168 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rambam on Mishnah Shekalim", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "רמב\"ם על משנה שקלים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rambam on M. Shekalim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on Mishna Shekalim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on M Shekalim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on M. Shekalim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on Mishna Shekalim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on M Shekalim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on Mishnah Shekalim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם על משנה שקלים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם על שקלים"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on Mishnah Shekalim", 
+                "primary": true
+            }
+        ], 
+        "key": "Rambam on Mishnah Shekalim", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Rabbi Moshe ben Maimon’s (Rambam) commentary was the first to be written on the entire Mishnah. The commentary was written by Rambam in Judeo-Arabic, and has been translated into Hebrew. He started working on it at age 23 while living in Spain, and completed it seven years later after settling in Egypt. It offers a running commentary on the Mishnah, and often includes a Halachic ruling based on the Talmud's conclusion.", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Rambam on M. Shekalim", 
+        "Rambam on Mishna Shekalim", 
+        "Rambam on M Shekalim", 
+        "Maimonides on M. Shekalim", 
+        "Maimonides on Mishna Shekalim", 
+        "Maimonides on M Shekalim", 
+        "Maimonides on Mishnah Shekalim", 
+        "Rambam on Mishnah Shekalim"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Rambam", 
+        "Seder Moed"
+    ], 
+    "collective_title": {
+        "en": "Rambam", 
+        "he": "רמב\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

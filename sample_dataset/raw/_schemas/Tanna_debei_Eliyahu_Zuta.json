@@ -1,0 +1,260 @@
+{
+    "is_cited": true, 
+    "heCategories": [
+        "מדרש", 
+        "מדרש אגדה"
+    ], 
+    "pubDate": "1904", 
+    "title": "Tanna debei Eliyahu Zuta", 
+    "compDate": "976", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Babylon/Italy/Israel", 
+    "enDesc": "Tanna Deve Eliyahu (Teachings of the School of Elijah) is the composite name of a midrash, consisting of two parts, whose final redaction took place at the end of the 10th century CE. The first part is called Seder Eliyahu Rabbah (31 chapters); the second, Seder Eliyahu Zuṭa (15 chapters). The underlying theme of the Tanna debe Eliyahu, which, with many interruptions, runs through the whole work, is the evolution of the world-system. The midrash calls the single periods of the history of man \"shiṭṭot\" (series). The first series, which deals with the beginning of the world and extends to the moment when man was driven out of Eden, consists of two subsections, (a) Ma'aseh Merkabah and (b) Ma'aseh Bereshit. The second series embraces the period from the expulsion of man from Eden to the Flood.  The six series of the world-system, found in the first part of the book was conceived prior to the creation of mankind. In the second part of the book mankind’s immorality seem it sink lower and lower until finally its destruction became necessary.", 
+    "compPlaceString": {
+        "en": "Talmudic Babylon/Italy/Israel", 
+        "he": "בבל / איטליה / ישראל התלמודית"
+    }, 
+    "heTitleVariants": [
+        "תנא דבי אליהו זוטא"
+    ], 
+    "compDateString": {
+        "en": " (c.968  - c.984 CE)", 
+        "he": " (968 - 984 לספירה בקירוב)"
+    }, 
+    "heTitle": "תנא דבי אליהו זוטא", 
+    "era": "GN", 
+    "authors": [], 
+    "titleVariants": [
+        "Tanna de bê Elijahu Ẓuṭṭa", 
+        "Tanna debei Eliyahu Zuta"
+    ], 
+    "errorMargin": "8", 
+    "categories": [
+        "Midrash", 
+        "Aggadic Midrash"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode", 
+                        "addressTypes": [
+                            "Integer", 
+                            "Integer"
+                        ], 
+                        "lengths": [
+                            15
+                        ], 
+                        "title": "", 
+                        "heTitle": "", 
+                        "default": true, 
+                        "depth": 2, 
+                        "key": "default", 
+                        "heSectionNames": [
+                            "פרק", 
+                            "פסקה"
+                        ], 
+                        "sectionNames": [
+                            "Chapter", 
+                            "Paragraph"
+                        ]
+                    }
+                ], 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Seder Eliyahu Zuta", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "סדר אליהו זוטא", 
+                        "primary": true
+                    }
+                ], 
+                "heTitle": "סדר אליהו זוטא", 
+                "key": "seder", 
+                "title": "Seder Eliyahu Zuta"
+            }, 
+            {
+                "nodes": [
+                    {
+                        "nodeType": "JaggedArrayNode", 
+                        "title": "Hakdamah", 
+                        "addressTypes": [
+                            "Integer"
+                        ], 
+                        "heTitle": "הקדמה", 
+                        "depth": 1, 
+                        "titles": [
+                            {
+                                "lang": "he", 
+                                "text": "הקדמה", 
+                                "primary": true
+                            }, 
+                            {
+                                "lang": "en", 
+                                "text": "Hakdamah", 
+                                "primary": true
+                            }
+                        ], 
+                        "key": "intro", 
+                        "heSectionNames": [
+                            "פסקה"
+                        ], 
+                        "sectionNames": [
+                            "Paragraph"
+                        ]
+                    }, 
+                    {
+                        "nodeType": "JaggedArrayNode", 
+                        "title": "Mavo", 
+                        "addressTypes": [
+                            "Integer"
+                        ], 
+                        "heTitle": "מבוא", 
+                        "depth": 1, 
+                        "titles": [
+                            {
+                                "lang": "en", 
+                                "text": "Mavo", 
+                                "primary": true
+                            }, 
+                            {
+                                "lang": "he", 
+                                "text": "מבוא", 
+                                "primary": true
+                            }
+                        ], 
+                        "key": "mavo", 
+                        "heSectionNames": [
+                            "פסקה"
+                        ], 
+                        "sectionNames": [
+                            "Paragraph"
+                        ]
+                    }, 
+                    {
+                        "nodeType": "JaggedArrayNode", 
+                        "title": "Pirkei Derech Eretz", 
+                        "addressTypes": [
+                            "Integer"
+                        ], 
+                        "heTitle": "פרקי דרך ארץ", 
+                        "depth": 1, 
+                        "titles": [
+                            {
+                                "lang": "en", 
+                                "text": "Pirkei Derech Eretz", 
+                                "primary": true
+                            }, 
+                            {
+                                "lang": "he", 
+                                "text": "פרקי דרך ארץ", 
+                                "primary": true
+                            }
+                        ], 
+                        "key": "p1", 
+                        "heSectionNames": [
+                            "פסקה"
+                        ], 
+                        "sectionNames": [
+                            "Paragraph"
+                        ]
+                    }, 
+                    {
+                        "nodeType": "JaggedArrayNode", 
+                        "title": "Pirkei DeRabbi Eliezer", 
+                        "addressTypes": [
+                            "Integer"
+                        ], 
+                        "heTitle": "פרקי דר' אליעזר", 
+                        "depth": 1, 
+                        "titles": [
+                            {
+                                "lang": "en", 
+                                "text": "Pirkei DeRabbi Eliezer", 
+                                "primary": true
+                            }, 
+                            {
+                                "lang": "he", 
+                                "text": "פרקי דר' אליעזר", 
+                                "primary": true
+                            }
+                        ], 
+                        "key": "p2", 
+                        "heSectionNames": [
+                            "פסקה"
+                        ], 
+                        "sectionNames": [
+                            "Paragraph"
+                        ]
+                    }, 
+                    {
+                        "nodeType": "JaggedArrayNode", 
+                        "title": "Pirkei HaYeridot", 
+                        "addressTypes": [
+                            "Integer"
+                        ], 
+                        "heTitle": "הירידות", 
+                        "depth": 1, 
+                        "titles": [
+                            {
+                                "lang": "en", 
+                                "text": "Pirkei HaYeridot", 
+                                "primary": true
+                            }, 
+                            {
+                                "lang": "he", 
+                                "text": "הירידות", 
+                                "primary": true
+                            }
+                        ], 
+                        "key": "p3", 
+                        "heSectionNames": [
+                            "פסקה"
+                        ], 
+                        "sectionNames": [
+                            "Paragraph"
+                        ]
+                    }
+                ], 
+                "titles": [
+                    {
+                        "lang": "he", 
+                        "text": "נספחים לסדר אליהו זוטא", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "en", 
+                        "text": "Additions to Seder Eliyahu Zuta", 
+                        "primary": true
+                    }
+                ], 
+                "heTitle": "נספחים לסדר אליהו זוטא", 
+                "key": "addition", 
+                "title": "Additions to Seder Eliyahu Zuta"
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tanna de bê Elijahu Ẓuṭṭa"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תנא דבי אליהו זוטא", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tanna debei Eliyahu Zuta", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "תנא דבי אליהו זוטא", 
+        "key": "Tanna debei Eliyahu Zuta", 
+        "title": "Tanna debei Eliyahu Zuta"
+    }
+}

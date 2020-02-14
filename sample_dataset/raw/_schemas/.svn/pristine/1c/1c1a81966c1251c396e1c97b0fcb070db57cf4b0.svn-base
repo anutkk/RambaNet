@@ -1,0 +1,68 @@
+{
+    "heTitleVariants": [
+        "תקנת השבין"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "חסידות", 
+        "ר' צדוק הכוהן"
+    ], 
+    "title": "Takanat HaShavin", 
+    "compDate": "1870", 
+    "enDesc": "Essays on repentance by Rav Tzadok HaKohen of Lublin.", 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (c.1840  - c.1900 CE)", 
+        "he": " (1840 - 1900 לספירה בקירוב)"
+    }, 
+    "heDesc": "מאמרים בענין התשובה מהרב צדוק הכהן", 
+    "heTitle": "תקנת השבין", 
+    "authors": [
+        {
+            "en": "Tzadok HaKohen Rabinowitz", 
+            "he": "צדוק הכהן רבינוביץ"
+        }
+    ], 
+    "titleVariants": [
+        "Takanat HaShavin"
+    ], 
+    "errorMargin": "30", 
+    "categories": [
+        "Chasidut", 
+        "R' Tzadok HaKohen"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Takanat HaShavin", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תקנת השבין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תקנת השבין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Takanat HaShavin", 
+                "primary": true
+            }
+        ], 
+        "key": "Takanat HaShavin", 
+        "heSectionNames": [
+            "פרק", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Paragraph"
+        ]
+    }
+}

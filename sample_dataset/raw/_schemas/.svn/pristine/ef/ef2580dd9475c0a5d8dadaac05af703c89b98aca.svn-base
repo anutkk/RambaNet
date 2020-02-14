@@ -1,0 +1,117 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "נביאים"
+    ], 
+    "pubDate": "1488", 
+    "title": "Isaiah", 
+    "compDate": "-600", 
+    "pubPlace": "Soncino", 
+    "compPlace": "Judea/Israel", 
+    "enDesc": "The Book of Isaiah is the first of the Neviim Aharonim (Latter Prophets). The book is identified by a superscription as the works of Isaiah son of Amos though in the Middle Ages the commentator Abraham Ibn Ezra identified a second Isaiah living much later. The book can be divided into three separate collections. Isaiah 1–33 promises judgment and restoration for Judah, Jerusalem and the nations. Chapters 34–66 presume that judgment has been pronounced and restoration will follows soon. It can thus be read as an extended meditation on the destiny of Jerusalem into and after the Babylonian Exile.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "ישעיהו", 
+        "ישעיה", 
+        "ישעי׳", 
+        "ישעי'"
+    ], 
+    "compPlaceString": {
+        "en": "Judea/Israel", 
+        "he": "יהודה / ישראל"
+    }, 
+    "compDateString": {
+        "en": " (c.750  - c.450 BCE)", 
+        "he": " (750 - 450 לפנה\"ס בקירוב)"
+    }, 
+    "heTitle": "ישעיהו", 
+    "titleVariants": [
+        "Isa.", 
+        "Yishayahu", 
+        "Isa", 
+        "Yeshayahu", 
+        "Is.", 
+        "Isaiah"
+    ], 
+    "errorMargin": "150", 
+    "order": [
+        12, 
+        7
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Prophets"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            66, 
+            1291
+        ], 
+        "title": "Isaiah", 
+        "heTitle": "ישעיהו", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Isa."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yishayahu"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Isa"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yeshayahu"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ישעיהו", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ישעיה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ישעי׳"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ישעי'"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Is."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Isaiah", 
+                "primary": true
+            }
+        ], 
+        "key": "Isaiah", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Tractate Derekh Eretz Rabbah", 
+            "he": "מסכת דרך ארץ רבה"
+        }
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "מפרשים", 
+        "הגהות מהריעב״ץ", 
+        "מסכתות קטנות"
+    ], 
+    "title": "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah", 
+    "collective_title": {
+        "en": "Haggahot Ya'avetz", 
+        "he": "הגהות מהריעב״ץ"
+    }, 
+    "heTitleVariants": [
+        "הגהות מהריעב״ץ על מסכת דרך ארץ רבה"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "הגהות מהריעב״ץ על מסכת דרך ארץ רבה", 
+    "authors": [
+        {
+            "en": "Yaakov Emden", 
+            "he": "יעקב עמדין"
+        }
+    ], 
+    "titleVariants": [
+        "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah", 
+        "Comment"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Commentary", 
+        "Haggahot Ya'avetz", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah", 
+            "Integer"
+        ], 
+        "heTitle": "הגהות מהריעב״ץ על מסכת דרך ארץ רבה", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "הגהות מהריעב״ץ על מסכת דרך ארץ רבה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah", 
+                "primary": true
+            }
+        ], 
+        "key": "Haggahot Ya'avetz on Tractate Derekh Eretz Rabbah", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah", 
+            "Comment"
+        ]
+    }
+}

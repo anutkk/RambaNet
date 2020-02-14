@@ -1,0 +1,83 @@
+{
+    "depth": 2, 
+    "heTitleVariants": [
+        "דרכי התלמוד", 
+        "דרכי הגמרא"
+    ], 
+    "sectionNames": [
+        "Siman", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "ספרות עזר"
+    ], 
+    "pubDate": "1520", 
+    "title": "Darchei HaTalmud", 
+    "compDate": "1430", 
+    "pubPlace": "Constantinople", 
+    "enDesc": "A practical guide describing the rules and methodology of the Talmud and it's commentaries.", 
+    "dependence": "Guides", 
+    "compDateString": {
+        "en": " (c.1400  - c.1460 CE)", 
+        "he": " (1400 - 1460 לספירה בקירוב)"
+    }, 
+    "heDesc": "מדריך מעשי המתאר את הכללים והמתודולוגיה של התלמוד ואת פירושיו.", 
+    "heTitle": "דרכי התלמוד", 
+    "authors": [
+        {
+            "en": "Isaac Canpanton", 
+            "he": "יצחק קנפנטון"
+        }
+    ], 
+    "titleVariants": [
+        "The Ways of Talmud", 
+        "Darchei HaTalmud"
+    ], 
+    "errorMargin": "30", 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Guides"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Darchei HaTalmud", 
+        "addressTypes": [
+            "Siman", 
+            "Integer"
+        ], 
+        "heTitle": "דרכי התלמוד", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "The Ways of Talmud"
+            }, 
+            {
+                "lang": "he", 
+                "text": "דרכי התלמוד", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "דרכי הגמרא"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Darchei HaTalmud", 
+                "primary": true
+            }
+        ], 
+        "key": "Darchei HaTalmud", 
+        "heSectionNames": [
+            "סימן", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Siman", 
+            "Paragraph"
+        ]
+    }
+}

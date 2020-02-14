@@ -1,0 +1,102 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "כתובים"
+    ], 
+    "pubDate": "1488", 
+    "title": "Lamentations", 
+    "compDate": "-550", 
+    "pubPlace": "Soncino", 
+    "compPlace": "Judea/Israel", 
+    "enDesc": "Eikha (Book of Lamentations) is the third of the five Megillot (scrolls) of Ketuvim (Writings) the last section of the Tanakh (Bible). It is generally accepted that the destruction of Jerusalem by Babylon in 586 BCE forms the background to the poems.  The book is partly a traditional \"city lament\" mourning the desertion of the city by God, its destruction, and the ultimate return of the divinity, and partly a funeral dirge in which the bereaved bewails and addresses the dead. The tone is bleak: God does not speak, the degree of suffering is presented as undeserved, and expectations of future redemption are minimal. The book is traditionally recited on the fast day of Tisha Be-Av (Ninth of Av), mourning the destruction of both the First and Second Temples.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "איכה"
+    ], 
+    "compPlaceString": {
+        "en": "Judea/Israel", 
+        "he": "יהודה / ישראל"
+    }, 
+    "compDateString": {
+        "en": " (c.600  - c.500 BCE)", 
+        "he": " (600 - 500 לפנה\"ס בקירוב)"
+    }, 
+    "heTitle": "איכה", 
+    "titleVariants": [
+        "Lam", 
+        "Lam.", 
+        "Eichah", 
+        "Eicha", 
+        "Eikhah", 
+        "Lamentations"
+    ], 
+    "errorMargin": "50", 
+    "order": [
+        32, 
+        6
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Writings"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            5, 
+            154
+        ], 
+        "title": "Lamentations", 
+        "heTitle": "איכה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Lam"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Lam."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eichah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eicha"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eikhah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "איכה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Lamentations", 
+                "primary": true
+            }
+        ], 
+        "key": "Lamentations", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

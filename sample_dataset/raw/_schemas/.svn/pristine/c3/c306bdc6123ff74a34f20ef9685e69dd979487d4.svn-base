@@ -1,0 +1,115 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Daf", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "ירושלמי", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1523", 
+    "title": "Jerusalem Talmud Ta'anit", 
+    "compDate": "400", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Taanit (Fasting) belongs to the second order, Moed (Festivals) and discusses the regulation of the special fast-days in times of drought or other untoward occurrences. It has four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תלמוד ירושלמי תענית", 
+        "ירושלמי תענית"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)", 
+        "he": " (375 - 425 לספירה בקירוב)"
+    }, 
+    "heTitle": "תלמוד ירושלמי תענית", 
+    "era": "A", 
+    "authors": [], 
+    "titleVariants": [
+        "Talmud Yerushalmi Ta'anit", 
+        "Yerushalmi Taanis", 
+        "Yerushalmi Taanit", 
+        "JT Taanit", 
+        "Yerushalmi Ta'anit", 
+        "JT Ta'anit", 
+        "Jerusalem Talmud Ta'anit"
+    ], 
+    "errorMargin": "25", 
+    "order": [
+        20
+    ], 
+    "categories": [
+        "Talmud", 
+        "Yerushalmi", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            52, 
+            126
+        ], 
+        "title": "Jerusalem Talmud Ta'anit", 
+        "heTitle": "תלמוד ירושלמי תענית", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Talmud Yerushalmi Ta'anit"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Taanis"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Taanit"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Taanit"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Ta'anit"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Ta'anit"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תלמוד ירושלמי תענית", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ירושלמי תענית"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Jerusalem Talmud Ta'anit", 
+                "primary": true
+            }
+        ], 
+        "key": "Jerusalem Talmud Ta'anit", 
+        "heSectionNames": [
+            "דף", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Halakhah"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "depth": 3, 
+    "heTitleVariants": [
+        "זרוע ימין על משנה אבות"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Pirkei Avot", 
+            "he": "פרקי אבות"
+        }
+    ], 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "זרוע ימין", 
+        "סדר נזיקין"
+    ], 
+    "title": "Zeroa Yamin", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Zeroa Yamin", 
+        "he": "זרוע ימין"
+    }, 
+    "enDesc": "Chida's commentary on Pirkei Avot.", 
+    "dependence": "Commentary", 
+    "heDesc": "פירוש מהחיד\"א על פרקי אבות.", 
+    "heTitle": "זרוע ימין על משנה אבות", 
+    "authors": [
+        {
+            "en": "Hayyim Joseph David Azulay", 
+            "he": "חיים דוד אזולאי"
+        }
+    ], 
+    "titleVariants": [
+        "Zeroa Yamin"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Zeroa Yamin", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Zeroa Yamin", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "זרוע ימין על משנה אבות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "זרוע ימין על משנה אבות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Zeroa Yamin", 
+                "primary": true
+            }
+        ], 
+        "key": "Zeroa Yamin", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }
+}

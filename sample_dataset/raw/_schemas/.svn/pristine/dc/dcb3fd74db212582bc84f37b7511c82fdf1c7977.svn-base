@@ -1,0 +1,137 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Pesachim", 
+            "he": "משנה פסחים"
+        }
+    ], 
+    "pubPlace": "Naples", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "רמב\"ם על משנה פסחים"
+    ], 
+    "heTitle": "רמב\"ם על משנה פסחים", 
+    "errorMargin": "5", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "רמב\"ם", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1492", 
+    "title": "Rambam on Mishnah Pesachim", 
+    "compDate": "1163", 
+    "compDateString": {
+        "en": " (c.1158  - c.1168 CE)", 
+        "he": " (1158 - 1168 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rambam on Mishnah Pesachim", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "רמב\"ם על משנה פסחים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Maimonides on Mishna Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on M. Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on M Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on Mishnah Pesahim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on Mishnah Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on Mishna Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on M. Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on M Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on Mishnah Pesahim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם על משנה פסחים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on Mishnah Pesachim", 
+                "primary": true
+            }
+        ], 
+        "key": "Rambam on Mishnah Pesachim", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Rabbi Moshe ben Maimon’s (Rambam) commentary was the first to be written on the entire Mishnah. The commentary was written by Rambam in Judeo-Arabic, and has been translated into Hebrew. He started working on it at age 23 while living in Spain, and completed it seven years later after settling in Egypt. It offers a running commentary on the Mishnah, and often includes a Halachic ruling based on the Talmud's conclusion.", 
+    "heDesc": "פירושו של הרמב\"ם הוא הראשון שנכתב על כל המשנה, והוא אחד הפירושים החשובים שעל המשנה. הרמב\"ם כתבו בצעירותו בשפה הערבית-יהודית, ותורגם פעמים רבות לעברית. הפירוש מכיל ביאור קצר לכל משנה ודיון מעמיק בעניינים המרכזיים שבה. בסוף כל עניין הוא פוסק הלכה על-פי מסקנת התלמוד. ", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Maimonides on Mishna Pesachim", 
+        "Maimonides on M. Pesachim", 
+        "Maimonides on M Pesachim", 
+        "Maimonides on Mishnah Pesahim", 
+        "Maimonides on Mishnah Pesachim", 
+        "Rambam on Mishna Pesachim", 
+        "Rambam on M. Pesachim", 
+        "Rambam on M Pesachim", 
+        "Rambam on Mishnah Pesahim", 
+        "Rambam on Mishnah Pesachim"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Rambam", 
+        "Seder Moed"
+    ], 
+    "collective_title": {
+        "en": "Rambam", 
+        "he": "רמב\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

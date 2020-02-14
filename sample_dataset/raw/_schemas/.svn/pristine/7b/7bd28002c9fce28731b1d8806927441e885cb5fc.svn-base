@@ -1,0 +1,86 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Daniel", 
+            "he": "דניאל"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "יוסף אבן יחיא", 
+        "כתובים"
+    ], 
+    "title": "Joseph ibn Yahya on Daniel", 
+    "compDate": "1524", 
+    "collective_title": {
+        "en": "Joseph ibn Yahya", 
+        "he": "יוסף אבן יחיא"
+    }, 
+    "heTitleVariants": [
+        "יוסף אבן יחיא על דניאל"
+    ], 
+    "dependence": "Commentary", 
+    "compDateString": {
+        "en": " (c.1514  - c.1534 CE)", 
+        "he": " (1514 - 1534 לספירה בקירוב)"
+    }, 
+    "base_text_mapping": "many_to_one", 
+    "heTitle": "יוסף אבן יחיא על דניאל", 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "authors": [
+        {
+            "en": "Joseph Ibn Yachya", 
+            "he": "יוסף אבן יחייא"
+        }
+    ], 
+    "titleVariants": [
+        "Joseph ibn Yahya on Daniel"
+    ], 
+    "errorMargin": "10", 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Joseph ibn Yahya", 
+        "Writings"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Joseph ibn Yahya on Daniel", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "יוסף אבן יחיא על דניאל", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "יוסף אבן יחיא על דניאל", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Joseph ibn Yahya on Daniel", 
+                "primary": true
+            }
+        ], 
+        "key": "Joseph ibn Yahya on Daniel", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }
+}

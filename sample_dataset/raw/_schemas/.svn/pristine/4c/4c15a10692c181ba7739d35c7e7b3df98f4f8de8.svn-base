@@ -1,0 +1,109 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Arakhin", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Arakhin (Dedications) belongs to the fifth order, Kodshim (Holy things) and discusses a person dedicating their value to the Temple or dedicating a field. It has five chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא ערכין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא ערכין", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "T. Arakhin", 
+        "T. Arachin", 
+        "Tos. Arakhin", 
+        "Tosefta Arachin", 
+        "Tos. Arachin", 
+        "Tosef. Arakh.", 
+        "Tosefta Arakhin"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        5
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Kodashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            5
+        ], 
+        "title": "Tosefta Arakhin", 
+        "heTitle": "תוספתא ערכין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "T. Arakhin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Arachin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Arakhin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Arachin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Arachin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא ערכין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Arakh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Arakhin", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Arakhin", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

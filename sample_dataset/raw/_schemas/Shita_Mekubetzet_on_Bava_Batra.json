@@ -1,0 +1,79 @@
+{
+    "depth": 2, 
+    "heTitleVariants": [
+        "שיטה מקובצת על בבא בתרא"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Bava Batra", 
+            "he": "בבא בתרא"
+        }
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "שיטה מקובצת", 
+        "סדר נזיקין"
+    ], 
+    "title": "Shita Mekubetzet on Bava Batra", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Shita Mekubetzet", 
+        "he": "שיטה מקובצת"
+    }, 
+    "enDesc": "Written by Bezalel ben Abraham Ashkenazi (c.1520 – c.1592), Shita Mekubetzet is a collection of glosses on the Talmud. Within the work are contained many passages of Talmudic commentary that are not found anywhere else. ", 
+    "dependence": "Commentary", 
+    "heTitle": "שיטה מקובצת על בבא בתרא", 
+    "authors": [
+        {
+            "en": "Bezalel ben Abraham Ashkenazi", 
+            "he": "בצלאל בן אברהם אשכנזי"
+        }
+    ], 
+    "titleVariants": [
+        "Shita Mekubetzet on Bava Batra"
+    ], 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Shita Mekubetzet", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Shita Mekubetzet on Bava Batra", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "שיטה מקובצת על בבא בתרא", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "שיטה מקובצת על בבא בתרא", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shita Mekubetzet on Bava Batra", 
+                "primary": true
+            }
+        ], 
+        "key": "Shita Mekubetzet on Bava Batra", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }
+}

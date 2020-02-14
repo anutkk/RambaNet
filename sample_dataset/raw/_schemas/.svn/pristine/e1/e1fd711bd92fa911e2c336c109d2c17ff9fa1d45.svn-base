@@ -1,0 +1,105 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Job", 
+            "he": "איוב"
+        }
+    ], 
+    "pubPlace": "Guadalajara, Spain", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על איוב"
+    ], 
+    "heTitle": "רש\"י על איוב", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רש\"י", 
+        "כתובים"
+    ], 
+    "pubDate": "1476", 
+    "title": "Rashi on Job", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Job", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על איוב", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Iyov"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Iyyov"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על איוב", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Job", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Job", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Commentary on the Tanakh written by Rabbi Shlomo Yitzchaki (Rashi). Rashi lived in Troyes, France (1040-1105). Rashi’s commentary is an essential explanation of the Tanakh and resides in a place of honor on the page of almost all editions of the Tanakh. Over 300 supercommentaries have been written to further explain Rashi’s comments on the Torah. While quoting many midrashim and Talmudic passages, Rashi, in his commentary, states that his purpose is to present the pshat (contextual meaning) of the text.  ", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Iyov", 
+        "Rashi on Iyyov", 
+        "Rashi on Job"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Rashi", 
+        "Writings"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

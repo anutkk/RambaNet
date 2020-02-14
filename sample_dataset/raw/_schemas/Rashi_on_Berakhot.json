@@ -1,0 +1,147 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Berakhot", 
+            "he": "ברכות"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על ברכות", 
+        "רש\"י על בְּרָכוֹת"
+    ], 
+    "heTitle": "רש\"י על ברכות", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רש\"י", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1520", 
+    "title": "Rashi on Berakhot", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Berakhot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על ברכות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Berachoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Berakhoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Tractate Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Berachos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Masekhet Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Talmud Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Berakot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ברכות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על בְּרָכוֹת"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Berakhot", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Berakhot", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Berachoth", 
+        "Rashi on Berachot", 
+        "Rashi on Berakhoth", 
+        "Rashi on Brachot", 
+        "Rashi on Tractate Berakhot", 
+        "Rashi on Berachos", 
+        "Rashi on Masekhet Berakhot", 
+        "Rashi on Talmud Berakhot", 
+        "Rashi on Berakot", 
+        "Rashi on Berakhot"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashi", 
+        "Seder Zeraim"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

@@ -1,0 +1,90 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Berakhot", 
+            "he": "ברכות"
+        }
+    ], 
+    "pubPlace": "Prague", 
+    "compPlace": "Prague", 
+    "heTitleVariants": [
+        " דברי חמודות על ברכות"
+    ], 
+    "heTitle": " דברי חמודות על ברכות", 
+    "errorMargin": "13", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "דברי חמודות", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1628", 
+    "title": "Divrey Chamudot on Berakhot", 
+    "compDate": "1615", 
+    "compDateString": {
+        "en": " (c.1602  - c.1628 CE)", 
+        "he": " (1602 - 1628 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Prague", 
+        "he": "פראג"
+    }, 
+    "sectionNames": [
+        "Siman"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Divrey Chamudot on Berakhot", 
+        "addressTypes": [
+            "Siman"
+        ], 
+        "heTitle": " דברי חמודות על ברכות", 
+        "depth": 1, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": " דברי חמודות על ברכות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Divrey Chamudot on Berakhot", 
+                "primary": true
+            }
+        ], 
+        "key": "Divrey Chamudot on Berakhot", 
+        "heSectionNames": [
+            "סימן"
+        ], 
+        "sectionNames": [
+            "Siman"
+        ]
+    }, 
+    "enDesc": "Commentary on the Rosh by the author of \"Tosafot Yom Tov\".", 
+    "heDesc": "פירוש על הרא\"ש במסכת ברכות מבעל ה\"תוספות יום טוב\".", 
+    "authors": [
+        {
+            "en": "Yom-Tov Lipmann Heller", 
+            "he": "יום-טוב ליפמן הלר"
+        }
+    ], 
+    "titleVariants": [
+        "Divrey Chamudot on Berakhot"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Divrey Chamudot", 
+        "Seder Zeraim"
+    ], 
+    "collective_title": {
+        "en": "Divrey Chamudot", 
+        "he": "דברי חמודות"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 1, 
+    "era": "AH", 
+    "base_text_mapping": null
+}

@@ -1,0 +1,78 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "Judges", 
+            "he": "שופטים"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "תרגומים", 
+        "תרגום יונתן", 
+        "נביאים"
+    ], 
+    "title": "Targum Jonathan on Judges", 
+    "base_text_mapping": "one_to_one", 
+    "collective_title": {
+        "en": "Targum Jonathan", 
+        "he": "תרגום יונתן"
+    }, 
+    "enDesc": "Targum Jonathan is an Aramaic translation of the Neviim (Prophets). Authorship of the Targum is attributed to Jonathan ben Uzziel, a prime student of the great Talmudic sage Hillel. In Talmudic times, the Targum was read verse-by-verse, alternating with the Hebrew text of the haftarah.   ", 
+    "dependence": "Targum", 
+    "heTitleVariants": [
+        "תרגום יונתן על שופטים"
+    ], 
+    "heTitle": "תרגום יונתן על שופטים", 
+    "authors": [], 
+    "titleVariants": [
+        "Targ. Jud.", 
+        "Targum Jonathan on Judges"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Targum", 
+        "Targum Jonathan", 
+        "Prophets"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Targum Jonathan on Judges", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תרגום יונתן על שופטים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תרגום יונתן על שופטים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. Jud."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targum Jonathan on Judges", 
+                "primary": true
+            }
+        ], 
+        "key": "Targum Jonathan on Judges", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

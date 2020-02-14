@@ -1,0 +1,170 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר אהבה"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Prayer and the Priestly Blessing", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The second book is Ahavah (Love): the precepts which must be observed at all times if the love due to God is to be remembered continually (prayer, tefillin).", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות תפילה וברכת כהנים", 
+        "רמב\"ם, הלכות תפילה וברכת כהנים", 
+        "משנה תורה, הל' תפילה וברכת כהנים", 
+        "רמב\"ם, הל' תפילה וברכת כהנים", 
+        "רמב\"ם הלכות תפילה וברכת כהנים", 
+        "רמב\"ם הל' תפילה וברכת כהנים", 
+        "משנה תורה, הלכות תפילה"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות תפילה וברכת כהנים", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Mishneh Torah, Laws of Prayer and the Priestly Blessing", 
+        "Rambam, Hilchot Tefilah and Birkat Kohanim", 
+        "Rambam, Laws of Prayer and the Priestly Blessing", 
+        "Mishneh Torah, Tefilah and Birkat Kohanim", 
+        "Rambam, Tefilah and Birkat Kohanim", 
+        "Rambam, Prayer and the Priestly Blessing", 
+        "Mishneh Torah, Hilchot Tefilah and Birkat Kohanim", 
+        "Rambam, Hilkhot Tefilah and Birkat Kohanim", 
+        "Mishneh Torah, Hilkhot Tefilah and Birkat Kohanim", 
+        "Rambam, <i>Hilkhot Tefillah</i>", 
+        "Rambam, Hilkhot Tefillah", 
+        "Mishneh Torah, Prayer and the Priestly Blessing"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        11, 
+        2
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Ahavah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            15
+        ], 
+        "title": "Mishneh Torah, Prayer and the Priestly Blessing", 
+        "heTitle": "משנה תורה, הלכות תפילה וברכת כהנים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Prayer and the Priestly Blessing"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Tefilah and Birkat Kohanim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Prayer and the Priestly Blessing"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Tefilah and Birkat Kohanim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Tefilah and Birkat Kohanim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Prayer and the Priestly Blessing"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Tefilah and Birkat Kohanim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Tefilah and Birkat Kohanim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Tefilah and Birkat Kohanim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, <i>Hilkhot Tefillah</i>"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Tefillah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות תפילה וברכת כהנים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות תפילה וברכת כהנים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' תפילה וברכת כהנים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' תפילה וברכת כהנים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות תפילה וברכת כהנים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' תפילה וברכת כהנים"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות תפילה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Prayer and the Priestly Blessing", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Prayer and the Priestly Blessing", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

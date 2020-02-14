@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Chagigah", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Hagggiah (Festival Offering) belongs to the second order, Moed (Festivals) and the Three Pilgrimage Festivals (Passover, Shavuot, Sukkot) and the pilgrimage offering that men were supposed to bring in Jerusalem. It has three chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה חגיגה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה חגיגה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Mishna Chagigah", 
+        "M. Chagigah", 
+        "M Chagigah", 
+        "Mishnah Ḥag.", 
+        "Mishnah Ḥãgigah", 
+        "Mishnah Chagigah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        23, 
+        12
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            3, 
+            23
+        ], 
+        "title": "Mishnah Chagigah", 
+        "heTitle": "משנה חגיגה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishna Chagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Chagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Chagigah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה חגיגה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Ḥag."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Ḥãgigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Chagigah", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Chagigah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

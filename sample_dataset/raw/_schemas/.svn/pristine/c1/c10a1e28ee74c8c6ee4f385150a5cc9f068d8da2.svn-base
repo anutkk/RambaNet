@@ -1,0 +1,74 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Avot D'Rabbi Natan", 
+            "he": "אבות דרבי נתן"
+        }
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "מפרשים", 
+        "מצפה איתן", 
+        "מסכתות קטנות"
+    ], 
+    "title": "Mitzpeh Etan on Avot D'Rabbi Natan", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Mitzpeh Etan", 
+        "he": "מצפה איתן"
+    }, 
+    "heTitleVariants": [
+        "מצפה איתן על אבות דרבי נתן"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "מצפה איתן על אבות דרבי נתן", 
+    "titleVariants": [
+        "Mitzpeh Etan on Avot D'Rabbi Natan"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah", 
+        "Comment"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Commentary", 
+        "Mitzpeh Etan", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Mitzpeh Etan on Avot D'Rabbi Natan", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah", 
+            "Integer"
+        ], 
+        "heTitle": "מצפה איתן על אבות דרבי נתן", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מצפה איתן על אבות דרבי נתן", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mitzpeh Etan on Avot D'Rabbi Natan", 
+                "primary": true
+            }
+        ], 
+        "key": "Mitzpeh Etan on Avot D'Rabbi Natan", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah", 
+            "Comment"
+        ]
+    }
+}

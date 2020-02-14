@@ -1,0 +1,99 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Sanhedrin", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Sanhedrin (The Synod) belongs to the fourth order, Nezikin (The Order of Damages) and discusses the rules of court proceedings in the Sanhedrin, the death penalty, and other criminal matters. It has fourteen chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא סנהדרין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא סנהדרין", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tosefta Sandhedrin", 
+        "T. Sanhedrin", 
+        "Tos. Sanhedrin", 
+        "Tosef. Snh.", 
+        "Tosefta Sanhedrin"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        5
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            14
+        ], 
+        "title": "Tosefta Sanhedrin", 
+        "heTitle": "תוספתא סנהדרין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tosefta Sandhedrin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Sanhedrin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Sanhedrin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא סנהדרין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Snh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Sanhedrin", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Sanhedrin", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

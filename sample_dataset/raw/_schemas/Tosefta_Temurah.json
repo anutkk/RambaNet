@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Temurah", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Temurah (Substitution) belongs to the fifth order, Nezikin (The Order of Damages) and discusses the laws of what happens if an animal is substituted for an animal dedicated for a sacrifice. It has four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא תמורה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא תמורה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "T. Temurah", 
+        "Tos. Temurah", 
+        "Tosefta Tmurah", 
+        "Tos. Tmurah", 
+        "Tosef. Tem.", 
+        "Tosefta Temurah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        6
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Kodashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            4
+        ], 
+        "title": "Tosefta Temurah", 
+        "heTitle": "תוספתא תמורה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "T. Temurah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Temurah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Tmurah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Tmurah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא תמורה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Tem."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Temurah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Temurah", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

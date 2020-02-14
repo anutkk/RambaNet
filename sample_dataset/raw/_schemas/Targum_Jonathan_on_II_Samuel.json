@@ -1,0 +1,78 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "II Samuel", 
+            "he": "שמואל ב"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "תרגומים", 
+        "תרגום יונתן", 
+        "נביאים"
+    ], 
+    "title": "Targum Jonathan on II Samuel", 
+    "base_text_mapping": "one_to_one", 
+    "collective_title": {
+        "en": "Targum Jonathan", 
+        "he": "תרגום יונתן"
+    }, 
+    "enDesc": "Targum Jonathan is an Aramaic translation of the Neviim (Prophets). Authorship of the Targum is attributed to Jonathan ben Uzziel, a prime student of the great Talmudic sage Hillel. In Talmudic times, the Targum was read verse-by-verse, alternating with the Hebrew text of the haftarah.   ", 
+    "dependence": "Targum", 
+    "heTitleVariants": [
+        "תרגום יונתן על שמואל ב"
+    ], 
+    "heTitle": "תרגום יונתן על שמואל ב", 
+    "authors": [], 
+    "titleVariants": [
+        "Targ. II Sam.", 
+        "Targum Jonathan on II Samuel"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Targum", 
+        "Targum Jonathan", 
+        "Prophets"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Targum Jonathan on II Samuel", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תרגום יונתן על שמואל ב", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תרגום יונתן על שמואל ב", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. II Sam."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targum Jonathan on II Samuel", 
+                "primary": true
+            }
+        ], 
+        "key": "Targum Jonathan on II Samuel", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

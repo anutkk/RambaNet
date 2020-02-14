@@ -1,0 +1,117 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Horayot", 
+            "he": "הוריות"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על הוריות"
+    ], 
+    "heTitle": "רש\"י על הוריות", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רש\"י", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1520", 
+    "title": "Rashi on Horayot", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Horayot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על הוריות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Masekhet Horayot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Talmud Horayot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Tractate Horayot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Horiyot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על הוריות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Horayot", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Horayot", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Masekhet Horayot", 
+        "Rashi on Talmud Horayot", 
+        "Rashi on Tractate Horayot", 
+        "Rashi on Horiyot", 
+        "Rashi on Horayot"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashi", 
+        "Seder Nezikin"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

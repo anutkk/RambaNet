@@ -1,0 +1,99 @@
+{
+    "heTitleVariants": [
+        "בנין ציון", 
+        "בניין ציון", 
+        "שו\"ת בנין ציון"
+    ], 
+    "sectionNames": [
+        "Teshuva", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "שו\"ת"
+    ], 
+    "pubDate": "1868", 
+    "title": "Binyan Tziyon", 
+    "compDate": "1850", 
+    "pubPlace": "Altona", 
+    "compPlace": "Altona", 
+    "enDesc": "Responsa by the author of Aruch L'Ner.", 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (c.1832  - c.1868 CE)", 
+        "he": " (1832 - 1868 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Altona", 
+        "he": "אלטונה"
+    }, 
+    "heDesc": "שו\"ת מבעל ה\"ערוך לנר\".", 
+    "heTitle": "בנין ציון", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Yaakov Ettlinger", 
+            "he": "יעקב אטלינגר"
+        }
+    ], 
+    "titleVariants": [
+        "Teshuvot Binyan Ẓion", 
+        "Binyan Ẓion", 
+        "Binyan Zion", 
+        "Binyan Tziyon"
+    ], 
+    "errorMargin": "18", 
+    "categories": [
+        "Responsa"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Binyan Tziyon", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "בנין ציון", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Teshuvot Binyan Ẓion"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Binyan Ẓion"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Binyan Zion"
+            }, 
+            {
+                "lang": "he", 
+                "text": "בנין ציון", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "בניין ציון"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שו\"ת בנין ציון"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Binyan Tziyon", 
+                "primary": true
+            }
+        ], 
+        "key": "Binyan Tziyon", 
+        "heSectionNames": [
+            "", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Teshuva", 
+            "Paragraph"
+        ]
+    }
+}

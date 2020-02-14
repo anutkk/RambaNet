@@ -1,0 +1,119 @@
+{
+    "heTitleVariants": [
+        "שמונה פרקים", 
+        "שמונה פרקים לרמב\"ם"
+    ], 
+    "heCategories": [
+        "מחשבת ישראל"
+    ], 
+    "pubDate": "1480", 
+    "title": "Eight Chapters", 
+    "compDate": "1161", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "Eight Chapters is Rambam’s introduction to Pirkei Avot. In the introduction to the work, Rambam states that the ideas are not of his own invention, but, rather, are gleaned from midrashim from the Talmud and opinions of other scholars. Eight Chapters discusses ethical issues.", 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1157  - c.1165 CE)", 
+        "he": " (1157 - 1165 לספירה בקירוב)"
+    }, 
+    "heTitle": "שמונה פרקים", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Eight Chapters of the Rambam", 
+        "Shemoneh Perakim", 
+        "Eight Chapters"
+    ], 
+    "errorMargin": "4", 
+    "categories": [
+        "Philosophy"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Introduction", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "הקדמה", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Introduction", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "הקדמה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Introduction", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "", 
+                "default": true, 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "", 
+                "depth": 2, 
+                "key": "default", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Eight Chapters of the Rambam"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shemoneh Perakim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שמונה פרקים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "שמונה פרקים לרמב\"ם"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Eight Chapters", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "שמונה פרקים", 
+        "key": "Eight Chapters", 
+        "title": "Eight Chapters"
+    }
+}

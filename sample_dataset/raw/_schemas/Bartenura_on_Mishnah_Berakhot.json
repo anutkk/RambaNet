@@ -1,0 +1,257 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Berakhot", 
+            "he": "משנה ברכות"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "ברטנורא על משנה ברכות", 
+        "עובדיה מברטנורא על משנה ברכות", 
+        "ר' עובדיה מברטנורא על משנה ברכות"
+    ], 
+    "heTitle": "ברטנורא על משנה ברכות", 
+    "errorMargin": "12", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "ברטנורא", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1549", 
+    "title": "Bartenura on Mishnah Berakhot", 
+    "compDate": "1482", 
+    "compDateString": {
+        "en": " (c.1470  - c.1494 CE)", 
+        "he": " (1470 - 1494 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Bartenura on Mishnah Berakhot", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "ברטנורא על משנה ברכות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M. Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishna Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishna Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishnah Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishna Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishnah Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishnah Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M. Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishna Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishna Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishnah Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishna Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishnah Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishnah Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M. Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishna Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishna Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishnah Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishna Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishnah Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M. Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishna Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishna Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishnah Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishna Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishnah Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishnah Berakhot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ברטנורא על משנה ברכות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "עובדיה מברטנורא על משנה ברכות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ר' עובדיה מברטנורא על משנה ברכות"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishnah Berakhot", 
+                "primary": true
+            }
+        ], 
+        "key": "Bartenura on Mishnah Berakhot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "R' Ovadiah ben Abraham of Bartenura (c. 1445-c.1515) wrote a commentary of the Mishnah that has been printed in almost every edition of the Mishnah since it was first published in Venice in 1548. The commentary, popularly called “The Bartenura” is mainly based on discussions in the Gemara and the Rambam's Mishna commentary. The Bartenura is particularly valuable to Mishnah learners due to the inclusion of a summary of the Talmudic discussions along with the accepted opinions.", 
+    "heDesc": "ר' עובדיה מברטנורא כתב פירוש למשנה שנדפס כמעט בכל מהדורה של המשנה מאז שיצא לאור לראשונה בוונציה בשנת 1548. הפירוש מבוסס בעיקר על הדיונים בגמרא ועל פירוש הרמב\"ם למשנה. ", 
+    "authors": [
+        {
+            "en": "Ovadiah Bartenura", 
+            "he": "רב עובדיה מברטנורא"
+        }
+    ], 
+    "titleVariants": [
+        "Ovadia of Bartenura on M. Berakhot", 
+        "Ovadia of Bartenura on Mishna Berakhot", 
+        "Ovadia of Bartenura on M Berakhot", 
+        "Ovadia of Bartenura on Mishna Berachot", 
+        "Ovadia of Bartenura on Mishnah Brachot", 
+        "Ovadia of Bartenura on Mishna Brachot", 
+        "Ovadia of Bartenura on Mishnah Berachot", 
+        "Ovadia of Bartenura on Mishnah Berakhot", 
+        "Obadiah of Bertinoro on M. Berakhot", 
+        "Obadiah of Bertinoro on Mishna Berakhot", 
+        "Obadiah of Bertinoro on M Berakhot", 
+        "Obadiah of Bertinoro on Mishna Berachot", 
+        "Obadiah of Bertinoro on Mishnah Brachot", 
+        "Obadiah of Bertinoro on Mishna Brachot", 
+        "Obadiah of Bertinoro on Mishnah Berachot", 
+        "Obadiah of Bertinoro on Mishnah Berakhot", 
+        "Bartenura on M. Berakhot", 
+        "Bartenura on Mishna Berakhot", 
+        "Bartenura on M Berakhot", 
+        "Bartenura on Mishna Berachot", 
+        "Bartenura on Mishnah Brachot", 
+        "Bartenura on Mishna Brachot", 
+        "Bartenura on Mishnah Berachot", 
+        "Obadiah ben Abraham of Bertinoro on M. Berakhot", 
+        "Obadiah ben Abraham of Bertinoro on Mishna Berakhot", 
+        "Obadiah ben Abraham of Bertinoro on M Berakhot", 
+        "Obadiah ben Abraham of Bertinoro on Mishna Berachot", 
+        "Obadiah ben Abraham of Bertinoro on Mishnah Brachot", 
+        "Obadiah ben Abraham of Bertinoro on Mishna Brachot", 
+        "Obadiah ben Abraham of Bertinoro on Mishnah Berachot", 
+        "Obadiah ben Abraham of Bertinoro on Mishnah Berakhot", 
+        "Bartenura on Mishnah Berakhot"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Bartenura", 
+        "Seder Zeraim"
+    ], 
+    "collective_title": {
+        "en": "Bartenura", 
+        "he": "ברטנורא"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

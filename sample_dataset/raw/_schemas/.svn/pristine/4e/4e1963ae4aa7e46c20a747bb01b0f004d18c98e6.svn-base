@@ -1,0 +1,94 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Nazir", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Nazir (One who abstains) belongs to the third order, Nashim (Women) and discusses details of the Nazirite vow and being a Nazirite (Num 6). It has six chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא נזיר"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא נזיר", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "T. Nazir", 
+        "Tos. Nazir", 
+        "Tosef. Naz.", 
+        "Tosefta Nazir"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        4
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            6
+        ], 
+        "title": "Tosefta Nazir", 
+        "heTitle": "תוספתא נזיר", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "T. Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Nazir"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא נזיר", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Naz."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Nazir", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Nazir", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "heCategories": [
+        "שו\"ת"
+    ], 
+    "title": "HaElef Lekha Shlomo", 
+    "heTitleVariants": [
+        "האלף לך שלמה"
+    ], 
+    "depth": 2, 
+    "heTitle": "האלף לך שלמה", 
+    "authors": [
+        {
+            "en": "Shlomo Kluger", 
+            "he": "שלמה קלוגר"
+        }
+    ], 
+    "titleVariants": [
+        "HaElef Lekha Shlomo"
+    ], 
+    "sectionNames": [
+        "Teshuva", 
+        "Paragraph"
+    ], 
+    "categories": [
+        "Responsa"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "HaElef Lekha Shlomo", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "האלף לך שלמה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "האלף לך שלמה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "HaElef Lekha Shlomo", 
+                "primary": true
+            }
+        ], 
+        "key": "HaElef Lekha Shlomo", 
+        "heSectionNames": [
+            "", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Teshuva", 
+            "Paragraph"
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Menahot", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Menahot (Meal Offerings) belongs to the fifth order, Kodshim (Holy things) and discusses the various grain-based offerings in the Temple. It has thirteen chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא מנחות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא מנחות", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tosefta Menachot", 
+        "Tosefta Menachos", 
+        "Tos. Menachos", 
+        "Tos. Menachot", 
+        "T. Menachot", 
+        "Tosef. Men.", 
+        "Tosefta Menahot"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        3
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Kodashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            13
+        ], 
+        "title": "Tosefta Menahot", 
+        "heTitle": "תוספתא מנחות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tosefta Menachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Menachos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Menachos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Menachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Menachot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא מנחות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Men."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Menahot", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Menahot", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

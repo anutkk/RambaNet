@@ -1,0 +1,114 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Parah", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Parah (Cow) belongs to the sixth order, Tahorot (Purities) and discusses the laws of the Red Heifer (Para Adumah). It has twelve chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה פרה", 
+        "פרה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה פרה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M Parah", 
+        "Mishna Parah", 
+        "M. Parah", 
+        "Par.", 
+        "Parah", 
+        "Mishnah Par.", 
+        "Mishnah Parah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        55, 
+        4
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            12, 
+            96
+        ], 
+        "title": "Mishnah Parah", 
+        "heTitle": "משנה פרה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M Parah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Parah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Parah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה פרה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "פרה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Par."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Parah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Par."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Parah", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Parah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

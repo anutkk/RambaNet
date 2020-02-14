@@ -1,0 +1,126 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Sukkah", 
+            "he": "משנה סוכה"
+        }
+    ], 
+    "pubPlace": "Lemberg", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "עיקר תוספות יום טוב על משנה סוכה", 
+        "עיקר התוספות יו\"ט על משנה סוכה", 
+        "עיקר התוספות יום-טוב על משנה סוכה", 
+        "עיקר ר' יום טוב ליפמן הלוי הלר על משנה סוכה"
+    ], 
+    "heTitle": "עיקר תוספות יום טוב על משנה סוכה", 
+    "errorMargin": "5", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "עיקר תוספות יום טוב", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1790", 
+    "title": "Ikar Tosafot Yom Tov on Mishnah Sukkah", 
+    "compDate": "1785", 
+    "compDateString": {
+        "en": " (c.1780  - c.1790 CE)", 
+        "he": " (1780 - 1790 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ikar Tosafot Yom Tov on Mishnah Sukkah", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "עיקר תוספות יום טוב על משנה סוכה", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on Mishna Sukkah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on M. Sukkah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on M Sukkah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר תוספות יום טוב על משנה סוכה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר התוספות יו\"ט על משנה סוכה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר התוספות יום-טוב על משנה סוכה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר ר' יום טוב ליפמן הלוי הלר על משנה סוכה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on Mishnah Sukkah", 
+                "primary": true
+            }
+        ], 
+        "key": "Ikar Tosafot Yom Tov on Mishnah Sukkah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Ikar Tosafot Yom Tov is an abridged version of Rabbi Yom Tov Lippmann Heller’s (1579 - 1654) classic commentary on the Mishnah - Tosafot Yom Tov. ", 
+    "heDesc": "עיבוד מקוצר של הפירוש למשנה של הרב יום טוב ליפמן הלר (1579 - 1654). ", 
+    "authors": [
+        {
+            "en": "Meshulam Katz", 
+            "he": "משולם בן יואל כץ"
+        }, 
+        {
+            "en": "Yom-Tov Lipmann Heller", 
+            "he": "יום-טוב ליפמן הלר"
+        }
+    ], 
+    "titleVariants": [
+        "Ikar Tosafot Yom Tov on Mishna Sukkah", 
+        "Ikar Tosafot Yom Tov on M. Sukkah", 
+        "Ikar Tosafot Yom Tov on M Sukkah", 
+        "Ikar Tosafot Yom Tov on Mishnah Sukkah"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Ikar Tosafot Yom Tov", 
+        "Seder Moed"
+    ], 
+    "collective_title": {
+        "en": "Ikar Tosafot Yom Tov", 
+        "he": "עיקר תוספות יום טוב"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

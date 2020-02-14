@@ -1,0 +1,61 @@
+{
+    "heCategories": [
+        "סדר התפילה"
+    ], 
+    "title": "Ketubah Text", 
+    "heTitleVariants": [
+        "טקסט הכתובה"
+    ], 
+    "compPlace": "Jerusalem", 
+    "enDesc": "The Ketubah is the contract that is a central componant of a Jewish wedding. The Ketubah outlines the rights and responsibilities that the groom has vis-a-vis the bride. Sefaria hosts several versions of the Ketubah text.", 
+    "depth": 1, 
+    "compPlaceString": {
+        "en": "Jerusalem", 
+        "he": "ירושלים"
+    }, 
+    "heTitle": "טקסט הכתובה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Marriage Ceremony", 
+        "Ketubah Text"
+    ], 
+    "sectionNames": [
+        "section"
+    ], 
+    "categories": [
+        "Liturgy"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ketubah Text", 
+        "addressTypes": [
+            "Integer"
+        ], 
+        "heTitle": "טקסט הכתובה", 
+        "depth": 1, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Marriage Ceremony"
+            }, 
+            {
+                "lang": "he", 
+                "text": "טקסט הכתובה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ketubah Text", 
+                "primary": true
+            }
+        ], 
+        "key": "Ketubah Text", 
+        "heSectionNames": [
+            ""
+        ], 
+        "sectionNames": [
+            "section"
+        ]
+    }
+}

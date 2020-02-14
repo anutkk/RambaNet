@@ -1,0 +1,150 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Judges", 
+            "he": "שופטים"
+        }
+    ], 
+    "pubPlace": "Mantua", 
+    "compPlace": "Provence, France", 
+    "heTitleVariants": [
+        "רלב\"ג על שופטים"
+    ], 
+    "heTitle": "רלב\"ג על שופטים", 
+    "errorMargin": "10", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רלב\"ג", 
+        "נביאים"
+    ], 
+    "pubDate": "1480", 
+    "title": "Ralbag on Judges", 
+    "compDate": "1335", 
+    "compDateString": {
+        "en": " (c.1325  - c.1345 CE)", 
+        "he": " (1325 - 1345 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Provence, France", 
+        "he": "פרובנס, צרפת"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ralbag on Judges", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רלב\"ג על שופטים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ralbag on Shoftim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Jdg"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Judg"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Jdg."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Judg."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Shoftim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Jdg"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Judg"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Jdg."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Judg."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Judges"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רלב\"ג על שופטים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Judges", 
+                "primary": true
+            }
+        ], 
+        "key": "Ralbag on Judges", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "A commentary written by Rabbi Levi ben Gershon (1288–1344) of Provence. Ralbag was a Talmudist, mathematician and astronomer. He was a rationalist which is reflected in his approach to angels and miracles in his commentary. The commentary is divided into 3 parts: the lexicon (bi’ur ha-milot), exegesis (bi’ur ha-parasha), and the lessons (to’alot). ", 
+    "authors": [
+        {
+            "en": "Ralbag", 
+            "he": "רלב\"ג"
+        }
+    ], 
+    "titleVariants": [
+        "Ralbag on Shoftim", 
+        "Ralbag on Jdg", 
+        "Ralbag on Judg", 
+        "Ralbag on Jdg.", 
+        "Ralbag on Judg.", 
+        "Gersonides on Shoftim", 
+        "Gersonides on Jdg", 
+        "Gersonides on Judg", 
+        "Gersonides on Jdg.", 
+        "Gersonides on Judg.", 
+        "Gersonides on Judges", 
+        "Ralbag on Judges"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Ralbag", 
+        "Prophets"
+    ], 
+    "collective_title": {
+        "en": "Ralbag", 
+        "he": "רלב\"ג"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

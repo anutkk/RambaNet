@@ -1,0 +1,245 @@
+{
+    "heTitleVariants": [
+        "ליקוטי מוהר\"ן"
+    ], 
+    "heCategories": [
+        "חסידות", 
+        "ברסלב"
+    ], 
+    "pubDate": "1808", 
+    "title": "Likutei Moharan", 
+    "compDate": "1805", 
+    "pubPlace": "Ostroh", 
+    "compPlace": "Bratslav, Ukraine", 
+    "enDesc": "The first part (teachings 1-286) was printed in 1808 in Ostrog, still during the life of the author.  The second part was printed in 1811 in Moghilev, after the death of the author.  A combined edition was printed in 1821.", 
+    "compPlaceString": {
+        "en": "Bratslav, Ukraine", 
+        "he": "ברסלב"
+    }, 
+    "compDateString": {
+        "en": " (c.1802  - c.1808 CE)", 
+        "he": " (1802 - 1808 לספירה בקירוב)"
+    }, 
+    "heTitle": "ליקוטי מוהר\"ן", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Nachman of Breslov", 
+            "he": "נחמן מברסלב‎"
+        }
+    ], 
+    "dedication": {
+        "en": "Dedicated by Mo and Elisa Septimus in honor of R. Chaim Kramer, R. Nasan Maimon, the Ostrova-Biala Rebbe, and all chasidim of R. Nachman.", 
+        "he": "מוקדש על ידי מוֹ ואליסה ספטימוס לכבוד הרב חיים קרמר שליט\"א, הרב נתן מיימון שליט\"א, האדמו\"ר מאוסטרובה־ביאלא שליט\"א, ולזכות כלל חסידיו של רבי נחמן מברסלב"
+    }, 
+    "titleVariants": [
+        "Likutei Moharan Kama", 
+        "Likutei Moharan"
+    ], 
+    "errorMargin": "3", 
+    "categories": [
+        "Chasidut", 
+        "Breslov"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Introduction", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "הקדמה", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Introduction", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "הקדמה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Introduction", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "A Pleasant Song", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "שיר נעים", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "A Pleasant Song", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "שיר נעים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Shir", 
+                "heSectionNames": [
+                    "שורה"
+                ], 
+                "sectionNames": [
+                    "Line"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Go See", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "לכו חזו", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Go See", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "לכו חזו", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Lechu", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer", 
+                    "Integer"
+                ], 
+                "default": true, 
+                "title": "", 
+                "heTitle": "", 
+                "depth": 3, 
+                "key": "default", 
+                "heSectionNames": [
+                    "תורה", 
+                    "חלק", 
+                    "פירוש"
+                ], 
+                "sectionNames": [
+                    "Torah", 
+                    "Section", 
+                    "Comment"
+                ], 
+                "toc_zoom": 2
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer", 
+                    "Integer"
+                ], 
+                "title": "Part II", 
+                "heTitle": "תנינא", 
+                "depth": 3, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Part II", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "en", 
+                        "text": "Tinyana"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "תנינא", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Tinyana", 
+                "heSectionNames": [
+                    "תורה", 
+                    "חלק", 
+                    "פירוש"
+                ], 
+                "sectionNames": [
+                    "Torah", 
+                    "Section", 
+                    "Comment"
+                ], 
+                "toc_zoom": 2
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Additions from Manuscript", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "כתבי יד", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Additions from Manuscript", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "כתבי יד", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Letters", 
+                "heSectionNames": [
+                    "", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Manuscript", 
+                    "Paragraph"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Likutei Moharan Kama"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ליקוטי מוהר\"ן", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Likutei Moharan", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "ליקוטי מוהר\"ן", 
+        "key": "Likutei Moharan", 
+        "title": "Likutei Moharan"
+    }
+}

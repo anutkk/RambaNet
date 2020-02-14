@@ -1,0 +1,111 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Shulchan_Arukh,_Orach_Chayim", 
+            "he": "אורח חיים"
+        }
+    ], 
+    "pubPlace": "Jerusalem, Israel", 
+    "compPlace": "Jerusalem, Israel", 
+    "heTitleVariants": [
+        "כף החיים על שולחן ערוך אורח חיים", 
+        "כה\"ח"
+    ], 
+    "heTitle": "כף החיים על שולחן ערוך אורח חיים", 
+    "errorMargin": "20", 
+    "heCategories": [
+        "הלכה", 
+        "שולחן ערוך", 
+        "מפרשים", 
+        "כף החיים"
+    ], 
+    "pubDate": "1905", 
+    "title": "Kaf HaChayim on Shulchan Arukh, Orach Chayim", 
+    "compDate": "1920", 
+    "compDateString": {
+        "en": " (c.1900  - c.1940 CE)", 
+        "he": " (1900 - 1940 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Jerusalem, Israel", 
+        "he": "ירושלים, ישראל"
+    }, 
+    "sectionNames": [
+        "Siman", 
+        "Seif Katan", 
+        "Paragraph"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Siman", 
+            "Integer", 
+            "Integer"
+        ], 
+        "title": "Kaf HaChayim on Shulchan Arukh, Orach Chayim", 
+        "heTitle": "כף החיים על שולחן ערוך אורח חיים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Kaf ha-Hayyim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "<i>Kaf ha-Hayyim</i>"
+            }, 
+            {
+                "lang": "he", 
+                "text": "כף החיים על שולחן ערוך אורח חיים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "כה\"ח"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kaf HaChayim on Shulchan Arukh, Orach Chayim", 
+                "primary": true
+            }
+        ], 
+        "key": "Kaf HaChayim on Shulchan Arukh, Orach Chayim", 
+        "heSectionNames": [
+            "סימן", 
+            "סעיף קטן", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Siman", 
+            "Seif Katan", 
+            "Paragraph"
+        ], 
+        "toc_zoom": 2
+    }, 
+    "enDesc": "Multi-volume digest and commentary on Orach Chaim and Yoreh Deah sections of Shulchan Aruch, especially relied upon by Sephardic Jews. ", 
+    "heDesc": "חיבור הלכתי רב-היקף על חלקי אורח חיים וקצת מיורה דעה שבשלחן ערוך, הנחשב לאחד מחיבורי ההלכה המרכזיים והחשובים לציבור הספרדי.", 
+    "authors": [
+        {
+            "en": "Yaakov Chaim Sofer", 
+            "he": "יעקב חיים סופר"
+        }
+    ], 
+    "titleVariants": [
+        "Kaf ha-Hayyim", 
+        "<i>Kaf ha-Hayyim</i>", 
+        "Kaf HaChayim on Shulchan Arukh, Orach Chayim"
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Shulchan Arukh", 
+        "Commentary", 
+        "Kaf HaChayim"
+    ], 
+    "collective_title": {
+        "en": "Kaf HaChayim", 
+        "he": "כף החיים"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH"
+}

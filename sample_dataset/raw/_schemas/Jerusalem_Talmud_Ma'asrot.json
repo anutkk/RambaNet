@@ -1,0 +1,110 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Daf", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "ירושלמי", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1523", 
+    "title": "Jerusalem Talmud Ma'asrot", 
+    "compDate": "400", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Maaseh Sheni (Second Tithes) belongs to the first order, Zera'im (seeds) and discusses the rules concerning the tithe which was to be eaten in Jerusalem, as stated in Deuteronomy 14:22-26. It consists of five chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תלמוד ירושלמי מעשרות", 
+        "ירושלמי מעשרות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)", 
+        "he": " (375 - 425 לספירה בקירוב)"
+    }, 
+    "heTitle": "תלמוד ירושלמי מעשרות", 
+    "era": "A", 
+    "authors": [], 
+    "titleVariants": [
+        "Yerushalmi Ma'asrot", 
+        "Talmud Yerushalmi Ma'asrot", 
+        "Yerushalmi Maasrot", 
+        "JT Maasrot", 
+        "JT Ma'asrot", 
+        "Jerusalem Talmud Ma'asrot"
+    ], 
+    "errorMargin": "25", 
+    "order": [
+        7
+    ], 
+    "categories": [
+        "Talmud", 
+        "Yerushalmi", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            52, 
+            87
+        ], 
+        "title": "Jerusalem Talmud Ma'asrot", 
+        "heTitle": "תלמוד ירושלמי מעשרות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Ma'asrot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Talmud Yerushalmi Ma'asrot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Maasrot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Maasrot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Ma'asrot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תלמוד ירושלמי מעשרות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ירושלמי מעשרות"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Jerusalem Talmud Ma'asrot", 
+                "primary": true
+            }
+        ], 
+        "key": "Jerusalem Talmud Ma'asrot", 
+        "heSectionNames": [
+            "דף", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Halakhah"
+        ]
+    }
+}

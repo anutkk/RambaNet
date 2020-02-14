@@ -1,0 +1,82 @@
+{
+    "depth": 3, 
+    "heTitleVariants": [
+        "לחם שמים על פרקי אבות"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Pirkei Avot", 
+            "he": "פרקי אבות"
+        }
+    ], 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "לחם שמים", 
+        "סדר נזיקין"
+    ], 
+    "title": "Lechem Shamayim on Pirkei Avot", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Lechem Shamayim", 
+        "he": "לחם שמים"
+    }, 
+    "enDesc": "Commentary of R' Yaakov Emden on Pirkei Avot.", 
+    "dependence": "Commentary", 
+    "heDesc": "ביאור לר' יעקב עמדין על פרקי אבות.", 
+    "heTitle": "לחם שמים על פרקי אבות", 
+    "authors": [
+        {
+            "en": "Yaakov Emden", 
+            "he": "יעקב עמדין"
+        }
+    ], 
+    "titleVariants": [
+        "Lechem Shamayim on Pirkei Avot"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Lechem Shamayim", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Lechem Shamayim on Pirkei Avot", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "לחם שמים על פרקי אבות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "לחם שמים על פרקי אבות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Lechem Shamayim on Pirkei Avot", 
+                "primary": true
+            }
+        ], 
+        "key": "Lechem Shamayim on Pirkei Avot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }
+}

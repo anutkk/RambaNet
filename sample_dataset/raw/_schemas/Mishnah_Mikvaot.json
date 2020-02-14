@@ -1,0 +1,124 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Mikvaot", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Mikavot (Pools) belongs to the sixth order, Tahorot (Purities) and discusses the laws of the mikveh (pool) used for cleansing the body from impurities. It has four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה מקואות", 
+        "מקואות", 
+        "מקוואות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה מקואות", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Mikvaot", 
+        "M Mikvaot", 
+        "Mishna Mikvaot", 
+        "Mikv.", 
+        "Miḳvaoth", 
+        "Mishnah Mikv.", 
+        "Mishnah Miḳvaoth", 
+        "Mishnah Mikvaot"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        57, 
+        6
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            10, 
+            71
+        ], 
+        "title": "Mishnah Mikvaot", 
+        "heTitle": "משנה מקואות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Mikvaot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Mikvaot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Mikvaot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mikv."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Miḳvaoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Mikv."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Miḳvaoth"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה מקואות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "מקואות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מקוואות"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Mikvaot", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Mikvaot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Niddah", 
+            "he": "נידה"
+        }
+    ], 
+    "pubPlace": "Vilna", 
+    "compPlace": "Posen", 
+    "heTitleVariants": [
+        " חידושי אגדות על מסכת נדה"
+    ], 
+    "heTitle": " חידושי אגדות על מסכת נדה", 
+    "errorMargin": "25", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "חידושי אגדות", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1670", 
+    "title": "Chidushei Agadot on Niddah", 
+    "compDate": "1605", 
+    "compDateString": {
+        "en": " (c.1580  - c.1630 CE)", 
+        "he": " (1580 - 1630 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Posen", 
+        "he": "פוזן"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Chidushei Agadot on Niddah", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": " חידושי אגדות על מסכת נדה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": " חידושי אגדות על מסכת נדה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Chidushei Agadot on Niddah", 
+                "primary": true
+            }
+        ], 
+        "key": "Chidushei Agadot on Niddah", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Written by Rabbi Shmuel Eliezer Edels, the Maharsha (1555 – 1631, Poland), Chidushei Agadot is a commentary on the aggadic (non-legal) portions of the Talmud. The commentary reflects the author’s vast knowledge of philosophy and Kabbalah. ", 
+    "heDesc": "פירוש על כל האגדות שבתלמוד בבלי.", 
+    "authors": [
+        {
+            "en": "Maharsha", 
+            "he": "מהרש\"א"
+        }
+    ], 
+    "titleVariants": [
+        "Chidushei Agadot on Niddah"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Chidushei Agadot", 
+        "Seder Tahorot"
+    ], 
+    "collective_title": {
+        "en": "Chidushei Agadot", 
+        "he": "חידושי אגדות"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 2, 
+    "era": "AH", 
+    "base_text_mapping": null
+}

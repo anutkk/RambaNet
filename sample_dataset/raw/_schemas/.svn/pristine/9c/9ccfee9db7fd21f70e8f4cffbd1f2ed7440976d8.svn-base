@@ -1,0 +1,1262 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Paragraph", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "מדרש", 
+        "מדרש הלכה"
+    ], 
+    "pubDate": "1546", 
+    "title": "Sifrei Bamidbar", 
+    "compDate": "200", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel/Babylon", 
+    "enDesc": "Sifrei (Books) also known as Sifrei debe Rav or Sifrei Rabbah refers to either of two works of Midrash halakhah, based on the biblical books of Bemidbar (Numbers) and Devarim (Deuteronomy). The earliest Sifrei is found in Talmudic times and successively cited by Geonim and Rishonim. This early version is certainly not identical with the modern Sifrei. The modern Sifrei is not a uniform work, but one composed of two parts, one on Numbers and one on Deuteronomy that were joined together. The Sifrei to Numbers is evidently a midrash which originated in R. Ishmael's school, and which has all the peculiarities and characteristics of such a work though this does not exclude borrowing form Mekhilta de R. Shimon. The Sifrei to Deuteronomy is of an entirely different nature. The main portion (Nos. 53-303), halakic in character, is preceded and followed by haggadic parts, and it has all the characteristics of a midrash from the school of R. Akiba. Several anonymous passages may be cited to express the views of R. Simeon; this midrash may with a fair degree of certainty be ascribed to him. The editor certainly drew upon other midrashic works besides R. Simeon's midrash, especially upon that of R. Ishmael.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "ספרי במדבר"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel/Babylon", 
+        "he": "ישראל / בבל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (200 CE)", 
+        "he": " (200 לספירה)"
+    }, 
+    "heTitle": "ספרי במדבר", 
+    "era": "A", 
+    "authors": [], 
+    "titleVariants": [
+        "Siphre bamidbar", 
+        "Sifré Num.", 
+        "Sifrei Numbers", 
+        "Siphrê, Numb.", 
+        "Sifrei Bamidbar"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Sifrei Bamidbar", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "ספרי במדבר", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Siphre bamidbar"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Sifré Num."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Sifrei Numbers"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Siphrê, Numb."
+            }, 
+            {
+                "lang": "he", 
+                "text": "ספרי במדבר", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Sifrei Bamidbar", 
+                "primary": true
+            }
+        ], 
+        "key": "Sifrei Bamidbar", 
+        "heSectionNames": [
+            "פסקה", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Paragraph", 
+            "Paragraph"
+        ]
+    }, 
+    "alts": {
+        "Parasha": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 1:1-8", 
+                        "Sifrei Bamidbar 2", 
+                        "Sifrei Bamidbar 3", 
+                        "Sifrei Bamidbar 4", 
+                        "Sifrei Bamidbar 5", 
+                        "Sifrei Bamidbar 6", 
+                        "Sifrei Bamidbar 7", 
+                        "Sifrei Bamidbar 8", 
+                        "Sifrei Bamidbar 9", 
+                        "Sifrei Bamidbar 10", 
+                        "Sifrei Bamidbar 11", 
+                        "Sifrei Bamidbar 12", 
+                        "Sifrei Bamidbar 13", 
+                        "Sifrei Bamidbar 14", 
+                        "Sifrei Bamidbar 15", 
+                        "Sifrei Bamidbar 16", 
+                        "Sifrei Bamidbar 17", 
+                        "Sifrei Bamidbar 18", 
+                        "Sifrei Bamidbar 19", 
+                        "Sifrei Bamidbar 20", 
+                        "Sifrei Bamidbar 21", 
+                        "Sifrei Bamidbar 22", 
+                        "Sifrei Bamidbar 23", 
+                        "Sifrei Bamidbar 24", 
+                        "Sifrei Bamidbar 25", 
+                        "Sifrei Bamidbar 26", 
+                        "Sifrei Bamidbar 27", 
+                        "Sifrei Bamidbar 28", 
+                        "Sifrei Bamidbar 29", 
+                        "Sifrei Bamidbar 30", 
+                        "Sifrei Bamidbar 31", 
+                        "Sifrei Bamidbar 32", 
+                        "Sifrei Bamidbar 33", 
+                        "Sifrei Bamidbar 34", 
+                        "Sifrei Bamidbar 35", 
+                        "Sifrei Bamidbar 36", 
+                        "Sifrei Bamidbar 37", 
+                        "Sifrei Bamidbar 38", 
+                        "Sifrei Bamidbar 39", 
+                        "Sifrei Bamidbar 40", 
+                        "Sifrei Bamidbar 41", 
+                        "Sifrei Bamidbar 42", 
+                        "Sifrei Bamidbar 43", 
+                        "Sifrei Bamidbar 44", 
+                        "Sifrei Bamidbar 45", 
+                        "Sifrei Bamidbar 46", 
+                        "Sifrei Bamidbar 47", 
+                        "Sifrei Bamidbar 48", 
+                        "Sifrei Bamidbar 49", 
+                        "Sifrei Bamidbar 50", 
+                        "Sifrei Bamidbar 51", 
+                        "Sifrei Bamidbar 52", 
+                        "Sifrei Bamidbar 53", 
+                        "Sifrei Bamidbar 54", 
+                        "Sifrei Bamidbar 55", 
+                        "Sifrei Bamidbar 56", 
+                        "Sifrei Bamidbar 57", 
+                        "Sifrei Bamidbar 58:1-2"
+                    ], 
+                    "heTitle": "נשא", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Nasso", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "נשא", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 0, 
+                    "wholeRef": "Sifrei Bamidbar 1:1-58:2", 
+                    "includeSections": true, 
+                    "title": "Nasso", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 59:1", 
+                        "Sifrei Bamidbar 60", 
+                        "Sifrei Bamidbar 61", 
+                        "Sifrei Bamidbar 62", 
+                        "Sifrei Bamidbar 63", 
+                        "Sifrei Bamidbar 64", 
+                        "Sifrei Bamidbar 65", 
+                        "Sifrei Bamidbar 66", 
+                        "Sifrei Bamidbar 67", 
+                        "Sifrei Bamidbar 68", 
+                        "Sifrei Bamidbar 69", 
+                        "Sifrei Bamidbar 70", 
+                        "Sifrei Bamidbar 71", 
+                        "Sifrei Bamidbar 72", 
+                        "Sifrei Bamidbar 73", 
+                        "Sifrei Bamidbar 74", 
+                        "Sifrei Bamidbar 75", 
+                        "Sifrei Bamidbar 76", 
+                        "Sifrei Bamidbar 77", 
+                        "Sifrei Bamidbar 78", 
+                        "Sifrei Bamidbar 79", 
+                        "Sifrei Bamidbar 80", 
+                        "Sifrei Bamidbar 81", 
+                        "Sifrei Bamidbar 82", 
+                        "Sifrei Bamidbar 83", 
+                        "Sifrei Bamidbar 84", 
+                        "Sifrei Bamidbar 85", 
+                        "Sifrei Bamidbar 86", 
+                        "Sifrei Bamidbar 87", 
+                        "Sifrei Bamidbar 88", 
+                        "Sifrei Bamidbar 89", 
+                        "Sifrei Bamidbar 90", 
+                        "Sifrei Bamidbar 91", 
+                        "Sifrei Bamidbar 92", 
+                        "Sifrei Bamidbar 93", 
+                        "Sifrei Bamidbar 94", 
+                        "Sifrei Bamidbar 95", 
+                        "Sifrei Bamidbar 96", 
+                        "Sifrei Bamidbar 97", 
+                        "Sifrei Bamidbar 98", 
+                        "Sifrei Bamidbar 99", 
+                        "Sifrei Bamidbar 100", 
+                        "Sifrei Bamidbar 101", 
+                        "Sifrei Bamidbar 102", 
+                        "Sifrei Bamidbar 103", 
+                        "Sifrei Bamidbar 104", 
+                        "Sifrei Bamidbar 105", 
+                        "Sifrei Bamidbar 106:1"
+                    ], 
+                    "heTitle": "בהעלתך", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Beha'alotcha", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "בהעלתך", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 58, 
+                    "wholeRef": "Sifrei Bamidbar 59:1-106:1", 
+                    "includeSections": true, 
+                    "title": "Beha'alotcha", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 107:1-3", 
+                        "Sifrei Bamidbar 108", 
+                        "Sifrei Bamidbar 109", 
+                        "Sifrei Bamidbar 110", 
+                        "Sifrei Bamidbar 111", 
+                        "Sifrei Bamidbar 112", 
+                        "Sifrei Bamidbar 113", 
+                        "Sifrei Bamidbar 114", 
+                        "Sifrei Bamidbar 115:1-2"
+                    ], 
+                    "heTitle": "שלח לך", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Sh'lach", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "שלח לך", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 106, 
+                    "wholeRef": "Sifrei Bamidbar 107:1-115:2", 
+                    "includeSections": true, 
+                    "title": "Sh'lach", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 116:1-2", 
+                        "Sifrei Bamidbar 117", 
+                        "Sifrei Bamidbar 118", 
+                        "Sifrei Bamidbar 119", 
+                        "Sifrei Bamidbar 120", 
+                        "Sifrei Bamidbar 121", 
+                        "Sifrei Bamidbar 122:1"
+                    ], 
+                    "heTitle": "קרח", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Korach", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "קרח", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 115, 
+                    "wholeRef": "Sifrei Bamidbar 116:1-122:1", 
+                    "includeSections": true, 
+                    "title": "Korach", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 123:1-2", 
+                        "Sifrei Bamidbar 124", 
+                        "Sifrei Bamidbar 125", 
+                        "Sifrei Bamidbar 126", 
+                        "Sifrei Bamidbar 127", 
+                        "Sifrei Bamidbar 128", 
+                        "Sifrei Bamidbar 129", 
+                        "Sifrei Bamidbar 130:1"
+                    ], 
+                    "heTitle": "חקת", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chukat", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "חקת", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 122, 
+                    "wholeRef": "Sifrei Bamidbar 123:1-130:1", 
+                    "includeSections": true, 
+                    "title": "Chukat", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 131:1-5"
+                    ], 
+                    "heTitle": "בלק", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Balak", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "בלק", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 130, 
+                    "wholeRef": "Sifrei Bamidbar 131:1-5", 
+                    "includeSections": true, 
+                    "title": "Balak", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 132:1-4", 
+                        "Sifrei Bamidbar 133", 
+                        "Sifrei Bamidbar 134", 
+                        "Sifrei Bamidbar 135", 
+                        "Sifrei Bamidbar 136", 
+                        "Sifrei Bamidbar 137", 
+                        "Sifrei Bamidbar 138", 
+                        "Sifrei Bamidbar 139", 
+                        "Sifrei Bamidbar 140", 
+                        "Sifrei Bamidbar 141", 
+                        "Sifrei Bamidbar 142", 
+                        "Sifrei Bamidbar 143", 
+                        "Sifrei Bamidbar 144", 
+                        "Sifrei Bamidbar 145", 
+                        "Sifrei Bamidbar 146", 
+                        "Sifrei Bamidbar 147", 
+                        "Sifrei Bamidbar 148", 
+                        "Sifrei Bamidbar 149", 
+                        "Sifrei Bamidbar 150", 
+                        "Sifrei Bamidbar 151", 
+                        "Sifrei Bamidbar 152:1"
+                    ], 
+                    "heTitle": "פינחס", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Pinchas", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פינחס", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 131, 
+                    "wholeRef": "Sifrei Bamidbar 132:1-152:1", 
+                    "includeSections": true, 
+                    "title": "Pinchas", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 153:1-10", 
+                        "Sifrei Bamidbar 154", 
+                        "Sifrei Bamidbar 155", 
+                        "Sifrei Bamidbar 156", 
+                        "Sifrei Bamidbar 157", 
+                        "Sifrei Bamidbar 158:1-3"
+                    ], 
+                    "heTitle": "מטות", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Matot", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מטות", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 152, 
+                    "wholeRef": "Sifrei Bamidbar 153:1-158:3", 
+                    "includeSections": true, 
+                    "title": "Matot", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 159", 
+                        "Sifrei Bamidbar 160:1-15"
+                    ], 
+                    "heTitle": "מסעי", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Masei", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מסעי", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 158, 
+                    "wholeRef": "Sifrei Bamidbar 158:4-160:15", 
+                    "includeSections": true, 
+                    "title": "Masei", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }
+            ], 
+            "titles": [
+                {
+                    "lang": "en", 
+                    "text": "Siphre bamidbar"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sifré Num."
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sifrei Numbers"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Siphrê, Numb."
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "ספרי במדבר", 
+                    "primary": true
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sifrei Bamidbar", 
+                    "primary": true
+                }
+            ], 
+            "heTitle": "ספרי במדבר", 
+            "title": "Sifrei Bamidbar"
+        }, 
+        "Chapters": {
+            "nodes": [
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 1:1-8", 
+                        "Sifrei Bamidbar 2", 
+                        "Sifrei Bamidbar 3", 
+                        "Sifrei Bamidbar 4", 
+                        "Sifrei Bamidbar 5", 
+                        "Sifrei Bamidbar 6", 
+                        "Sifrei Bamidbar 7", 
+                        "Sifrei Bamidbar 8", 
+                        "Sifrei Bamidbar 9", 
+                        "Sifrei Bamidbar 10", 
+                        "Sifrei Bamidbar 11", 
+                        "Sifrei Bamidbar 12", 
+                        "Sifrei Bamidbar 13", 
+                        "Sifrei Bamidbar 14", 
+                        "Sifrei Bamidbar 15", 
+                        "Sifrei Bamidbar 16", 
+                        "Sifrei Bamidbar 17", 
+                        "Sifrei Bamidbar 18", 
+                        "Sifrei Bamidbar 19", 
+                        "Sifrei Bamidbar 20", 
+                        "Sifrei Bamidbar 21:1"
+                    ], 
+                    "heTitle": "פרק ה", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 5", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק ה", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 0, 
+                    "wholeRef": "Sifrei Bamidbar 1:1-21:1", 
+                    "includeSections": true, 
+                    "title": "Chapter 5", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 22:1", 
+                        "Sifrei Bamidbar 23", 
+                        "Sifrei Bamidbar 24", 
+                        "Sifrei Bamidbar 25", 
+                        "Sifrei Bamidbar 26", 
+                        "Sifrei Bamidbar 27", 
+                        "Sifrei Bamidbar 28", 
+                        "Sifrei Bamidbar 29", 
+                        "Sifrei Bamidbar 30", 
+                        "Sifrei Bamidbar 31", 
+                        "Sifrei Bamidbar 32", 
+                        "Sifrei Bamidbar 33", 
+                        "Sifrei Bamidbar 34", 
+                        "Sifrei Bamidbar 35", 
+                        "Sifrei Bamidbar 36", 
+                        "Sifrei Bamidbar 37", 
+                        "Sifrei Bamidbar 38", 
+                        "Sifrei Bamidbar 39", 
+                        "Sifrei Bamidbar 40", 
+                        "Sifrei Bamidbar 41", 
+                        "Sifrei Bamidbar 42", 
+                        "Sifrei Bamidbar 43:1"
+                    ], 
+                    "heTitle": "פרק ו", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 6", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק ו", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 21, 
+                    "wholeRef": "Sifrei Bamidbar 22:1-43:1", 
+                    "includeSections": true, 
+                    "title": "Chapter 6", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 44:1", 
+                        "Sifrei Bamidbar 45", 
+                        "Sifrei Bamidbar 46", 
+                        "Sifrei Bamidbar 47", 
+                        "Sifrei Bamidbar 48", 
+                        "Sifrei Bamidbar 49", 
+                        "Sifrei Bamidbar 50", 
+                        "Sifrei Bamidbar 51", 
+                        "Sifrei Bamidbar 52", 
+                        "Sifrei Bamidbar 53", 
+                        "Sifrei Bamidbar 54", 
+                        "Sifrei Bamidbar 55", 
+                        "Sifrei Bamidbar 56", 
+                        "Sifrei Bamidbar 57", 
+                        "Sifrei Bamidbar 58", 
+                        "Sifrei Bamidbar 59:1"
+                    ], 
+                    "heTitle": "פרק ז", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 7", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק ז", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 43, 
+                    "wholeRef": "Sifrei Bamidbar 44:1-59:1", 
+                    "includeSections": true, 
+                    "title": "Chapter 7", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 60:1", 
+                        "Sifrei Bamidbar 61", 
+                        "Sifrei Bamidbar 62", 
+                        "Sifrei Bamidbar 63:1-2"
+                    ], 
+                    "heTitle": "פרק ח", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 8", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק ח", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 59, 
+                    "wholeRef": "Sifrei Bamidbar 60:1-63:2", 
+                    "includeSections": true, 
+                    "title": "Chapter 8", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 64:1-2", 
+                        "Sifrei Bamidbar 65", 
+                        "Sifrei Bamidbar 66", 
+                        "Sifrei Bamidbar 67", 
+                        "Sifrei Bamidbar 68", 
+                        "Sifrei Bamidbar 69", 
+                        "Sifrei Bamidbar 70", 
+                        "Sifrei Bamidbar 71:1"
+                    ], 
+                    "heTitle": "פרק ט", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 9", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק ט", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 63, 
+                    "wholeRef": "Sifrei Bamidbar 64:1-71:1", 
+                    "includeSections": true, 
+                    "title": "Chapter 9", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 72:1", 
+                        "Sifrei Bamidbar 73", 
+                        "Sifrei Bamidbar 74", 
+                        "Sifrei Bamidbar 75", 
+                        "Sifrei Bamidbar 76", 
+                        "Sifrei Bamidbar 77", 
+                        "Sifrei Bamidbar 78", 
+                        "Sifrei Bamidbar 79", 
+                        "Sifrei Bamidbar 80", 
+                        "Sifrei Bamidbar 81", 
+                        "Sifrei Bamidbar 82", 
+                        "Sifrei Bamidbar 83", 
+                        "Sifrei Bamidbar 84:1-4"
+                    ], 
+                    "heTitle": "פרק י", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 10", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק י", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 71, 
+                    "wholeRef": "Sifrei Bamidbar 72:1-84:4", 
+                    "includeSections": true, 
+                    "title": "Chapter 10", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 85:1", 
+                        "Sifrei Bamidbar 86", 
+                        "Sifrei Bamidbar 87", 
+                        "Sifrei Bamidbar 88", 
+                        "Sifrei Bamidbar 89", 
+                        "Sifrei Bamidbar 90", 
+                        "Sifrei Bamidbar 91", 
+                        "Sifrei Bamidbar 92", 
+                        "Sifrei Bamidbar 93", 
+                        "Sifrei Bamidbar 94", 
+                        "Sifrei Bamidbar 95", 
+                        "Sifrei Bamidbar 96", 
+                        "Sifrei Bamidbar 97", 
+                        "Sifrei Bamidbar 98:1"
+                    ], 
+                    "heTitle": "פרק יא", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 11", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק יא", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 84, 
+                    "wholeRef": "Sifrei Bamidbar 85:1-98:1", 
+                    "includeSections": true, 
+                    "title": "Chapter 11", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 99:1", 
+                        "Sifrei Bamidbar 100", 
+                        "Sifrei Bamidbar 101", 
+                        "Sifrei Bamidbar 102", 
+                        "Sifrei Bamidbar 103", 
+                        "Sifrei Bamidbar 104", 
+                        "Sifrei Bamidbar 105", 
+                        "Sifrei Bamidbar 106:1"
+                    ], 
+                    "heTitle": "פרק יב", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 12", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק יב", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 98, 
+                    "wholeRef": "Sifrei Bamidbar 99:1-106:1", 
+                    "includeSections": true, 
+                    "title": "Chapter 12", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 107:1-3", 
+                        "Sifrei Bamidbar 108", 
+                        "Sifrei Bamidbar 109", 
+                        "Sifrei Bamidbar 110", 
+                        "Sifrei Bamidbar 111", 
+                        "Sifrei Bamidbar 112", 
+                        "Sifrei Bamidbar 113", 
+                        "Sifrei Bamidbar 114", 
+                        "Sifrei Bamidbar 115:1-2"
+                    ], 
+                    "heTitle": "פרק טו", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 15", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק טו", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 106, 
+                    "wholeRef": "Sifrei Bamidbar 107:1-115:2", 
+                    "includeSections": true, 
+                    "title": "Chapter 15", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 116:1-2", 
+                        "Sifrei Bamidbar 117", 
+                        "Sifrei Bamidbar 118", 
+                        "Sifrei Bamidbar 119", 
+                        "Sifrei Bamidbar 120", 
+                        "Sifrei Bamidbar 121", 
+                        "Sifrei Bamidbar 122:1"
+                    ], 
+                    "heTitle": "פרק יח", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 18", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק יח", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 115, 
+                    "wholeRef": "Sifrei Bamidbar 116:1-122:1", 
+                    "includeSections": true, 
+                    "title": "Chapter 18", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 123:1-2", 
+                        "Sifrei Bamidbar 124", 
+                        "Sifrei Bamidbar 125", 
+                        "Sifrei Bamidbar 126", 
+                        "Sifrei Bamidbar 127", 
+                        "Sifrei Bamidbar 128", 
+                        "Sifrei Bamidbar 129", 
+                        "Sifrei Bamidbar 130:1"
+                    ], 
+                    "heTitle": "פרק יט", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 19", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק יט", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 122, 
+                    "wholeRef": "Sifrei Bamidbar 123:1-130:1", 
+                    "includeSections": true, 
+                    "title": "Chapter 19", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 131:1-5"
+                    ], 
+                    "heTitle": "פרק כה", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 25", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק כה", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 130, 
+                    "wholeRef": "Sifrei Bamidbar 131:1-5", 
+                    "includeSections": true, 
+                    "title": "Chapter 25", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 132:1-4"
+                    ], 
+                    "heTitle": "פרק כו", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 26", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק כו", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 131, 
+                    "wholeRef": "Sifrei Bamidbar 132:1-4", 
+                    "includeSections": true, 
+                    "title": "Chapter 26", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 133:1-4", 
+                        "Sifrei Bamidbar 134", 
+                        "Sifrei Bamidbar 135", 
+                        "Sifrei Bamidbar 136", 
+                        "Sifrei Bamidbar 137", 
+                        "Sifrei Bamidbar 138", 
+                        "Sifrei Bamidbar 139", 
+                        "Sifrei Bamidbar 140", 
+                        "Sifrei Bamidbar 141:1-3"
+                    ], 
+                    "heTitle": "פרק כז", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 27", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק כז", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 132, 
+                    "wholeRef": "Sifrei Bamidbar 133:1-141:3", 
+                    "includeSections": true, 
+                    "title": "Chapter 27", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 142:1-5", 
+                        "Sifrei Bamidbar 143", 
+                        "Sifrei Bamidbar 144", 
+                        "Sifrei Bamidbar 145", 
+                        "Sifrei Bamidbar 146", 
+                        "Sifrei Bamidbar 147", 
+                        "Sifrei Bamidbar 148", 
+                        "Sifrei Bamidbar 149:1-2"
+                    ], 
+                    "heTitle": "פרק כח", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 28", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק כח", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 141, 
+                    "wholeRef": "Sifrei Bamidbar 142:1-149:2", 
+                    "includeSections": true, 
+                    "title": "Chapter 28", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 150:1", 
+                        "Sifrei Bamidbar 151", 
+                        "Sifrei Bamidbar 152:1"
+                    ], 
+                    "heTitle": "פרק כט", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 29", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק כט", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 149, 
+                    "wholeRef": "Sifrei Bamidbar 150:1-152:1", 
+                    "includeSections": true, 
+                    "title": "Chapter 29", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 153:1-10", 
+                        "Sifrei Bamidbar 154", 
+                        "Sifrei Bamidbar 155", 
+                        "Sifrei Bamidbar 156:1-3"
+                    ], 
+                    "heTitle": "פרק ל", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 30", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק ל", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 152, 
+                    "wholeRef": "Sifrei Bamidbar 153:1-156:3", 
+                    "includeSections": true, 
+                    "title": "Chapter 30", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }, 
+                {
+                    "nodeType": "ArrayMapNode", 
+                    "refs": [
+                        "Sifrei Bamidbar 157:1-9", 
+                        "Sifrei Bamidbar 158:1-3"
+                    ], 
+                    "heTitle": "פרק לא", 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 31", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "פרק לא", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 156, 
+                    "wholeRef": "Sifrei Bamidbar 157:1-158:3", 
+                    "includeSections": true, 
+                    "title": "Chapter 31", 
+                    "addressTypes": [
+                        "Integer"
+                    ], 
+                    "depth": 1, 
+                    "sectionNames": [
+                        "Paragraph"
+                    ]
+                }
+            ], 
+            "titles": [
+                {
+                    "lang": "en", 
+                    "text": "Siphre bamidbar"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sifré Num."
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sifrei Numbers"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Siphrê, Numb."
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "ספרי במדבר", 
+                    "primary": true
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sifrei Bamidbar", 
+                    "primary": true
+                }
+            ], 
+            "heTitle": "ספרי במדבר", 
+            "title": "Sifrei Bamidbar"
+        }
+    }, 
+    "categories": [
+        "Midrash", 
+        "Halachic Midrash"
+    ], 
+    "default_struct": "Chapters"
+}

@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Temurah", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Temurah (Substitution) belongs to the fifth order, Nezikin (The Order of Damages) and discusses the laws of what happens if an animal is substituted for an animal dedicated for a sacrifice. It has seven chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תמורה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תמורה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Temurah", 
+        "M Temurah", 
+        "Mishna Temurah", 
+        "Mishnah Tem.", 
+        "Mishnah T’murah", 
+        "Mishnah Temurah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        46, 
+        6
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Kodashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            7, 
+            35
+        ], 
+        "title": "Mishnah Temurah", 
+        "heTitle": "משנה תמורה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Temurah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Temurah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Temurah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תמורה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Tem."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah T’murah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Temurah", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Temurah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

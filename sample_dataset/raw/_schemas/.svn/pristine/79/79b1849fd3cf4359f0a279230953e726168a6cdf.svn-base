@@ -1,0 +1,130 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Song of Songs", 
+            "he": "שיר השירים"
+        }
+    ], 
+    "pubPlace": "Guadalajara, Spain", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על שיר השירים", 
+        "רש\"י על שה\"ש", 
+        "רש\"י על שיר", 
+        "רש\"י על שה״ש"
+    ], 
+    "heTitle": "רש\"י על שיר השירים", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רש\"י", 
+        "כתובים"
+    ], 
+    "pubDate": "1476", 
+    "title": "Rashi on Song of Songs", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Song of Songs", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על שיר השירים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Shir HaShirim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Canticles"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Song."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Song"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על שיר השירים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על שה\"ש"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על שיר"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על שה״ש"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Song of Songs", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Song of Songs", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Commentary on the Tanakh written by Rabbi Shlomo Yitzchaki (Rashi). Rashi lived in Troyes, France (1040-1105). Rashi’s commentary is an essential explanation of the Tanakh and resides in a place of honor on the page of almost all editions of the Tanakh. Over 300 supercommentaries have been written to further explain Rashi’s comments on the Torah. While quoting many midrashim and Talmudic passages, Rashi, in his commentary, states that his purpose is to present the pshat (contextual meaning) of the text.  ", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Shir HaShirim", 
+        "Rashi on Canticles", 
+        "Rashi on Song.", 
+        "Rashi on Song", 
+        "Rashi on Song of Songs"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Rashi", 
+        "Writings"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

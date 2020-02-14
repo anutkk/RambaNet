@@ -1,0 +1,83 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "Amos", 
+            "he": "עמוס"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "תרגומים", 
+        "תרגום יונתן", 
+        "נביאים"
+    ], 
+    "title": "Targum Jonathan on Amos", 
+    "base_text_mapping": "one_to_one", 
+    "collective_title": {
+        "en": "Targum Jonathan", 
+        "he": "תרגום יונתן"
+    }, 
+    "enDesc": "Targum Jonathan is an Aramaic translation of the Neviim (Prophets). Authorship of the Targum is attributed to Jonathan ben Uzziel, a prime student of the great Talmudic sage Hillel. In Talmudic times, the Targum was read verse-by-verse, alternating with the Hebrew text of the haftarah.   ", 
+    "dependence": "Targum", 
+    "heTitleVariants": [
+        "תרגום יונתן על עמוס"
+    ], 
+    "heTitle": "תרגום יונתן על עמוס", 
+    "authors": [], 
+    "titleVariants": [
+        "Targ. Am.", 
+        "Targ. Amos", 
+        "Targum Jonathan on Amos"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Targum", 
+        "Targum Jonathan", 
+        "Prophets"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Targum Jonathan on Amos", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תרגום יונתן על עמוס", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תרגום יונתן על עמוס", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. Am."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. Amos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targum Jonathan on Amos", 
+                "primary": true
+            }
+        ], 
+        "key": "Targum Jonathan on Amos", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

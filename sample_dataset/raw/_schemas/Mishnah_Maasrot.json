@@ -1,0 +1,119 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Maasrot", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Maaserot (Tithes) belongs to the first order, Zera'im (seeds) and discusses the rules regarding the first tithe (Maaseh Rishon) to be given to the Levites, as stated in Numbers 18:21-24. It consists of five chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה מעשרות", 
+        "מעשרות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה מעשרות", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Maasrot", 
+        "M Maasrot", 
+        "Mishna Maasrot", 
+        "Maasr.", 
+        "Maʿasroth", 
+        "Mishnah Maasr.", 
+        "Mishnah Maʿasroth", 
+        "Mishnah Maasrot"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        7, 
+        7
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            5, 
+            40
+        ], 
+        "title": "Mishnah Maasrot", 
+        "heTitle": "משנה מעשרות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Maasrot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Maasrot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Maasrot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה מעשרות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "מעשרות"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maasr."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maʿasroth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Maasr."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Maʿasroth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Maasrot", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Maasrot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

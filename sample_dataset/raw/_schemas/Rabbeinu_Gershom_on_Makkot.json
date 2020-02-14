@@ -1,0 +1,121 @@
+{
+    "depth": 3, 
+    "heTitleVariants": [
+        "רבינו גרשום על מכות"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Makkot", 
+            "he": "מכות"
+        }
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רבינו גרשום", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1520-1523", 
+    "title": "Rabbeinu Gershom on Makkot", 
+    "base_text_mapping": "many_to_one", 
+    "pubPlace": "Venice", 
+    "collective_title": {
+        "en": "Rabbeinu Gershom", 
+        "he": "רבינו גרשום"
+    }, 
+    "enDesc": "Commentary by Gershom ben Yehudah (Mainz, c. 960 - c.1028). Rabbeinu Gershom is best known for his takkanot, ordinances, banning polygamy, requiring both parties to agree to a divorce, and forbidding people to remind those who were forced to convert to Christianity of their conversions.", 
+    "dependence": "Commentary", 
+    "heTitle": "רבינו גרשום על מכות", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Gershom ben Yehudah", 
+            "he": "גרשום בן יהודה"
+        }
+    ], 
+    "titleVariants": [
+        "Rabbeinu Gershom on Tractate Makkot", 
+        "Rabbeinu Gershom on Talmud Makkot", 
+        "Rabbeinu Gershom on Masekhet Makkot", 
+        "Rabbeinu Gershom on Makkos", 
+        "Rabbeinu Gershom on Talmud Makkos", 
+        "Rabbeinu Gershom on Tractate Makkos", 
+        "Rabbeinu Gershom on Makot", 
+        "Rabbeinu Gershom on Makkot"
+    ], 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rabbeinu Gershom", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rabbeinu Gershom on Makkot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רבינו גרשום על מכות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rabbeinu Gershom on Tractate Makkot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rabbeinu Gershom on Talmud Makkot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rabbeinu Gershom on Masekhet Makkot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rabbeinu Gershom on Makkos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rabbeinu Gershom on Talmud Makkos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rabbeinu Gershom on Tractate Makkos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rabbeinu Gershom on Makot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רבינו גרשום על מכות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rabbeinu Gershom on Makkot", 
+                "primary": true
+            }
+        ], 
+        "key": "Rabbeinu Gershom on Makkot", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }
+}

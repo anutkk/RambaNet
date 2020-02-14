@@ -1,0 +1,91 @@
+{
+    "depth": 3, 
+    "heTitleVariants": [
+        "מנחת שי על זכריה"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Zechariah", 
+            "he": "זכריה"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "מנחת שי", 
+        "נביאים"
+    ], 
+    "pubDate": "1742", 
+    "title": "Minchat Shai on Zechariah", 
+    "compDate": "1526", 
+    "pubPlace": "Mantua", 
+    "collective_title": {
+        "en": "Minchat Shai", 
+        "he": "מנחת שי"
+    }, 
+    "enDesc": "Minchat Shai is a Masoretic commentary by Jedidiah Solomon ben Abraham Norzi. It includes grammatical treatises on Tanakh, noting all variant readings scattered through Talmudic and Midrashic literature.", 
+    "dependence": "Commentary", 
+    "compDateString": {
+        "en": " (1526 CE)", 
+        "he": " (1526 לספירה)"
+    }, 
+    "base_text_mapping": null, 
+    "heDesc": "פירוש לתנ\"ך העוסק בעיקר בצורתן, ניקודן ומסורתן של תיבות ואותיות המקרא. מטרת הפירוש היא לברר וללבן את גרסאות המקרא ולקבוע את הנוסח הנכון, על פי מה שדנו בעניינים אלו בספרי התלמוד והמדרש.", 
+    "heTitle": "מנחת שי על זכריה", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Yedidiah Norzi", 
+            "he": "ידידיה שלמה רפאל נורצי"
+        }
+    ], 
+    "titleVariants": [
+        "Minchat Shai on Zechariah"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Minchat Shai", 
+        "Prophets"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "title": "Minchat Shai on Zechariah", 
+        "heTitle": "מנחת שי על זכריה", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מנחת שי על זכריה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Minchat Shai on Zechariah", 
+                "primary": true
+            }
+        ], 
+        "key": "Minchat Shai on Zechariah", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ], 
+        "toc_zoom": 2
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר קדושה"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Forbidden Foods", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The fifth book is Kedushah (Holiness). Maakhalot Assurot: laws of forbidden foods (see kashrut)", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות מאכלות אסורות", 
+        "רמב\"ם, הלכות מאכלות אסורות", 
+        "משנה תורה, הל' מאכלות אסורות", 
+        "רמב\"ם, הל' מאכלות אסורות", 
+        "רמב\"ם הלכות מאכלות אסורות", 
+        "רמב\"ם הל' מאכלות אסורות"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות מאכלות אסורות", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Rambam, Hilchot Ma'achalot Assurot", 
+        "Mishneh Torah, Ma'achalot Assurot", 
+        "Rambam, Laws of Forbidden Foods", 
+        "Mishneh Torah, Hilchot Ma'achalot Assurot", 
+        "Mishneh Torah, Laws of Forbidden Foods", 
+        "Rambam, Forbidden Foods", 
+        "Rambam, Ma'achalot Assurot", 
+        "Rambam, Hilkhot Ma'achalot Assurot", 
+        "Mishneh Torah, Hilkhot Ma'achalot Assurot", 
+        "Rambam, Hilkhot Ma'akhalot Assurot", 
+        "Hilkhot Ma'akhalot Assurot", 
+        "Mishneh Torah, Forbidden Foods"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        33, 
+        2
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Kedushah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            17
+        ], 
+        "title": "Mishneh Torah, Forbidden Foods", 
+        "heTitle": "משנה תורה, הלכות מאכלות אסורות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Ma'achalot Assurot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Ma'achalot Assurot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Forbidden Foods"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Ma'achalot Assurot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Forbidden Foods"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Forbidden Foods"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Ma'achalot Assurot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Ma'achalot Assurot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Ma'achalot Assurot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Ma'akhalot Assurot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Hilkhot Ma'akhalot Assurot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות מאכלות אסורות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות מאכלות אסורות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' מאכלות אסורות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' מאכלות אסורות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות מאכלות אסורות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' מאכלות אסורות"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Forbidden Foods", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Forbidden Foods", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

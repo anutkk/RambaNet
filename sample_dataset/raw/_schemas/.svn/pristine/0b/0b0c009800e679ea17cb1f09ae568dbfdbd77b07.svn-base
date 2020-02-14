@@ -1,0 +1,72 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Sefer Yetzirah Gra Version", 
+            "he": "ספר יצירה: נוסח הגר\"א"
+        }
+    ], 
+    "heCategories": [
+        "קבלה", 
+        "מפרשים", 
+        "פרי יצחק"
+    ], 
+    "title": "Pri Yitzhak on Sefer Yetzirah Gra Version", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Pri Yitzhak", 
+        "he": "פרי יצחק"
+    }, 
+    "heTitleVariants": [
+        "פרי יצחק על ספר יצירה"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "פרי יצחק על ספר יצירה", 
+    "titleVariants": [
+        "Pri Yitzhak on Sefer Yetzirah Gra Version"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "categories": [
+        "Kabbalah", 
+        "Commentary", 
+        "Pri Yitzhak"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Pri Yitzhak on Sefer Yetzirah Gra Version", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "פרי יצחק על ספר יצירה", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "פרי יצחק על ספר יצירה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Pri Yitzhak on Sefer Yetzirah Gra Version", 
+                "primary": true
+            }
+        ], 
+        "key": "Pri Yitzhak on Sefer Yetzirah Gra Version", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }
+}

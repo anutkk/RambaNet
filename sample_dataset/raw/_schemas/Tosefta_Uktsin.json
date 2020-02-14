@@ -1,0 +1,124 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Uktsin", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Ukzim (Stems) belongs to the sixth order, Tahorot (Purities) and discusses the impurity of the stalks of fruit. It has three chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא עוקצין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא עוקצין", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tosefta Oktsin", 
+        "Tos. Oktzin", 
+        "T. Oktsin", 
+        "Tos. Uktsin", 
+        "T. Uktsin", 
+        "Tos. Uktzin", 
+        "Tosefta Uktzin", 
+        "T. Uktzin", 
+        "Tosef. Ukts.", 
+        "Tosefta Uktsin"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        14
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            3
+        ], 
+        "title": "Tosefta Uktsin", 
+        "heTitle": "תוספתא עוקצין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tosefta Oktsin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Oktzin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Oktsin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Uktsin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Uktsin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Uktzin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Uktzin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Uktzin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא עוקצין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Ukts."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Uktsin", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Uktsin", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

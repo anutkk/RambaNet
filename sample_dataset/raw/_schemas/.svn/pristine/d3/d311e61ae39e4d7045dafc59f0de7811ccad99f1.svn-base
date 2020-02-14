@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Rosh Hashanah", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Rosh Hashanah (New Year) belongs to the second order, Moed (Festivals) and discusses the regulation of the calendar by the new moon, and with the services of the festival of Rosh Hashanah. It has four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה ראש השנה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה ראש השנה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M Rosh Hashanah", 
+        "Mishna Rosh Hashanah", 
+        "M. Rosh Hashanah", 
+        "Mishnah R. Hash.", 
+        "Mishnah Rosh hash-Shanah", 
+        "Mishnah Rosh Hashanah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        19, 
+        8
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            4, 
+            35
+        ], 
+        "title": "Mishnah Rosh Hashanah", 
+        "heTitle": "משנה ראש השנה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Rosh Hashanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Rosh Hashanah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה ראש השנה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah R. Hash."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Rosh hash-Shanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Rosh Hashanah", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Rosh Hashanah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

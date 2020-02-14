@@ -1,0 +1,114 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Makhshirin", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Makhshirm (Preliminary acts of preparation) belongs to the sixth order, Tahorot (Purities) and discusses liquids that make food susceptible to tumah (impurity). It has six chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה מכשירין", 
+        "מכשירין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה מכשירין", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Makhshirin", 
+        "Mishna Makhshirin", 
+        "M Makhshirin", 
+        "Makhsh.", 
+        "Makhshirin", 
+        "Mishnah Makhsh.", 
+        "Mishnah Makhshirin"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        59, 
+        8
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            6, 
+            54
+        ], 
+        "title": "Mishnah Makhshirin", 
+        "heTitle": "משנה מכשירין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Makhshirin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Makhshirin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Makhshirin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה מכשירין", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "מכשירין"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Makhsh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Makhshirin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Makhsh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Makhshirin", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Makhshirin", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

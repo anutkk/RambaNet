@@ -1,0 +1,94 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Chullin", 
+            "he": "חולין"
+        }
+    ], 
+    "pubPlace": "Vilna", 
+    "compPlace": "Posen", 
+    "heTitleVariants": [
+        " חידושי אגדות על מסכת חולין"
+    ], 
+    "heTitle": " חידושי אגדות על מסכת חולין", 
+    "errorMargin": "25", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "חידושי אגדות", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "1670", 
+    "title": "Chidushei Agadot on Chullin", 
+    "compDate": "1605", 
+    "compDateString": {
+        "en": " (c.1580  - c.1630 CE)", 
+        "he": " (1580 - 1630 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Posen", 
+        "he": "פוזן"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Chidushei Agadot on Chullin", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": " חידושי אגדות על מסכת חולין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": " חידושי אגדות על מסכת חולין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Chidushei Agadot on Chullin", 
+                "primary": true
+            }
+        ], 
+        "key": "Chidushei Agadot on Chullin", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Written by Rabbi Shmuel Eliezer Edels, the Maharsha (1555 – 1631, Poland), Chidushei Agadot is a commentary on the aggadic (non-legal) portions of the Talmud. The commentary reflects the author’s vast knowledge of philosophy and Kabbalah. ", 
+    "heDesc": "פירוש על כל האגדות שבתלמוד בבלי.", 
+    "authors": [
+        {
+            "en": "Maharsha", 
+            "he": "מהרש\"א"
+        }
+    ], 
+    "titleVariants": [
+        "Chidushei Agadot on Chullin"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Chidushei Agadot", 
+        "Seder Kodashim"
+    ], 
+    "collective_title": {
+        "en": "Chidushei Agadot", 
+        "he": "חידושי אגדות"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 2, 
+    "era": "AH", 
+    "base_text_mapping": null
+}

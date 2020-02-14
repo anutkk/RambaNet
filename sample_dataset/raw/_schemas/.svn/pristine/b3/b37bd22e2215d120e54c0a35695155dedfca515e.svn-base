@@ -1,0 +1,157 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "כתובים"
+    ], 
+    "pubDate": "1488", 
+    "title": "Song of Songs", 
+    "compDate": "-500", 
+    "pubPlace": "Soncino", 
+    "compPlace": "Judea/Israel", 
+    "enDesc": "Shir Hashirim (The Song of Songs), also known as the Song of Solomon is the first of the five Megillot (scrolls) of Ketuvim (Writings) the last section of the Tanakh (Bible). Scripturally, it is unique in its celebration of sexual love. It gives \"the voices of two lovers, praising each other, yearning for each other, proffering invitations to enjoy\". The two are in harmony, each desiring the other and rejoicing in sexual intimacy; the women (or \"daughters\") of Jerusalem form a chorus to the lovers, functioning as an audience whose participation in the lovers' erotic encounters facilitates the participation of the reader. Jewish tradition reads it as an allegory of the relationship between God and Israel. The story is read on the prior to Sabbath each week by Sephardim and on Shabbat during Pesah by Ashkenazim.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "שיר השירים", 
+        "שה\"ש", 
+        "שיר", 
+        "שה״ש", 
+        "שה''ש", 
+        "שיה\"ש", 
+        "שיה״ש"
+    ], 
+    "compPlaceString": {
+        "en": "Judea/Israel", 
+        "he": "יהודה / ישראל"
+    }, 
+    "compDateString": {
+        "en": " (c.900  - c.100 BCE)", 
+        "he": " (900 - 100 לפנה\"ס בקירוב)"
+    }, 
+    "heTitle": "שיר השירים", 
+    "titleVariants": [
+        "Shir HaShirim", 
+        "Canticles", 
+        "Song.", 
+        "Song", 
+        "Song of Solomon", 
+        "Cant.", 
+        "Canticum", 
+        "Songs", 
+        "Shir haShirim", 
+        "Shir Hashirim", 
+        "Song of Songs"
+    ], 
+    "errorMargin": "400", 
+    "order": [
+        30, 
+        4
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Writings"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            8, 
+            117
+        ], 
+        "title": "Song of Songs", 
+        "heTitle": "שיר השירים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Shir HaShirim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Canticles"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Song."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Song"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Song of Solomon"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Cant."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Canticum"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Songs"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shir haShirim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shir Hashirim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שיר השירים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "שה\"ש"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שיר"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שה״ש"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שה''ש"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שיה\"ש"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שיה״ש"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Song of Songs", 
+                "primary": true
+            }
+        ], 
+        "key": "Song of Songs", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

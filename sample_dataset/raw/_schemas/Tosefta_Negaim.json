@@ -1,0 +1,99 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Negaim", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Negaim (Plagues) belongs to the sixth order, Tahorot (Purities) and discusses the uncleanness from a corpse and its peculiar property of defling people or objects either by the latter \"tenting\" over the corpse, or by the corpse \"tenting\" over them, or by the presence of both corpse and person or object under the same roof or tent. It has nine chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא נגעים"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא נגעים", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Negaim", 
+        "T. Negaim", 
+        "Tosefta Nega'im", 
+        "Tosef. Neg.", 
+        "Tosefta Negaim"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        5
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            9
+        ], 
+        "title": "Tosefta Negaim", 
+        "heTitle": "תוספתא נגעים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Negaim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Negaim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Nega'im"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא נגעים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Neg."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Negaim", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Negaim", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

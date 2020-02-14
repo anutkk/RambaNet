@@ -1,0 +1,96 @@
+{
+    "base_text_titles": [
+        {
+            "en": "I Samuel", 
+            "he": "שמואל א"
+        }
+    ], 
+    "pubPlace": "Naples", 
+    "compPlace": "Provence, France", 
+    "heTitleVariants": [
+        "רד\"ק על שמואל א"
+    ], 
+    "heTitle": "רד\"ק על שמואל א", 
+    "errorMargin": "25", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רד\"ק", 
+        "נביאים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Radak on I Samuel", 
+    "compDate": "1210", 
+    "compDateString": {
+        "en": " (c.1185  - c.1235 CE)", 
+        "he": " (1185 - 1235 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Provence, France", 
+        "he": "פרובנס, צרפת"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Paragraph"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "title": "Radak on I Samuel", 
+        "heTitle": "רד\"ק על שמואל א", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "רד\"ק על שמואל א", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Radak on I Samuel", 
+                "primary": true
+            }
+        ], 
+        "key": "Radak on I Samuel", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Paragraph"
+        ], 
+        "toc_zoom": 2
+    }, 
+    "enDesc": "A commentary on the Tanakh written by Rabbi David Kimchi, Radak (1160–1236). Radak, one of the the most famous Bible commentators of his time, was a grammarian, which is reflected in his commentary.  ", 
+    "authors": [
+        {
+            "en": "Radak", 
+            "he": "רד\"ק"
+        }
+    ], 
+    "titleVariants": [
+        "Radak on I Samuel"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Radak", 
+        "Prophets"
+    ], 
+    "collective_title": {
+        "en": "Radak", 
+        "he": "רד\"ק"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

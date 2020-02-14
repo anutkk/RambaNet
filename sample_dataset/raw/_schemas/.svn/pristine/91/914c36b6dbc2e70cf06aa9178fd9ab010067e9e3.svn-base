@@ -1,0 +1,94 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Zavim", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Zavim (Seminal Emissions) belongs to the sixth order, Tahorot (Purities) and discusses the laws of a person who has ejaculated. It has five chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא זבים"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא זבים", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Zavim", 
+        "T. Zavim", 
+        "Tosef. Zab.", 
+        "Tosefta Zavim"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        11
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            5
+        ], 
+        "title": "Tosefta Zavim", 
+        "heTitle": "תוספתא זבים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Zavim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Zavim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא זבים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Zab."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Zavim", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Zavim", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

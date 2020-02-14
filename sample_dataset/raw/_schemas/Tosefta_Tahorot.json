@@ -1,0 +1,106 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "", 
+    "title": "Tosefta Tahorot", 
+    "compDate": "", 
+    "pubPlace": "", 
+    "compPlace": "", 
+    "enDesc": "", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא טהרות"
+    ], 
+    "heTitle": "תוספתא טהרות", 
+    "era": null, 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Toharot", 
+        "Tos. Toharos", 
+        "T. Toharot", 
+        "Tosefta Toharos", 
+        "Tosefta Toharot", 
+        "Tosefta Tohorot", 
+        "Tosef. Toh.", 
+        "Tosefta Tahorot"
+    ], 
+    "errorMargin": "", 
+    "order": [
+        9
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            11
+        ], 
+        "title": "Tosefta Tahorot", 
+        "heTitle": "תוספתא טהרות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Toharot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Toharos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Toharot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Toharos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Toharot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Tohorot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא טהרות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Toh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Tahorot", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Tahorot", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

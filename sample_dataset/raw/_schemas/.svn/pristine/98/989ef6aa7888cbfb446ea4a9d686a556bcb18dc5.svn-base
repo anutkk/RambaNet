@@ -1,0 +1,78 @@
+{
+    "depth": 2, 
+    "base_text_titles": [
+        {
+            "en": "Sefer HaParnas", 
+            "he": "ספר הפרנס"
+        }
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "מפרשים"
+    ], 
+    "title": "Haggahot of R' David Luria on Sefer HaParnas", 
+    "sectionNames": [
+        "Siman", 
+        "Comment"
+    ], 
+    "compDate": "1840", 
+    "collective_title": {
+        "en": "Haggahot of R' David Luria on Sefer HaParnas", 
+        "he": " הגהות הרד\"ל על ספר הפרנס"
+    }, 
+    "heTitleVariants": [
+        "הגהות הרד\"ל על ספר הפרנס"
+    ], 
+    "dependence": "Commentary", 
+    "compDateString": {
+        "en": " (c.1825  - c.1855 CE)", 
+        "he": " (1825 - 1855 לספירה בקירוב)"
+    }, 
+    "heTitle": "הגהות הרד\"ל על ספר הפרנס", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "David Luria", 
+            "he": "דוד לוריא"
+        }
+    ], 
+    "titleVariants": [
+        "Haggahot of R' David Luria on Sefer HaParnas"
+    ], 
+    "errorMargin": "15", 
+    "categories": [
+        "Halakhah", 
+        "Commentary"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Haggahot of R' David Luria on Sefer HaParnas", 
+        "addressTypes": [
+            "Siman", 
+            "Integer"
+        ], 
+        "heTitle": "הגהות הרד\"ל על ספר הפרנס", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "הגהות הרד\"ל על ספר הפרנס", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Haggahot of R' David Luria on Sefer HaParnas", 
+                "primary": true
+            }
+        ], 
+        "key": "Haggahot of R' David Luria on Sefer HaParnas", 
+        "heSectionNames": [
+            "סימן", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Siman", 
+            "Comment"
+        ]
+    }
+}

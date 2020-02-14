@@ -1,0 +1,78 @@
+{
+    "heCategories": [
+        "הלכה"
+    ], 
+    "title": "Hilchos Talmud Torah", 
+    "heTitleVariants": [
+        "הלכות תלמוד תורה", 
+        "הלכות תלמוד תורה לאדמו\"ר הזקן", 
+        "הלכות תלמוד תורה שולחן ערוך הרב"
+    ], 
+    "depth": 2, 
+    "heTitle": "הלכות תלמוד תורה", 
+    "authors": [
+        {
+            "en": "Shneur Zalman of Liadi", 
+            "he": "שניאור זלמן מליאדי"
+        }
+    ], 
+    "titleVariants": [
+        "hilchot talmud torah", 
+        "Laws of Torah study", 
+        "Hilchos Talmud Torah"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Seif"
+    ], 
+    "categories": [
+        "Halakhah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Hilchos Talmud Torah", 
+        "addressTypes": [
+            "Perek", 
+            "Seif"
+        ], 
+        "heTitle": "הלכות תלמוד תורה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "hilchot talmud torah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Laws of Torah study"
+            }, 
+            {
+                "lang": "he", 
+                "text": "הלכות תלמוד תורה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "הלכות תלמוד תורה לאדמו\"ר הזקן"
+            }, 
+            {
+                "lang": "he", 
+                "text": "הלכות תלמוד תורה שולחן ערוך הרב"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Hilchos Talmud Torah", 
+                "primary": true
+            }
+        ], 
+        "key": "Hilchos Talmud Torah", 
+        "heSectionNames": [
+            "פרק", 
+            "סעיף"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Seif"
+        ]
+    }
+}

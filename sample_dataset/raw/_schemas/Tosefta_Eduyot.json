@@ -1,0 +1,99 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Eduyot", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Eduyot (Testimonies) belongs to the fourth order, Nezikin (The Order of Damages) and presents case studies of legal disputes in Mishnaic times and the miscellaneous testimonies that illustrate various Sages and principles of halakha. It has three chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא עדויות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא עדויות", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Eduyot", 
+        "T. Eduyot", 
+        "Tosef. Ed.", 
+        "Tosef. Eduy.", 
+        "Tosefta Eduyot"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        7
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            3
+        ], 
+        "title": "Tosefta Eduyot", 
+        "heTitle": "תוספתא עדויות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Eduyot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Eduyot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא עדויות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Ed."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Eduy."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Eduyot", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Eduyot", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

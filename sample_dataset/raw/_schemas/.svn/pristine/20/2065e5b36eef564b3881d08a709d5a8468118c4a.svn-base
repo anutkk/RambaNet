@@ -1,0 +1,177 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Kiddushin", 
+            "he": "משנה קידושין"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "ברטנורא על משנה קידושין", 
+        "עובדיה מברטנורא על משנה קידושין", 
+        "ר' עובדיה מברטנורא על משנה קידושין"
+    ], 
+    "heTitle": "ברטנורא על משנה קידושין", 
+    "errorMargin": "12", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "ברטנורא", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1549", 
+    "title": "Bartenura on Mishnah Kiddushin", 
+    "compDate": "1482", 
+    "compDateString": {
+        "en": " (c.1470  - c.1494 CE)", 
+        "he": " (1470 - 1494 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Bartenura on Mishnah Kiddushin", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "ברטנורא על משנה קידושין", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M. Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishna Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishnah Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M. Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishna Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishnah Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M. Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishna Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M. Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishna Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishnah Kiddushin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ברטנורא על משנה קידושין", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "עובדיה מברטנורא על משנה קידושין"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ר' עובדיה מברטנורא על משנה קידושין"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishnah Kiddushin", 
+                "primary": true
+            }
+        ], 
+        "key": "Bartenura on Mishnah Kiddushin", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "R' Ovadiah ben Abraham of Bartenura (c. 1445-c.1515) wrote a commentary of the Mishnah that has been printed in almost every edition of the Mishnah since it was first published in Venice in 1548. The commentary, popularly called “The Bartenura” is mainly based on discussions in the Gemara and the Rambam's Mishna commentary. The Bartenura is particularly valuable to Mishnah learners due to the inclusion of a summary of the Talmudic discussions along with the accepted opinions.", 
+    "heDesc": "ר' עובדיה מברטנורא כתב פירוש למשנה שנדפס כמעט בכל מהדורה של המשנה מאז שיצא לאור לראשונה בוונציה בשנת 1548. הפירוש מבוסס בעיקר על הדיונים בגמרא ועל פירוש הרמב\"ם למשנה. ", 
+    "authors": [
+        {
+            "en": "Ovadiah Bartenura", 
+            "he": "רב עובדיה מברטנורא"
+        }
+    ], 
+    "titleVariants": [
+        "Ovadia of Bartenura on M. Kiddushin", 
+        "Ovadia of Bartenura on Mishna Kiddushin", 
+        "Ovadia of Bartenura on M Kiddushin", 
+        "Ovadia of Bartenura on Mishnah Kiddushin", 
+        "Obadiah of Bertinoro on M. Kiddushin", 
+        "Obadiah of Bertinoro on Mishna Kiddushin", 
+        "Obadiah of Bertinoro on M Kiddushin", 
+        "Obadiah of Bertinoro on Mishnah Kiddushin", 
+        "Bartenura on M. Kiddushin", 
+        "Bartenura on Mishna Kiddushin", 
+        "Bartenura on M Kiddushin", 
+        "Obadiah ben Abraham of Bertinoro on M. Kiddushin", 
+        "Obadiah ben Abraham of Bertinoro on Mishna Kiddushin", 
+        "Obadiah ben Abraham of Bertinoro on M Kiddushin", 
+        "Obadiah ben Abraham of Bertinoro on Mishnah Kiddushin", 
+        "Bartenura on Mishnah Kiddushin"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Bartenura", 
+        "Seder Nashim"
+    ], 
+    "collective_title": {
+        "en": "Bartenura", 
+        "he": "ברטנורא"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

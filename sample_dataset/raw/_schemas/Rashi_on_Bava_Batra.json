@@ -1,0 +1,132 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Bava Batra", 
+            "he": "בבא בתרא"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על בבא בתרא", 
+        "רש\"י על ב\"ב", 
+        "רש\"י על ב״ב"
+    ], 
+    "heTitle": "רש\"י על בבא בתרא", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רש\"י", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1520", 
+    "title": "Rashi on Bava Batra", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Bava Batra", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על בבא בתרא", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Masekhet Bava Batra"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Bava Bathra"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Talmud Bava Batra"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Tractate Bava Batra"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Baba Batra"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על בבא בתרא", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ב\"ב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ב״ב"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Bava Batra", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Bava Batra", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Masekhet Bava Batra", 
+        "Rashi on Bava Bathra", 
+        "Rashi on Talmud Bava Batra", 
+        "Rashi on Tractate Bava Batra", 
+        "Rashi on Baba Batra", 
+        "Rashi on Bava Batra"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashi", 
+        "Seder Nezikin"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

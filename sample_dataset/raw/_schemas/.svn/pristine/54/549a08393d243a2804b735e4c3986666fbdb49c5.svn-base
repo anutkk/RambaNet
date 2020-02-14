@@ -1,0 +1,155 @@
+{
+    "heTitleVariants": [
+        "לב שמח"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Sefer HaMitzvot", 
+            "he": "ספר המצוות"
+        }
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "מפרשים", 
+        "לב שמח"
+    ], 
+    "pubDate": "1652", 
+    "title": "Lev Sameach", 
+    "base_text_mapping": null, 
+    "pubPlace": "Constantinople", 
+    "collective_title": {
+        "en": "Lev Sameach", 
+        "he": "לב שמח"
+    }, 
+    "enDesc": "Commentary on Rambam's Sefer HaMitzvot. (The title of this work is a hint to the author's name \"Aligri\", which is Italian for 'glad of heart'.)", 
+    "dependence": "Commentary", 
+    "heDesc": "ביאור לספר המצוות להרמב\"ם. (שם הספר \"לב שמח\" הוא רמז לשם המחבר \"אליגרי\", שכך משמעותו באיטלקית.)", 
+    "heTitle": "לב שמח", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Abraham Aligri", 
+            "he": "אברהם אליגרי"
+        }
+    ], 
+    "titleVariants": [
+        "Lev Sameach"
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Commentary", 
+        "Lev Sameach"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Shorashim", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "שורשים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Shorashim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "שורשים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Shorashim", 
+                "heSectionNames": [
+                    "שורש", 
+                    "פירוש"
+                ], 
+                "sectionNames": [
+                    "Shoresh", 
+                    "Comment"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Positive Commandments", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "מצוה עשה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Positive Commandments", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מצוה עשה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Positive Commandments", 
+                "heSectionNames": [
+                    "מצוה", 
+                    "פירוש"
+                ], 
+                "sectionNames": [
+                    "Mitzvah", 
+                    "Comment"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Negative Commandments", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "מצוה לא תעשה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Negative Commandments", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מצוה לא תעשה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Negative Commandments", 
+                "heSectionNames": [
+                    "מצוה", 
+                    "פירוש"
+                ], 
+                "sectionNames": [
+                    "Mitzvah", 
+                    "Comment"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "לב שמח", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Lev Sameach", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "לב שמח", 
+        "key": "Lev Sameach", 
+        "title": "Lev Sameach"
+    }
+}

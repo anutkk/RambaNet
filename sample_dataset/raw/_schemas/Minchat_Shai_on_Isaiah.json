@@ -1,0 +1,91 @@
+{
+    "depth": 3, 
+    "heTitleVariants": [
+        "מנחת שי על ישעיהו"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Isaiah", 
+            "he": "ישעיהו"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "מנחת שי", 
+        "נביאים"
+    ], 
+    "pubDate": "1742", 
+    "title": "Minchat Shai on Isaiah", 
+    "compDate": "1526", 
+    "pubPlace": "Mantua", 
+    "collective_title": {
+        "en": "Minchat Shai", 
+        "he": "מנחת שי"
+    }, 
+    "enDesc": "Minchat Shai is a Masoretic commentary by Jedidiah Solomon ben Abraham Norzi. It includes grammatical treatises on Tanakh, noting all variant readings scattered through Talmudic and Midrashic literature.", 
+    "dependence": "Commentary", 
+    "compDateString": {
+        "en": " (1526 CE)", 
+        "he": " (1526 לספירה)"
+    }, 
+    "base_text_mapping": null, 
+    "heDesc": "פירוש לתנ\"ך העוסק בעיקר בצורתן, ניקודן ומסורתן של תיבות ואותיות המקרא. מטרת הפירוש היא לברר וללבן את גרסאות המקרא ולקבוע את הנוסח הנכון, על פי מה שדנו בעניינים אלו בספרי התלמוד והמדרש.", 
+    "heTitle": "מנחת שי על ישעיהו", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Yedidiah Norzi", 
+            "he": "ידידיה שלמה רפאל נורצי"
+        }
+    ], 
+    "titleVariants": [
+        "Minchat Shai on Isaiah"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Minchat Shai", 
+        "Prophets"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "title": "Minchat Shai on Isaiah", 
+        "heTitle": "מנחת שי על ישעיהו", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מנחת שי על ישעיהו", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Minchat Shai on Isaiah", 
+                "primary": true
+            }
+        ], 
+        "key": "Minchat Shai on Isaiah", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ], 
+        "toc_zoom": 2
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Yevamot", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Yevamot (Levirate marriage) belongs to the third order, Nashim (Women) and discusses the mandated marriage of a widow to her brother-in-law, deals with the Jewish law of levirate marriage (Deut. 25:5–10) and other topics, such as the status of minors. It has fourteen chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא יבמות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא יבמות", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tosefta Yevamos", 
+        "T. Yevamot", 
+        "Tos. Yevamos", 
+        "Tos. Yevamot", 
+        "Tosef. Yeb.", 
+        "Tosefta Yevamot"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        1
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            14
+        ], 
+        "title": "Tosefta Yevamot", 
+        "heTitle": "תוספתא יבמות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tosefta Yevamos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Yevamot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Yevamos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Yevamot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא יבמות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Yeb."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Yevamot", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Yevamot", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

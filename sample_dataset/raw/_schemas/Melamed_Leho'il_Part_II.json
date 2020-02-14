@@ -1,0 +1,68 @@
+{
+    "heCategories": [
+        "שו\"ת"
+    ], 
+    "title": "Melamed Leho'il Part II", 
+    "heTitleVariants": [
+        "מלמד להועיל חלק ב", 
+        "מלמד להועיל"
+    ], 
+    "depth": 2, 
+    "heTitle": "מלמד להועיל חלק ב", 
+    "authors": [
+        {
+            "en": "David Zvi Hoffmann", 
+            "he": "דוד צבי הופמן"
+        }
+    ], 
+    "titleVariants": [
+        "Melamed Leho'il", 
+        "Melamed Leho'il Part II"
+    ], 
+    "sectionNames": [
+        "Teshuva", 
+        "Paragraph"
+    ], 
+    "categories": [
+        "Responsa"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Melamed Leho'il Part II", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "מלמד להועיל חלק ב", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Melamed Leho'il"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מלמד להועיל חלק ב", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "מלמד להועיל"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Melamed Leho'il Part II", 
+                "primary": true
+            }
+        ], 
+        "key": "Melamed Leho'il Part II", 
+        "heSectionNames": [
+            "", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Teshuva", 
+            "Paragraph"
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "Zephaniah", 
+            "he": "צפניה"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "תרגומים", 
+        "תרגום יונתן", 
+        "נביאים"
+    ], 
+    "title": "Targum Jonathan on Zephaniah", 
+    "base_text_mapping": "one_to_one", 
+    "collective_title": {
+        "en": "Targum Jonathan", 
+        "he": "תרגום יונתן"
+    }, 
+    "enDesc": "Targum Jonathan is an Aramaic translation of the Neviim (Prophets). Authorship of the Targum is attributed to Jonathan ben Uzziel, a prime student of the great Talmudic sage Hillel. In Talmudic times, the Targum was read verse-by-verse, alternating with the Hebrew text of the haftarah.   ", 
+    "dependence": "Targum", 
+    "heTitleVariants": [
+        "תרגום יונתן על צפניה"
+    ], 
+    "heTitle": "תרגום יונתן על צפניה", 
+    "authors": [], 
+    "titleVariants": [
+        "Targ. Zeph.", 
+        "Targum Zephaniah", 
+        "Targum Jonathan on Zephaniah"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Targum", 
+        "Targum Jonathan", 
+        "Prophets"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Targum Jonathan on Zephaniah", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תרגום יונתן על צפניה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תרגום יונתן על צפניה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. Zeph."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targum Zephaniah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targum Jonathan on Zephaniah", 
+                "primary": true
+            }
+        ], 
+        "key": "Targum Jonathan on Zephaniah", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

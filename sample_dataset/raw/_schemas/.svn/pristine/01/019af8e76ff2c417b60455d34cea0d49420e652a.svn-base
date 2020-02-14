@@ -1,0 +1,109 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Gittin", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Gittin (Documents) belongs to the third order, Nashim (Women) and discusses the concepts of divorces and other documents. It has seven chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא גיטין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא גיטין", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Gittin", 
+        "Tos. Gitin", 
+        "Tosefta Gitin", 
+        "T. Gittin", 
+        "T. Gitin", 
+        "Tosef. Gitt.", 
+        "Tosefta Gittin"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        6
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            7
+        ], 
+        "title": "Tosefta Gittin", 
+        "heTitle": "תוספתא גיטין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Gitin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Gitin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Gitin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא גיטין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Gitt."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Gittin", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Gittin", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

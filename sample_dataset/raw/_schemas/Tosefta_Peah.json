@@ -1,0 +1,119 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Peah", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Peah (Corner) belongs to the first order, Zera'im (seeds) and discusses the regulations concerning the commandment to leave the corner of one's field for the poor as stated in Leviticus 19:9-10, Leviticus 23:22; Deuteronomy 24:19-22, and with the rights of the poor in general. It consists of four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא פאה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא פאה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "T. Peah", 
+        "Tos. Pe'ah", 
+        "Tos. Peah", 
+        "T. Pe'ah", 
+        "Tosefta Pe'ah", 
+        "Tosefta Péah", 
+        "Tosef. Peah", 
+        "Tosephta Peah", 
+        "Tosefta Peah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        2
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            4
+        ], 
+        "title": "Tosefta Peah", 
+        "heTitle": "תוספתא פאה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "T. Peah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Pe'ah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Peah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Pe'ah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Pe'ah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Péah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Peah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosephta Peah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא פאה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Peah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Peah", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

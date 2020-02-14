@@ -1,0 +1,76 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "Proverbs", 
+            "he": "משלי"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "תרגומים", 
+        "תרגום", 
+        "כתובים"
+    ], 
+    "title": "Aramaic Targum to Proverbs", 
+    "base_text_mapping": "one_to_one", 
+    "collective_title": {
+        "en": "Aramaic Targum", 
+        "he": "תרגום"
+    }, 
+    "heTitleVariants": [
+        "תרגום משלי"
+    ], 
+    "dependence": "Targum", 
+    "heTitle": "תרגום משלי", 
+    "titleVariants": [
+        "Targ. Prov.", 
+        "Aramaic Targum to Proverbs"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Targum", 
+        "Aramaic Targum", 
+        "Writings"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Aramaic Targum to Proverbs", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תרגום משלי", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תרגום משלי", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. Prov."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Aramaic Targum to Proverbs", 
+                "primary": true
+            }
+        ], 
+        "key": "Aramaic Targum to Proverbs", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Moed Katan", 
+            "he": "מועד קטן"
+        }
+    ], 
+    "pubPlace": "Amsterdam", 
+    "compPlace": "Middle-Age Spain", 
+    "heTitleVariants": [
+        "ריטב\"א על מועד קטן"
+    ], 
+    "heTitle": "ריטב\"א על מועד קטן", 
+    "errorMargin": "20", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "ריטב\"א", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1729", 
+    "title": "Ritva on Moed Katan", 
+    "compDate": "1300", 
+    "compDateString": {
+        "en": " (c.1280  - c.1320 CE)", 
+        "he": " (1280 - 1320 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age Spain", 
+        "he": "ספרד של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ritva on Moed Katan", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "ריטב\"א על מועד קטן", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "ריטב\"א על מועד קטן", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ritva on Moed Katan", 
+                "primary": true
+            }
+        ], 
+        "key": "Ritva on Moed Katan", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Concise commentary on the Talmud, written by Rabbi Yom Tov ben Avraham Isbilli (Ritva). The author was a Spanish, medieval rabbi and halakhic authority. His commentaries to many tractates of the Talmud are a mainstay of yeshiva study to this day. ", 
+    "heDesc": "פירוש על הש\"ס לאחד מגדולי הראשונים, רבינו יום טוב בן אברהם אשבילי, הנחשב לאחד מהפירושים היסודיים לתלמוד שנלמדים בישיבות עד היום.", 
+    "authors": [
+        {
+            "en": "Ritva", 
+            "he": "ריטב\"א"
+        }
+    ], 
+    "titleVariants": [
+        "Ritva on Moed Katan"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Ritva", 
+        "Seder Moed"
+    ], 
+    "collective_title": {
+        "en": "Ritva", 
+        "he": "ריטב\"א"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 2, 
+    "era": "RI"
+}

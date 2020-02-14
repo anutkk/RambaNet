@@ -1,0 +1,1438 @@
+{
+    "is_cited": true, 
+    "heCategories": [
+        "מדרש", 
+        "מדרש אגדה"
+    ], 
+    "pubDate": "1516", 
+    "title": "Ein Yaakov", 
+    "compDate": "1520", 
+    "pubPlace": "Thessaloniki", 
+    "compPlace": "Salonica / Thessaloniki ", 
+    "enDesc": "Ein Yaakov (Well of Jacob‎) is a compilation of all the Aggadic material in the Talmud together with commentaries. Its introduction contains an account of the history of Talmudic censorship and the term Gemara. It was compiled by Jacob ibn Habib and completed posthumously by his son Rabbi Levi ibn Habib (Maharalbach). There are some differences between the version of the Talmud found in Ein Yaakov and printed versions, in addition to passages that appear only in Ein Yaakov. ", 
+    "compPlaceString": {
+        "en": "Salonica / Thessaloniki ", 
+        "he": "סלוניקי"
+    }, 
+    "heTitleVariants": [
+        "עין יעקב"
+    ], 
+    "heDesc": "עין יעקב הינו אוסף של כל החומר האגדי בתלמוד, בצירוף פירוש של המלקט הנקרא \"הכותב\" ופירושים רבים נוספים. פירושים. ההקדמה לספר מציגה את ההיסטוריה של הצנזורה על התלמוד ושל המונח \"גמרא\". הספר חובר בידי יעקב בן חביב, והושלם לאחר מותו על ידי בנו, רבי לוי בן חביב (מהרלב\"ח). ישנם הבדלים מסוימים בין גרסת התלמוד המצויה ב\"עין יעקב\" והגרסה המופיעה בתלמוד המודפס, בין היתר בצורת פסקאות תלמודיות המופיעות ב\"עין יעקב\" ואינן מופיעות בדפוס התלמוד.", 
+    "compDateString": {
+        "en": " (c.1490  - c.1550 CE)", 
+        "he": " (1490 - 1550 לספירה בקירוב)"
+    }, 
+    "heTitle": "עין יעקב", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Levi ibn Habib", 
+            "he": "לוי בן חביב"
+        }, 
+        {
+            "en": "Jacob ibn Habib", 
+            "he": "יעקב בן שלמה אבן חביב"
+        }
+    ], 
+    "titleVariants": [
+        "Ein Yacov", 
+        "Ein Yaacov", 
+        "Ein Yaakov"
+    ], 
+    "errorMargin": "30", 
+    "categories": [
+        "Midrash", 
+        "Aggadic Midrash"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Berakhot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "ברכות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Berakhot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "ברכות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Berakhot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Shabbat", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "שבת", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Shabbat", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "שבת", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Shabbat", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Eiruvin", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "עירובין", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Eiruvin", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "עירובין", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Eiruvin", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Pesakhim", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "פסחים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Pesakhim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "פסחים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Pesakhim", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Yoma", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "יומא", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Yoma", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "יומא", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Yoma", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Sukkah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "סוכה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Sukkah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "סוכה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Sukkah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Beitzah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "ביצה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Beitzah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "ביצה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Beitzah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Rosh Hashanah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "ראש השנה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Rosh Hashanah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "ראש השנה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Rosh Hashanah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Megillah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "מגילה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Megillah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מגילה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Megillah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Taanit", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "תענית", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Taanit", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "תענית", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Taanit", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Moed Katan", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "מועד קטן", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Moed Katan", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מועד קטן", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Moed Katan", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Khagigah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "חגיגה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Khagigah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "חגיגה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Khagigah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Yevamot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "יבמות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Yevamot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "יבמות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Yevamot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Ketubbot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "כתובות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Ketubbot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "כתובות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Ketubbot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Nedarim", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "נדרים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Nedarim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "נדרים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Nedarim", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Nazir", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "נזיר", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Nazir", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "נזיר", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Nazir", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Gittin", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "גיטין", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Gittin", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "גיטין", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Gittin", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Sotah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "סוטה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Sotah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "סוטה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Sotah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Kiddushin", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "קידושין", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Kiddushin", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "קידושין", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Kiddushin", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Bava Kamma", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "בבא קמא", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Bava Kamma", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "בבא קמא", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Bava Kamma", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Bava Metzia", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "בבא מציעא", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Bava Metzia", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "בבא מציעא", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Bava Metzia", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Bava Batra", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "בבא בתרא", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Bava Batra", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "בבא בתרא", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Bava Batra", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Sanhedrin", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "סנהדרין", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Sanhedrin", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "סנהדרין", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Sanhedrin", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Makkot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "מכות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Makkot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מכות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Makkot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Shevuot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "שבועות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Shevuot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "שבועות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Shevuot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Eduyot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "עדויות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Eduyot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "עדויות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Eduyot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Avodah Zarah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "עבודה זרה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Avodah Zarah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "עבודה זרה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Avodah Zarah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Horayot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "הוריות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Horayot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "הוריות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Horayot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Zevakhim", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "זבחים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Zevakhim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "זבחים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Zevakhim", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Menakhot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "מנחות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Menakhot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מנחות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Menakhot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Khullin", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "חולין", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Khullin", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "חולין", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Khullin", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Bekhorot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "בכורות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Bekhorot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "בכורות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Bekhorot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Arakhin", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "ערכין", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Arakhin", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "ערכין", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Arakhin", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Temurah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "תמורה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Temurah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "תמורה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Temurah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Keritot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "כריתות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Keritot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "כריתות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Keritot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Meilah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "מעילה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Meilah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מעילה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Meilah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Tamid", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "תמיד", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Tamid", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "תמיד", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Tamid", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Kinnim", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "קינים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Kinnim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "קינים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Kinnim", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Kelim", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "כלים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Kelim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "כלים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Kelim", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Negaim", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "נגעים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Negaim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "נגעים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Negaim", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Niddah", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "נידה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Niddah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "נידה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Niddah", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Yadayim", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "ידיים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Yadayim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "ידיים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Yadayim", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Okatzin", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "עוקצין", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Okatzin", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "עוקצין", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Okatzin", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Middot", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "מידות", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Middot", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מידות", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Middot", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ein Yacov"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ein Yaacov"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עין יעקב", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ein Yaakov", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "עין יעקב", 
+        "key": "Ein Yaakov", 
+        "title": "Ein Yaakov"
+    }
+}

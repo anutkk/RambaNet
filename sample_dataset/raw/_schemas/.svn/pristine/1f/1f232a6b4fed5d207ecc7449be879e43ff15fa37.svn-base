@@ -1,0 +1,89 @@
+{
+    "depth": 3, 
+    "heTitleVariants": [
+        " פסקי הראש על סוכה"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Sukkah", 
+            "he": "סוכה"
+        }
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רא\"ש", 
+        "סדר מועד"
+    ], 
+    "title": "Rosh on Sukkah", 
+    "base_text_mapping": null, 
+    "compPlace": "Toledo, Spain", 
+    "enDesc": "Talmud commentary written by the the Rosh, Rabbi Asher ben Yehiel, a German and Spanish halakhic authority (c. 1250 - 1327). Having been a leader in both Germany and Spain, the Rosh was familiar with the leading halakhic authorities of both countries and included teachings from both. The Rosh’s commentary displays his independence of judgement as he states his legal opinion according to what he views as most sound, even if it goes against other respected authorities. ", 
+    "dependence": "Commentary", 
+    "compPlaceString": {
+        "en": "Toledo, Spain", 
+        "he": "טולדו, ספרד"
+    }, 
+    "heTitle": " פסקי הראש על סוכה", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rosh", 
+            "he": "רא\"ש"
+        }
+    ], 
+    "titleVariants": [
+        "Rosh on Sukkah"
+    ], 
+    "collective_title": {
+        "en": "Rosh", 
+        "he": "רא\"ש"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah", 
+        "Siman"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rosh", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rosh on Sukkah", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah", 
+            "Siman"
+        ], 
+        "heTitle": " פסקי הראש על סוכה", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": " פסקי הראש על סוכה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rosh on Sukkah", 
+                "primary": true
+            }
+        ], 
+        "key": "Rosh on Sukkah", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה", 
+            "סימן"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah", 
+            "Siman"
+        ]
+    }
+}

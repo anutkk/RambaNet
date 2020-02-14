@@ -1,0 +1,120 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Ezra", 
+            "he": "עזרא"
+        }
+    ], 
+    "pubPlace": "Mantua", 
+    "compPlace": "Provence, France", 
+    "heTitleVariants": [
+        "רלב\"ג על עזרא"
+    ], 
+    "heTitle": "רלב\"ג על עזרא", 
+    "errorMargin": "10", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רלב\"ג", 
+        "כתובים"
+    ], 
+    "pubDate": "1480", 
+    "title": "Ralbag on Ezra", 
+    "compDate": "1335", 
+    "compDateString": {
+        "en": " (c.1325  - c.1345 CE)", 
+        "he": " (1325 - 1345 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Provence, France", 
+        "he": "פרובנס, צרפת"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ralbag on Ezra", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רלב\"ג על עזרא", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ralbag on Ezr."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Ezr"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Ezr."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Ezr"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Ezra"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רלב\"ג על עזרא", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Ezra", 
+                "primary": true
+            }
+        ], 
+        "key": "Ralbag on Ezra", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "A commentary written by Rabbi Levi ben Gershon (1288–1344) of Provence. Ralbag was a Talmudist, mathematician and astronomer. He was a rationalist which is reflected in his approach to angels and miracles in his commentary. The commentary is divided into 3 parts: the lexicon (bi’ur ha-milot), exegesis (bi’ur ha-parasha), and the lessons (to’alot). ", 
+    "authors": [
+        {
+            "en": "Ralbag", 
+            "he": "רלב\"ג"
+        }
+    ], 
+    "titleVariants": [
+        "Ralbag on Ezr.", 
+        "Ralbag on Ezr", 
+        "Gersonides on Ezr.", 
+        "Gersonides on Ezr", 
+        "Gersonides on Ezra", 
+        "Ralbag on Ezra"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Ralbag", 
+        "Writings"
+    ], 
+    "collective_title": {
+        "en": "Ralbag", 
+        "he": "רלב\"ג"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

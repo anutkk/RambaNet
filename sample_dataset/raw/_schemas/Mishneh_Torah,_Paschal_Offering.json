@@ -1,0 +1,155 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר קורבנות"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Paschal Offering", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The ninth book is Korbanot (Offerings): laws for offerings in the Temple, excepting those of the whole community. Hilchot Korban Pesah.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות קרבן פסח", 
+        "רמב\"ם, הלכות קרבן פסח", 
+        "משנה תורה, הל' קרבן פסח", 
+        "רמב\"ם, הל' קרבן פסח", 
+        "רמב\"ם הלכות קרבן פסח", 
+        "רמב\"ם הל' קרבן פסח"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות קרבן פסח", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Rambam, Hilchot Korban Pesach", 
+        "Rambam, Korban Pesach", 
+        "Mishneh Torah, Hilchot Korban Pesach", 
+        "Rambam, Paschal Offering", 
+        "Mishneh Torah, Laws of Paschal Offering", 
+        "Mishneh Torah, Korban Pesach", 
+        "Rambam, Laws of Paschal Offering", 
+        "Rambam, Hilkhot Korban Pesach", 
+        "Mishneh Torah, Hilkhot Korban Pesach", 
+        "Mishneh Torah, Paschal Offering"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        55, 
+        1
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Korbanot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            10
+        ], 
+        "title": "Mishneh Torah, Paschal Offering", 
+        "heTitle": "משנה תורה, הלכות קרבן פסח", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Korban Pesach"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Korban Pesach"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Korban Pesach"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Paschal Offering"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Paschal Offering"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Korban Pesach"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Paschal Offering"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות קרבן פסח", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות קרבן פסח"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Korban Pesach"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Korban Pesach"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' קרבן פסח"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' קרבן פסח"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות קרבן פסח"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' קרבן פסח"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Paschal Offering", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Paschal Offering", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

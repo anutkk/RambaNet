@@ -1,0 +1,180 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר זמנים"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Shofar, Sukkah and Lulav", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The third book is Zemanim (Times). Shofar ve-Lulav ve-Sukkah; laws of Rosh Hashanah and Sukkot", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות שופר וסוכה ולולב", 
+        "רמב\"ם, הלכות שופר וסוכה ולולב", 
+        "משנה תורה, הל' שופר וסוכה ולולב", 
+        "רמב\"ם, הל' שופר וסוכה ולולב", 
+        "רמב\"ם הלכות שופר וסוכה ולולב", 
+        "רמב\"ם הל' שופר וסוכה ולולב", 
+        "משנה תורה, הלכות סוכה", 
+        "משנה תורה, הלכות לולב", 
+        "משנה תורה, הלכות שופר", 
+        "רמב\"ם, הלכות לולב", 
+        "רמב\"ם, הלכות סוכה"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות שופר וסוכה ולולב", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Mishneh Torah, Shofar, Sukkah, vLulav", 
+        "Rambam, Shofar, Sukkah and Lulav", 
+        "Mishneh Torah, Hilchot Shofar, Sukkah, vLulav", 
+        "Rambam, Laws of Shofar, Sukkah and Lulav", 
+        "Rambam, Shofar, Sukkah, vLulav", 
+        "Rambam, Hilchot Shofar, Sukkah, vLulav", 
+        "Mishneh Torah, Laws of Shofar, Sukkah and Lulav", 
+        "Mishneh Torah, Hilkhot Shofar, Sukkah, vLulav", 
+        "Rambam, Hilkhot Shofar, Sukkah, vLulav", 
+        "Mishneh Torah, Shofar, Sukkah and Lulav"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        22, 
+        6
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Zemanim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            8
+        ], 
+        "title": "Mishneh Torah, Shofar, Sukkah and Lulav", 
+        "heTitle": "משנה תורה, הלכות שופר וסוכה ולולב", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Shofar, Sukkah, vLulav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Shofar, Sukkah and Lulav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Shofar, Sukkah, vLulav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Shofar, Sukkah and Lulav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Shofar, Sukkah, vLulav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Shofar, Sukkah, vLulav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Shofar, Sukkah and Lulav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Shofar, Sukkah, vLulav"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Shofar, Sukkah, vLulav"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות שופר וסוכה ולולב", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות שופר וסוכה ולולב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' שופר וסוכה ולולב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' שופר וסוכה ולולב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות שופר וסוכה ולולב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' שופר וסוכה ולולב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות סוכה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות לולב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות שופר"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות לולב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות סוכה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Shofar, Sukkah and Lulav", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Shofar, Sukkah and Lulav", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

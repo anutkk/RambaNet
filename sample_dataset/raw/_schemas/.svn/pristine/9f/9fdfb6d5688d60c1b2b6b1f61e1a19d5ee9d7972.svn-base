@@ -1,0 +1,80 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Tractate Kallah", 
+            "he": "מסכת כלה"
+        }
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "מפרשים", 
+        "כסא רחמים", 
+        "מסכתות קטנות"
+    ], 
+    "title": "Kisse Rahamim on Tractate Kallah", 
+    "base_text_mapping": "many_to_one", 
+    "collective_title": {
+        "en": "Kisse Rahamim", 
+        "he": "כסא רחמים"
+    }, 
+    "heTitleVariants": [
+        "כסא רחמים על מסכת כלה"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "כסא רחמים על מסכת כלה", 
+    "authors": [
+        {
+            "en": "Hayyim Joseph David Azulay", 
+            "he": "חיים דוד אזולאי"
+        }
+    ], 
+    "titleVariants": [
+        "Kisse Rahamim on Tractate Kallah"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah", 
+        "Comment"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Commentary", 
+        "Kisse Rahamim", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Kisse Rahamim on Tractate Kallah", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah", 
+            "Integer"
+        ], 
+        "heTitle": "כסא רחמים על מסכת כלה", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "כסא רחמים על מסכת כלה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kisse Rahamim on Tractate Kallah", 
+                "primary": true
+            }
+        ], 
+        "key": "Kisse Rahamim on Tractate Kallah", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah", 
+            "Comment"
+        ]
+    }
+}

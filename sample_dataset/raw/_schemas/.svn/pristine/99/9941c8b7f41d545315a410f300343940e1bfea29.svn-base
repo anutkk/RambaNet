@@ -1,0 +1,91 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Shulchan Arukh, Even HaEzer", 
+            "he": "אבן העזר"
+        }
+    ], 
+    "pubPlace": "Vilna", 
+    "compPlace": "Vilna", 
+    "heTitleVariants": [
+        "חלקת מחוקק"
+    ], 
+    "heTitle": "חלקת מחוקק", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "הלכה", 
+        "שולחן ערוך", 
+        "מפרשים", 
+        "חלקת מחוקק"
+    ], 
+    "pubDate": "1670", 
+    "title": "Chelkat Mechokek", 
+    "compDate": "1643", 
+    "compDateString": {
+        "en": " (c.1628  - c.1658 CE)", 
+        "he": " (1628 - 1658 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Vilna", 
+        "he": "וילנה"
+    }, 
+    "sectionNames": [
+        "Siman", 
+        "Seif Katan"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Chelkat Mechokek", 
+        "addressTypes": [
+            "Siman", 
+            "Integer"
+        ], 
+        "heTitle": "חלקת מחוקק", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "חלקת מחוקק", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Chelkat Mechokek", 
+                "primary": true
+            }
+        ], 
+        "key": "Chelkat Mechokek", 
+        "heSectionNames": [
+            "סימן", 
+            "סעיף קטן"
+        ], 
+        "sectionNames": [
+            "Siman", 
+            "Seif Katan"
+        ]
+    }, 
+    "enDesc": "Written by Moses ben Isaac Judah Lima, Ḥelḳat Meḥoḳeḳ is a commentary on the first 126 chapters of Shulhan Arukh - Even Ha-Ezer. It was published by his son Raphael and while betraying profound erudition, was so condensed that the editor deemed it necessary to provide it with explanatory notes.", 
+    "heDesc": "חלקת מחוקק, יצירתו של ר' משה בן יצחק יהודה לימא, הינו פירוש על 126 הפרקים הראשונים של השולחן ערוך - אבן העזר. הספר הוצא לאור על ידי בנו של המחבר, רפאל, ועל אף הבקיאות הרבה שהשתקפה בו, סגנונו הדחוס גרם לעורך הספר לספק הערות הבהרה לספר.", 
+    "authors": [
+        {
+            "en": "Moses ben Isaac Judah Lima", 
+            "he": "משה בן יצחק יהודה"
+        }
+    ], 
+    "titleVariants": [
+        "Chelkat Mechokek"
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Shulchan Arukh", 
+        "Commentary", 
+        "Chelkat Mechokek"
+    ], 
+    "collective_title": {
+        "en": "Chelkat Mechokek", 
+        "he": "חלקת מחוקק"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 2, 
+    "era": "AH"
+}

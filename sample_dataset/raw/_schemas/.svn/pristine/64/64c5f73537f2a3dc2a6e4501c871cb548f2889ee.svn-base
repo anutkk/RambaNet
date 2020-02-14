@@ -1,0 +1,241 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Exodus", 
+            "he": "ספר שמות"
+        }
+    ], 
+    "pubPlace": "Berlin", 
+    "compPlace": "Middle-Age France", 
+    "enDesc": "Commentary written by Rabbi Shmuel ben Meir, Rashbam (France, c.1080 - c.1160). Rashbam, a grandson of Rashi, was part of the Tosafist school. Whereas Rashi famously claimed that his commentary would present the pshat (contextual meaning) of the text, when in reality it relies heavily on midrash; Rashbam’s commentary actually stays very loyal to the pshat.  ", 
+    "heTitle": "רשב\"ם על שמות", 
+    "errorMargin": "20", 
+    "is_cited": true, 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רשב\"ם", 
+        "תורה"
+    ], 
+    "pubDate": "1705", 
+    "title": "Rashbam on Exodus", 
+    "compDate": "1140", 
+    "compDateString": {
+        "en": " (c.1120  - c.1160 CE)", 
+        "he": " (1120 - 1160 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashbam on Exodus", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רשב\"ם על שמות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Exod."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Ex."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Exo"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Shmot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Shemot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Ex"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Exo."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Exod"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Shemoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Exodus"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Exod."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Ex."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Exo"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Shmot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Shemot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Ex"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Exo."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Exod"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Shemoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Exodus"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Exod."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Ex."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Exo"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Shmot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Shemot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Ex"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Exo."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Exod"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Shemoth"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רשב\"ם על שמות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Exodus", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashbam on Exodus", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "heTitleVariants": [
+        "רשב\"ם על שמות"
+    ], 
+    "authors": [
+        {
+            "en": "Rashbam", 
+            "he": "רשב״ם"
+        }
+    ], 
+    "titleVariants": [
+        "Shumel ben Meir on Exod.", 
+        "Shumel ben Meir on Ex.", 
+        "Shumel ben Meir on Exo", 
+        "Shumel ben Meir on Shmot", 
+        "Shumel ben Meir on Shemot", 
+        "Shumel ben Meir on Ex", 
+        "Shumel ben Meir on Exo.", 
+        "Shumel ben Meir on Exod", 
+        "Shumel ben Meir on Shemoth", 
+        "Shumel ben Meir on Exodus", 
+        "Samuel ben Meir on Exod.", 
+        "Samuel ben Meir on Ex.", 
+        "Samuel ben Meir on Exo", 
+        "Samuel ben Meir on Shmot", 
+        "Samuel ben Meir on Shemot", 
+        "Samuel ben Meir on Ex", 
+        "Samuel ben Meir on Exo.", 
+        "Samuel ben Meir on Exod", 
+        "Samuel ben Meir on Shemoth", 
+        "Samuel ben Meir on Exodus", 
+        "Rashbam on Exod.", 
+        "Rashbam on Ex.", 
+        "Rashbam on Exo", 
+        "Rashbam on Shmot", 
+        "Rashbam on Shemot", 
+        "Rashbam on Ex", 
+        "Rashbam on Exo.", 
+        "Rashbam on Exod", 
+        "Rashbam on Shemoth", 
+        "Rashbam on Exodus"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Rashbam", 
+        "Torah"
+    ], 
+    "collective_title": {
+        "en": "Rashbam", 
+        "he": "רשב\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

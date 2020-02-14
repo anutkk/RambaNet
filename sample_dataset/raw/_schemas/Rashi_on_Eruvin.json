@@ -1,0 +1,122 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Eruvin", 
+            "he": "עירובין"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על עירובין", 
+        "רש\"י על ערובין"
+    ], 
+    "heTitle": "רש\"י על עירובין", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רש\"י", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1520", 
+    "title": "Rashi on Eruvin", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on Eruvin", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על עירובין", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Talmud Eruvin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Masekhet Eruvin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Tractate Eruvin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Eiruvin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על עירובין", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על ערובין"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Eruvin", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on Eruvin", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Classic commentary on the Talmud written by Rashi (1040 - 1105). Rashi’s commentary is known for its concise and clear explanations. It is invaluable to all Talmud learners - beginner and advanced alike.", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Talmud Eruvin", 
+        "Rashi on Masekhet Eruvin", 
+        "Rashi on Tractate Eruvin", 
+        "Rashi on Eiruvin", 
+        "Rashi on Eruvin"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashi", 
+        "Seder Moed"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

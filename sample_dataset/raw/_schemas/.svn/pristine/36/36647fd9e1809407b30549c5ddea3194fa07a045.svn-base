@@ -1,0 +1,60 @@
+{
+    "is_cited": true, 
+    "heCategories": [
+        "ספרות תנאית", 
+        "מסכתות קטנות"
+    ], 
+    "title": "Tractate Sefer Torah", 
+    "heTitleVariants": [
+        "מסכת ספר תורה"
+    ], 
+    "depth": 2, 
+    "heTitle": "מסכת ספר תורה", 
+    "titleVariants": [
+        "Treat. Sefer Torah", 
+        "Tractate Sefer Torah"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Tractate Sefer Torah", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "heTitle": "מסכת ספר תורה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מסכת ספר תורה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Treat. Sefer Torah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tractate Sefer Torah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tractate Sefer Torah", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

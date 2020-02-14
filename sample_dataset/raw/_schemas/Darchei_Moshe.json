@@ -1,0 +1,186 @@
+{
+    "heCategories": [
+        "הלכה", 
+        "טור ומפרשיו"
+    ], 
+    "title": "Darchei Moshe", 
+    "heTitleVariants": [
+        "דרכי משה"
+    ], 
+    "enDesc": "Rama's commentary on Tur, originally written in greatly expanded form, was subsequently shortened when the author became aware that Beit Yosef had completed a similar work. Rama then condensed his work and included only the material which complements Beit Yosef's work. The text of Darchei Moshe which is printed together with Tur is a further abridged version, with the complete version printed separately in the back of many editions of Tur.", 
+    "heDesc": "פירוש הרמ\"א לטור, בתחילה נכתב מבלי לדעת שגם ר' יוסף קארו עובד על משהו דומה, וכשהשלים החלק על אורח חיים נודע לו שכבר יצא לאור הספר \"בית יוסף\", ולכן הוא קיצר את ספרו ועשהו מעין השלמה על ה\"בית יוסף\". ה\"דרכי משה\" שנדפס בדפי הטור הוא גם מקוצר ממה שהוציא המחבר, והפירוש השלם נדפס בסוף הכרך בפני עצמו ברוב מהדורות הטור.", 
+    "heTitle": "דרכי משה", 
+    "authors": [
+        {
+            "en": "Moses Isserles", 
+            "he": "משה בן ישראל איסרלישׂ"
+        }
+    ], 
+    "titleVariants": [
+        "Darkei Moshe", 
+        "Darchei Moshe"
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Tur and Commentaries"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Orach Chaim", 
+                "addressTypes": [
+                    "Siman", 
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "אורח חיים", 
+                "depth": 3, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Orach Chaim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "אורח חיים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "OrachChaim", 
+                "heSectionNames": [
+                    "סימן", 
+                    "סעיף קטן", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Siman", 
+                    "Seif Katan", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Yoreh Deah", 
+                "addressTypes": [
+                    "Siman", 
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "יורה דעה", 
+                "depth": 3, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Yoreh Deah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "יורה דעה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "YorehDeah", 
+                "heSectionNames": [
+                    "סימן", 
+                    "סעיף קטן", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Siman", 
+                    "Seif Katan", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Even HaEzer", 
+                "addressTypes": [
+                    "Siman", 
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "אבן העזר", 
+                "depth": 3, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Even HaEzer", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "אבן העזר", 
+                        "primary": true
+                    }
+                ], 
+                "key": "EvenHaEzer", 
+                "heSectionNames": [
+                    "סימן", 
+                    "סעיף קטן", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Siman", 
+                    "Seif Katan", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Choshen Mishpat", 
+                "addressTypes": [
+                    "Siman", 
+                    "Seif", 
+                    "Integer"
+                ], 
+                "heTitle": "חושן משפט", 
+                "depth": 3, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Choshen Mishpat", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "חושן משפט", 
+                        "primary": true
+                    }
+                ], 
+                "key": "ChoshenMishpat", 
+                "heSectionNames": [
+                    "סימן", 
+                    "סעיף", 
+                    "סעיף קטן"
+                ], 
+                "sectionNames": [
+                    "Siman", 
+                    "Seif", 
+                    "Seif Katan"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Darkei Moshe"
+            }, 
+            {
+                "lang": "he", 
+                "text": "דרכי משה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Darchei Moshe", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "דרכי משה", 
+        "key": "Darchei Moshe", 
+        "title": "Darchei Moshe"
+    }
+}

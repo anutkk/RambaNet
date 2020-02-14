@@ -1,0 +1,129 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Bikkurim", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Bikkurim (First-Fruits) belongs to the first order, Zera'im (seeds) and discusses the prohibition of the immediate use of a tree after it has been planted, as stated in Leviticus 19:23-25. It consists of three chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה ביכורים", 
+        "ביכורים"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה ביכורים", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M Bikkurim", 
+        "Mishna Bikkurim", 
+        "M. Bikkurim", 
+        "Bicc.", 
+        "Biccurim", 
+        "Mishnah Bicc.", 
+        "Mishnah Biccurim", 
+        "Bik.", 
+        "Bikkurim", 
+        "Mishnah Bikkurim"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        11, 
+        11
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            4, 
+            34
+        ], 
+        "title": "Mishnah Bikkurim", 
+        "heTitle": "משנה ביכורים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M Bikkurim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Bikkurim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Bikkurim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bicc."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Biccurim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Bicc."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Biccurim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bik."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bikkurim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה ביכורים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ביכורים"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Bikkurim", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Bikkurim", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

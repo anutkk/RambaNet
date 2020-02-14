@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Shabbat", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Shabbat (Sabbath) belongs to the second order, Moed (Festivals) and discusses the 39 prohibitions of \"work\" on the Shabbat. It has eighteen chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא שבת"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא שבת", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Shabbos", 
+        "T. Shabbat", 
+        "Tosefta Shabbos", 
+        "Tos. Shabbat", 
+        "Tosef. Sabb.", 
+        "Tosefta Shabbat"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        1
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            18
+        ], 
+        "title": "Tosefta Shabbat", 
+        "heTitle": "תוספתא שבת", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Shabbos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Shabbat"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Shabbos"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Shabbat"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא שבת", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Sabb."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Shabbat", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Shabbat", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

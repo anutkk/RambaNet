@@ -1,0 +1,146 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Demai", 
+            "he": "משנה דמאי"
+        }
+    ], 
+    "pubPlace": "Lemberg", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "עיקר תוספות יום טוב על משנה דמאי", 
+        "עיקר התוספות יו\"ט על משנה דמאי", 
+        "עיקר התוספות יו\"ט על דמאי", 
+        "עיקר התוספות יום-טוב על משנה דמאי", 
+        "עיקר התוספות יום-טוב על דמאי", 
+        "עיקר ר' יום טוב ליפמן הלוי הלר על משנה דמאי", 
+        "עיקר ר' יום טוב ליפמן הלוי הלר על דמאי", 
+        "עיקר תוספות יום טוב על דמאי"
+    ], 
+    "heTitle": "עיקר תוספות יום טוב על משנה דמאי", 
+    "errorMargin": "5", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "עיקר תוספות יום טוב", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1790", 
+    "title": "Ikar Tosafot Yom Tov on Mishnah Demai", 
+    "compDate": "1785", 
+    "compDateString": {
+        "en": " (c.1780  - c.1790 CE)", 
+        "he": " (1780 - 1790 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ikar Tosafot Yom Tov on Mishnah Demai", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "עיקר תוספות יום טוב על משנה דמאי", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on Mishna Demai"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on M Demai"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on M. Demai"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר תוספות יום טוב על משנה דמאי", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר התוספות יו\"ט על משנה דמאי"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר התוספות יו\"ט על דמאי"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר התוספות יום-טוב על משנה דמאי"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר התוספות יום-טוב על דמאי"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר ר' יום טוב ליפמן הלוי הלר על משנה דמאי"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר ר' יום טוב ליפמן הלוי הלר על דמאי"
+            }, 
+            {
+                "lang": "he", 
+                "text": "עיקר תוספות יום טוב על דמאי"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ikar Tosafot Yom Tov on Mishnah Demai", 
+                "primary": true
+            }
+        ], 
+        "key": "Ikar Tosafot Yom Tov on Mishnah Demai", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Ikar Tosafot Yom Tov is an abridged version of Rabbi Yom Tov Lippmann Heller’s (1579 - 1654) classic commentary on the Mishnah - Tosafot Yom Tov. ", 
+    "heDesc": "עיבוד מקוצר של הפירוש למשנה של הרב יום טוב ליפמן הלר (1579 - 1654). ", 
+    "authors": [
+        {
+            "en": "Meshulam Katz", 
+            "he": "משולם בן יואל כץ"
+        }, 
+        {
+            "en": "Yom-Tov Lipmann Heller", 
+            "he": "יום-טוב ליפמן הלר"
+        }
+    ], 
+    "titleVariants": [
+        "Ikar Tosafot Yom Tov on Mishna Demai", 
+        "Ikar Tosafot Yom Tov on M Demai", 
+        "Ikar Tosafot Yom Tov on M. Demai", 
+        "Ikar Tosafot Yom Tov on Mishnah Demai"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Ikar Tosafot Yom Tov", 
+        "Seder Zeraim"
+    ], 
+    "collective_title": {
+        "en": "Ikar Tosafot Yom Tov", 
+        "he": "עיקר תוספות יום טוב"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

@@ -1,0 +1,126 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Zevachim", 
+            "he": "משנה זבחים"
+        }
+    ], 
+    "pubPlace": "Naples", 
+    "compPlace": "Spain / Egypt", 
+    "heTitleVariants": [
+        "רמב\"ם על משנה זבחים"
+    ], 
+    "heTitle": "רמב\"ם על משנה זבחים", 
+    "errorMargin": "5", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "רמב\"ם", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Rambam on Mishnah Zevachim", 
+    "compDate": "1163", 
+    "compDateString": {
+        "en": " (c.1158  - c.1168 CE)", 
+        "he": " (1158 - 1168 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rambam on Mishnah Zevachim", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "רמב\"ם על משנה זבחים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Maimonides on Mishna Zevachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on M. Zevachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on M Zevachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides on Mishnah Zevachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on Mishna Zevachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on M. Zevachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on M Zevachim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם על משנה זבחים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam on Mishnah Zevachim", 
+                "primary": true
+            }
+        ], 
+        "key": "Rambam on Mishnah Zevachim", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Rabbi Moshe ben Maimon’s (Rambam) commentary was the first to be written on the entire Mishnah. The commentary was written by Rambam (c.1137 - 1204) in Judeo-Arabic. The Mishnah commentary, Rambam’s first major work, was written from 1166–1168. ", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Maimonides on Mishna Zevachim", 
+        "Maimonides on M. Zevachim", 
+        "Maimonides on M Zevachim", 
+        "Maimonides on Mishnah Zevachim", 
+        "Rambam on Mishna Zevachim", 
+        "Rambam on M. Zevachim", 
+        "Rambam on M Zevachim", 
+        "Rambam on Mishnah Zevachim"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Rambam", 
+        "Seder Kodashim"
+    ], 
+    "collective_title": {
+        "en": "Rambam", 
+        "he": "רמב\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

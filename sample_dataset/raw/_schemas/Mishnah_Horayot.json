@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Horayot", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Horayot (Decisions) belongs to the fourth order, Nezikin (The Order of Damages) and discusses the communal sin-offering brought for major errors by the Sanhedrin. It has three chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה הוריות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה הוריות", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Horayot", 
+        "M Horayot", 
+        "Mishna Horayot", 
+        "Mishnah Hor.", 
+        "Mishnah Horayoth", 
+        "Mishnah Horayot"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        40, 
+        10
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            3, 
+            20
+        ], 
+        "title": "Mishnah Horayot", 
+        "heTitle": "משנה הוריות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Horayot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Horayot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Horayot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה הוריות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Hor."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Horayoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Horayot", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Horayot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

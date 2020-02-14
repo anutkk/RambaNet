@@ -1,0 +1,119 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Orlah", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Orlah (Blockage [of Trees]) belongs to the first order, Zera'im (seeds) and discusses the first-fruit gifts to the Kohanim and Temple, as stated in Exodus 23:19; Deuteronomy 26:1. It consists of three to four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה ערלה", 
+        "ערלה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה ערלה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M Orlah", 
+        "Mishna Orlah", 
+        "M. Orlah", 
+        "Orl.", 
+        "ʿOrlah", 
+        "Mishnah Orl.", 
+        "Mishnah ʿOrlah", 
+        "Mishnah Orlah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        10, 
+        10
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            3, 
+            35
+        ], 
+        "title": "Mishnah Orlah", 
+        "heTitle": "משנה ערלה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M Orlah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Orlah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Orlah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה ערלה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ערלה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Orl."
+            }, 
+            {
+                "lang": "en", 
+                "text": "ʿOrlah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Orl."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah ʿOrlah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Orlah", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Orlah", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

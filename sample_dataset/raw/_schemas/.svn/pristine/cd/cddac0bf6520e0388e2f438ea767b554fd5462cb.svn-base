@@ -1,0 +1,177 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Mishnah Nazir", 
+            "he": "משנה נזיר"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "", 
+    "heTitleVariants": [
+        "ברטנורא על משנה נזיר", 
+        "עובדיה מברטנורא על משנה נזיר", 
+        "ר' עובדיה מברטנורא על משנה נזיר"
+    ], 
+    "heTitle": "ברטנורא על משנה נזיר", 
+    "errorMargin": "12", 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "ברטנורא", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1549", 
+    "title": "Bartenura on Mishnah Nazir", 
+    "compDate": "1482", 
+    "compDateString": {
+        "en": " (c.1470  - c.1494 CE)", 
+        "he": " (1470 - 1494 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Bartenura on Mishnah Nazir", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "ברטנורא על משנה נזיר", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishna Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on M. Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ovadia of Bartenura on Mishnah Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishna Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on M. Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah of Bertinoro on Mishnah Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishna Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on M. Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishna Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on M. Nazir"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Obadiah ben Abraham of Bertinoro on Mishnah Nazir"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ברטנורא על משנה נזיר", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "עובדיה מברטנורא על משנה נזיר"
+            }, 
+            {
+                "lang": "he", 
+                "text": "ר' עובדיה מברטנורא על משנה נזיר"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Bartenura on Mishnah Nazir", 
+                "primary": true
+            }
+        ], 
+        "key": "Bartenura on Mishnah Nazir", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "R' Ovadiah ben Abraham of Bartenura (c. 1445-c.1515) wrote a commentary of the Mishnah that has been printed in almost every edition of the Mishnah since it was first published in Venice in 1548. The commentary, popularly called “The Bartenura” is mainly based on discussions in the Gemara and the Rambam's Mishna commentary. The Bartenura is particularly valuable to Mishnah learners due to the inclusion of a summary of the Talmudic discussions along with the accepted opinions.", 
+    "heDesc": "ר' עובדיה מברטנורא כתב פירוש למשנה שנדפס כמעט בכל מהדורה של המשנה מאז שיצא לאור לראשונה בוונציה בשנת 1548. הפירוש מבוסס בעיקר על הדיונים בגמרא ועל פירוש הרמב\"ם למשנה. ", 
+    "authors": [
+        {
+            "en": "Ovadiah Bartenura", 
+            "he": "רב עובדיה מברטנורא"
+        }
+    ], 
+    "titleVariants": [
+        "Ovadia of Bartenura on M Nazir", 
+        "Ovadia of Bartenura on Mishna Nazir", 
+        "Ovadia of Bartenura on M. Nazir", 
+        "Ovadia of Bartenura on Mishnah Nazir", 
+        "Obadiah of Bertinoro on M Nazir", 
+        "Obadiah of Bertinoro on Mishna Nazir", 
+        "Obadiah of Bertinoro on M. Nazir", 
+        "Obadiah of Bertinoro on Mishnah Nazir", 
+        "Bartenura on M Nazir", 
+        "Bartenura on Mishna Nazir", 
+        "Bartenura on M. Nazir", 
+        "Obadiah ben Abraham of Bertinoro on M Nazir", 
+        "Obadiah ben Abraham of Bertinoro on Mishna Nazir", 
+        "Obadiah ben Abraham of Bertinoro on M. Nazir", 
+        "Obadiah ben Abraham of Bertinoro on Mishnah Nazir", 
+        "Bartenura on Mishnah Nazir"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Bartenura", 
+        "Seder Nashim"
+    ], 
+    "collective_title": {
+        "en": "Bartenura", 
+        "he": "ברטנורא"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

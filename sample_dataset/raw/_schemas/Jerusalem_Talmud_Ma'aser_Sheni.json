@@ -1,0 +1,110 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Daf", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "ירושלמי", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1523", 
+    "title": "Jerusalem Talmud Ma'aser Sheni", 
+    "compDate": "400", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Maaseh Sheni (Second Tithes) belongs to the first order, Zera'im (seeds) and discusses the rules concerning the tithe which was to be eaten in Jerusalem, as stated in Deuteronomy 14:22-26. It consists of five chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תלמוד ירושלמי מעשר שני", 
+        "ירושלמי מעשר שני"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)", 
+        "he": " (375 - 425 לספירה בקירוב)"
+    }, 
+    "heTitle": "תלמוד ירושלמי מעשר שני", 
+    "era": "A", 
+    "authors": [], 
+    "titleVariants": [
+        "Yerushalmi Ma'aser Sheni", 
+        "JT Ma'aser Sheni", 
+        "Yerushalmi Maaser Sheni", 
+        "Talmud Yerushalmi Ma'aser Sheni", 
+        "JT Maaser Sheni", 
+        "Jerusalem Talmud Ma'aser Sheni"
+    ], 
+    "errorMargin": "25", 
+    "order": [
+        8
+    ], 
+    "categories": [
+        "Talmud", 
+        "Yerushalmi", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            66, 
+            103
+        ], 
+        "title": "Jerusalem Talmud Ma'aser Sheni", 
+        "heTitle": "תלמוד ירושלמי מעשר שני", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Ma'aser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Ma'aser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Maaser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Talmud Yerushalmi Ma'aser Sheni"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Maaser Sheni"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תלמוד ירושלמי מעשר שני", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ירושלמי מעשר שני"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Jerusalem Talmud Ma'aser Sheni", 
+                "primary": true
+            }
+        ], 
+        "key": "Jerusalem Talmud Ma'aser Sheni", 
+        "heSectionNames": [
+            "דף", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Halakhah"
+        ]
+    }
+}

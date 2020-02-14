@@ -1,0 +1,68 @@
+{
+    "depth": 2, 
+    "heCategories": [
+        "יצירות מודרניות"
+    ], 
+    "title": "Footnotes to Kohelet by Bruce Heitler", 
+    "collective_title": {
+        "en": "Bruce Heitler", 
+        "he": "אBruce Heitler"
+    }, 
+    "heTitleVariants": [
+        "הערות לקהלת מאת ברוס הייטלר", 
+        "הערות לקהלת מעת ברוס הייטלר"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "הערות לקהלת מאת ברוס הייטלר", 
+    "authors": [
+        {
+            "en": "Bruce Heitler", 
+            "he": "ברוס הייטלר"
+        }
+    ], 
+    "titleVariants": [
+        "Footnotes to Kohelet by Bruce Heitler"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Footnote"
+    ], 
+    "categories": [
+        "Modern Works"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Footnotes to Kohelet by Bruce Heitler", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "הערות לקהלת מאת ברוס הייטלר", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "הערות לקהלת מאת ברוס הייטלר", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "הערות לקהלת מעת ברוס הייטלר"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Footnotes to Kohelet by Bruce Heitler", 
+                "primary": true
+            }
+        ], 
+        "key": "Footnotes to Kohelet by Bruce Heitler", 
+        "heSectionNames": [
+            "פרק", 
+            ""
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Footnote"
+        ]
+    }
+}

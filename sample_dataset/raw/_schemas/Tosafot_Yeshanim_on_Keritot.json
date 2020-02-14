@@ -1,0 +1,117 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Keritot", 
+            "he": "כריתות"
+        }
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "תוספות ישנים ", 
+        "סדר קדשים"
+    ], 
+    "title": "Tosafot Yeshanim on Keritot", 
+    "base_text_mapping": "many_to_one", 
+    "collective_title": {
+        "en": "Tosafot Yeshanim", 
+        "he": "תוספות ישנים "
+    }, 
+    "heTitleVariants": [
+        "תוספות ישנים  על כריתות"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "תוספות ישנים  על כריתות", 
+    "authors": [
+        {
+            "en": "Tosafot", 
+            "he": "תוספות"
+        }
+    ], 
+    "titleVariants": [
+        "Tosafot Yeshanim on Talmud Keritot", 
+        "Tosafot Yeshanim on Masekhet Keritot", 
+        "Tosafot Yeshanim on Tractate Keritot", 
+        "Tosafot Yeshanim on Keritut", 
+        "Tosafot Yeshanim on Talmud Keritut", 
+        "Tosafot Yeshanim on Masekhet Keritut", 
+        "Tosafot Yeshanim on Tractate Keritut", 
+        "Tosafot Yeshanim on Keritot"
+    ], 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Tosafot Yeshanim", 
+        "Seder Kodashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Tosafot Yeshanim on Keritot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "תוספות ישנים  על כריתות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tosafot Yeshanim on Talmud Keritot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosafot Yeshanim on Masekhet Keritot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosafot Yeshanim on Tractate Keritot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosafot Yeshanim on Keritut"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosafot Yeshanim on Talmud Keritut"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosafot Yeshanim on Masekhet Keritut"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosafot Yeshanim on Tractate Keritut"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספות ישנים  על כריתות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosafot Yeshanim on Keritot", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosafot Yeshanim on Keritot", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }
+}

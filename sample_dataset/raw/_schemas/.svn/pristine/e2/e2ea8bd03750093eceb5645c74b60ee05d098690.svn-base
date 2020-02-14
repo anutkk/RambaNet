@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Challah", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Hallah (Glob of Dough) belongs to the first order, Zera'im (seeds) and discusses the laws regarding the hallah offering of dough to be given to the Kohanim, as stated in Numbers 15:18-21. It consists of two chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא חלה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא חלה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "T. Challah", 
+        "T. Hallah", 
+        "Tos. Challah", 
+        "Tos. Hallah", 
+        "Tosef. Ḥall.", 
+        "Tosefta Challah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        10
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            2
+        ], 
+        "title": "Tosefta Challah", 
+        "heTitle": "תוספתא חלה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "T. Challah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Hallah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Challah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Hallah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא חלה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Ḥall."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Challah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Challah", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

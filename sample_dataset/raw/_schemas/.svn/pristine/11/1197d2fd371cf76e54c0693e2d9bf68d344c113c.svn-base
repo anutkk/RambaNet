@@ -1,0 +1,109 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Makhshirin", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Makhshirm (Preliminary acts of preparation) belongs to the sixth order, Tahorot (Purities) and discusses liquids that make food susceptible to tumah (impurity). It has three chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא מכשירין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא מכשירין", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tosefta Machshirin", 
+        "Tos. Makhshirin", 
+        "T. Makhshirin", 
+        "T. Machshirin", 
+        "Tos. Machshirin", 
+        "Tosef. Makhsh.", 
+        "Tosefta Makhshirin"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        10
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            3
+        ], 
+        "title": "Tosefta Makhshirin", 
+        "heTitle": "תוספתא מכשירין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tosefta Machshirin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Makhshirin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Makhshirin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Machshirin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Machshirin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא מכשירין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Makhsh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Makhshirin", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Makhshirin", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

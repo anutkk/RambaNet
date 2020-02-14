@@ -1,0 +1,160 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר קדושה"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Ritual Slaughter", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The fifth book is Kedushah (Holiness). Shehitah: laws of ritual slaughter", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות שחיטה", 
+        "משנה תורה, הל' שחיטה", 
+        "רמב\"ם, הלכות שחיטה", 
+        "רמב\"ם, הל' שחיטה", 
+        "רמב\"ם הלכות שחיטה", 
+        "רמב\"ם הל' שחיטה"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות שחיטה", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Mishneh Torah, Hilchot Shechitah", 
+        "Rambam, Shechitah", 
+        "Mishneh Torah, Laws of Ritual Slaughter", 
+        "Rambam, Ritual Slaughter", 
+        "Mishneh Torah, Shechitah", 
+        "Rambam, Laws of Ritual Slaughter", 
+        "Rambam, Hilchot Shechitah", 
+        "Mishneh Torah, Hilkhot Shechitah", 
+        "Rambam, Hilkhot Shechitah", 
+        "Rambam, Hilkhot Sheḥitah", 
+        "Mishneh Torah, Ritual Slaughter"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        34, 
+        3
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Kedushah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            14
+        ], 
+        "title": "Mishneh Torah, Ritual Slaughter", 
+        "heTitle": "משנה תורה, הלכות שחיטה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Shechitah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Shechitah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Ritual Slaughter"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Ritual Slaughter"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Shechitah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Ritual Slaughter"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Shechitah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Shechitah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Shechitah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Sheḥitah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות שחיטה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' שחיטה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות שחיטה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' שחיטה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות שחיטה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' שחיטה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Ritual Slaughter", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Ritual Slaughter", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "heTitleVariants": [
+        "לְכָה דוֹדִי"
+    ], 
+    "sectionNames": [
+        "Verse", 
+        "Verset"
+    ], 
+    "heCategories": [
+        "סדר התפילה"
+    ], 
+    "title": "Lekha Dodi", 
+    "compDate": "1550", 
+    "enDesc": "Hymn recited Friday at dusk in synagogue as part of the Kabbalat Shabbat service to welcome the Sabbath prior to the evening services.", 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (c.1525  - c.1575 CE)", 
+        "he": " (1525 - 1575 לספירה בקירוב)"
+    }, 
+    "heTitle": "לְכָה דוֹדִי", 
+    "authors": [
+        {
+            "en": "Shlomo HaLevi Alkabetz", 
+            "he": "שלמה הלוי אלקבץ"
+        }
+    ], 
+    "titleVariants": [
+        "L'cha Dodi", 
+        "Lekha Dodi"
+    ], 
+    "errorMargin": "25", 
+    "categories": [
+        "Liturgy"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Lekha Dodi", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "לְכָה דוֹדִי", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "L'cha Dodi"
+            }, 
+            {
+                "lang": "he", 
+                "text": "לְכָה דוֹדִי", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Lekha Dodi", 
+                "primary": true
+            }
+        ], 
+        "key": "Lekha Dodi", 
+        "heSectionNames": [
+            "פסוק", 
+            ""
+        ], 
+        "sectionNames": [
+            "Verse", 
+            "Verset"
+        ]
+    }
+}

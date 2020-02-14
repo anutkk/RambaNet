@@ -1,0 +1,65 @@
+{
+    "is_cited": true, 
+    "heCategories": [
+        "ספרות תנאית", 
+        "מסכתות קטנות"
+    ], 
+    "title": "Tractate Derekh Eretz Rabbah", 
+    "heTitleVariants": [
+        "מסכת דרך ארץ רבה"
+    ], 
+    "depth": 2, 
+    "heTitle": "מסכת דרך ארץ רבה", 
+    "titleVariants": [
+        "Der. Er.", 
+        "Treat. Der. Er.", 
+        "Tractate Derekh Eretz Rabbah"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Tractate Derekh Eretz Rabbah", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "heTitle": "מסכת דרך ארץ רבה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מסכת דרך ארץ רבה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Der. Er."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Treat. Der. Er."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tractate Derekh Eretz Rabbah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tractate Derekh Eretz Rabbah", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

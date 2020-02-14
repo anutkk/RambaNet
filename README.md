@@ -1,8 +1,14 @@
 # RambaNet
 
-We aim to perform authorship attribution on medieval Jewish Thought books using modern Deep Learning approach. This is a classification problem, when the challenge is the modeling of authorship characteristics.
+The goal of the project is to perform authorship attribution on medieval Jewish Thought books using a modern Deep Learning approach. This is a classification problem, when the challenge is the modeling of authorship characteristics.
 
 The use of Neural Networks and semantically-inclined embeddings may allow to take into account not only stylography but also content and ideas.
+
+## Dataset
+
+We use the JSON Hebrew version of the dataset [Sefaria-Export](https://github.com/Sefaria/Sefaria-Export), which is graciously provided by Sefaria. The raw dataset is not included in the repository due to its size.
+
+**Some basic data analysis and vizualizations of the dataset may be found in the folder `basic_data_analysis/`.**
 
 ## Background and Methodoloy
 
@@ -27,12 +33,6 @@ Moreover, homonyms and homographs are frequent in Hebrew, much more than in Engl
 
 Lastly, an important drawback of word embeddings is that the vocabulary must be defined in advance, and out-of-vocabulary and less common words are left out of the embedding. However, for authorship attribution purposes the study of hapax legomena bears a lot of information.
 
-
-## Dataset
-
-We use the JSON Hebrew version of the dataset [Sefaria-Export](https://github.com/Sefaria/Sefaria-Export), which is graciously provided by Sefaria. The raw dataset is not included in the repository due to its size.
-
-Some basic data analysis and vizualizations of the dataset may be found in the folder `basic_data_analysis`.
 ## Results
 
 ### Character-Level CNN

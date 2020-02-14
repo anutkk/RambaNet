@@ -1,0 +1,109 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Chullin", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Hulin (Ordinary/Mundane Things) belongs to the fifth order, Kodshim (Holy things) and discusses the laws of slaughter and meat consumption (i.e. animals used for every-day as opposed to sacred reasons). It has twelve chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא חולין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא חולין", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Chullin", 
+        "T. Chullin", 
+        "Tosefta Hullin", 
+        "T. Hullin", 
+        "Tos. Hullin", 
+        "Tosef. Ḥull.", 
+        "Tosefta Chullin"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        2
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Kodashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            10
+        ], 
+        "title": "Tosefta Chullin", 
+        "heTitle": "תוספתא חולין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Chullin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Chullin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Hullin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Hullin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Hullin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא חולין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Ḥull."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Chullin", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Chullin", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

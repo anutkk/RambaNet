@@ -1,0 +1,67 @@
+{
+    "heCategories": [
+        "סדר התפילה"
+    ], 
+    "pubDate": "1920", 
+    "title": "Siddur Tehilat Hashem", 
+    "heTitleVariants": [
+        "סידור תהלת ה'", 
+        "נוסח האר\"י ז\"ל"
+    ], 
+    "pubPlace": "Rostov, Russia", 
+    "enDesc": "Siddur according to the Arizal's version, as edited by Rabbi Shneur Zalman, author of the classic Chassidic work \"Tanya\" and founder of the Chabad movement.", 
+    "depth": 2, 
+    "heDesc": "סידור על פי נוסח האר\"י ז\"ל, כפי שנערך על ידי הרב שניאור זלמן, בעל התניא והשו\"ע ומייסד חסידות חב\"ד.", 
+    "heTitle": "סידור תהלת ה'", 
+    "authors": [], 
+    "titleVariants": [
+        "Nusach Ari", 
+        "Siddur Tehilat Hashem"
+    ], 
+    "sectionNames": [
+        "חלק התפילה", 
+        "התפילה"
+    ], 
+    "categories": [
+        "Liturgy"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Siddur Tehilat Hashem", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "סידור תהלת ה'", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Nusach Ari"
+            }, 
+            {
+                "lang": "he", 
+                "text": "סידור תהלת ה'", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "נוסח האר\"י ז\"ל"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Siddur Tehilat Hashem", 
+                "primary": true
+            }
+        ], 
+        "key": "Siddur Tehilat Hashem", 
+        "heSectionNames": [
+            "חלק התפילה", 
+            "התפילה"
+        ], 
+        "sectionNames": [
+            "חלק התפילה", 
+            "התפילה"
+        ]
+    }
+}

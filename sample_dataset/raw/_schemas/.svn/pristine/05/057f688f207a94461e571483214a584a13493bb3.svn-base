@@ -1,0 +1,97 @@
+{
+    "depth": 2, 
+    "heTitleVariants": [
+        "מהרש\"ל כתובות", 
+        "חכמת שלמה על כתובות"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Ketubot", 
+            "he": "כתובות"
+        }
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "חכמת שלמה", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1582", 
+    "title": "Chokhmat Shlomo on Ketubot", 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "compDate": "1550", 
+    "pubPlace": "Kraków", 
+    "collective_title": {
+        "en": "Chokhmat Shlomo", 
+        "he": "חכמת שלמה"
+    }, 
+    "enDesc": "Glosses on the Talmud by Rabbi Shlomo Luria (Maharshal). An important component of the commentary is establishing the correct text of the Talmud. Maharshal scrutinized the published editions of the Talmud as well as the commentaries of Rashi, Tosafot, and other Rishonim. An abridged version of Chochmat Shlomo appears in nearly all editions of the Talmud today, together with the commentary of Maharsha.", 
+    "dependence": "Commentary", 
+    "compDateString": {
+        "en": " (c.1530  - c.1570 CE)", 
+        "he": " (1530 - 1570 לספירה בקירוב)"
+    }, 
+    "heTitle": "חכמת שלמה על כתובות", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Maharshal", 
+            "he": "מהרש\"ל"
+        }
+    ], 
+    "titleVariants": [
+        "Maharshal on Ketubot", 
+        "Chokhmat Shlomo on Ketubot"
+    ], 
+    "errorMargin": "20", 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Chokhmat Shlomo", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Chokhmat Shlomo on Ketubot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "חכמת שלמה על כתובות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Maharshal on Ketubot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מהרש\"ל כתובות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "חכמת שלמה על כתובות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Chokhmat Shlomo on Ketubot", 
+                "primary": true
+            }
+        ], 
+        "key": "Chokhmat Shlomo on Ketubot", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }
+}

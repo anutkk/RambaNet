@@ -1,0 +1,89 @@
+{
+    "depth": 3, 
+    "heTitleVariants": [
+        "הערות בובר על מדרש משלי"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Midrash Mishlei", 
+            "he": "מדרש משלי"
+        }
+    ], 
+    "heCategories": [
+        "מדרש", 
+        "מפרשים", 
+        "הערות בובר", 
+        "מדרש אגדה"
+    ], 
+    "pubDate": "1893", 
+    "title": "Buber footnotes on Midrash Mishlei", 
+    "base_text_mapping": "many_to_one", 
+    "pubPlace": "Vilna", 
+    "collective_title": {
+        "en": "Buber footnotes", 
+        "he": "הערות בובר"
+    }, 
+    "enDesc": "Footnotes on Midrash Mishlei written by Solomon Buber, 1827-1906.", 
+    "dependence": "Commentary", 
+    "heTitle": "הערות בובר על מדרש משלי", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Solomon Buber", 
+            "he": "שלמה בובר"
+        }
+    ], 
+    "titleVariants": [
+        "Buber footnotes on Agadat Mishle", 
+        "Buber footnotes on Midrash Mishlei"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "categories": [
+        "Midrash", 
+        "Commentary", 
+        "Buber footnotes", 
+        "Aggadic Midrash"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Buber footnotes on Midrash Mishlei", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "הערות בובר על מדרש משלי", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Buber footnotes on Agadat Mishle"
+            }, 
+            {
+                "lang": "he", 
+                "text": "הערות בובר על מדרש משלי", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Buber footnotes on Midrash Mishlei", 
+                "primary": true
+            }
+        ], 
+        "key": "Buber footnotes on Midrash Mishlei", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Job", 
+            "he": "איוב"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Middle-Age France/Italy/England", 
+    "heTitleVariants": [
+        "אבן עזרא על איוב"
+    ], 
+    "heTitle": "אבן עזרא על איוב", 
+    "errorMargin": "5", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "אבן עזרא", 
+        "כתובים"
+    ], 
+    "pubDate": "1524", 
+    "title": "Ibn Ezra on Job", 
+    "compDate": "1160", 
+    "compDateString": {
+        "en": " (c.1155  - c.1165 CE)", 
+        "he": " (1155 - 1165 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France/Italy/England", 
+        "he": "צרפת / איטליה / אנגליה של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ibn Ezra on Job", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "אבן עזרא על איוב", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ibn Ezra on Iyov"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ibn Ezra on Iyyov"
+            }, 
+            {
+                "lang": "he", 
+                "text": "אבן עזרא על איוב", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ibn Ezra on Job", 
+                "primary": true
+            }
+        ], 
+        "key": "Ibn Ezra on Job", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Ibn Ezra’s commentary on the Tanakh reflects his knowledge as a Hebrew grammarian and philologist. His commentary is terse and aims to discover the pshat, the contextual meaning, of the text. Ibn Ezra was known for his independent ideas which aroused much controversy. Many view Ibn Ezra as the forefather of Biblical criticism. As an example, in the last chapter of Sefer Devarim (34:10), Ibn Ezra comments that Joshua, and not Moshe, wrote from this point until the end of the Torah.  ", 
+    "authors": [
+        {
+            "en": "Ibn Ezra", 
+            "he": "אבן עזרא"
+        }
+    ], 
+    "titleVariants": [
+        "Ibn Ezra on Iyov", 
+        "Ibn Ezra on Iyyov", 
+        "Ibn Ezra on Job"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Ibn Ezra", 
+        "Writings"
+    ], 
+    "collective_title": {
+        "en": "Ibn Ezra", 
+        "he": "אבן עזרא"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

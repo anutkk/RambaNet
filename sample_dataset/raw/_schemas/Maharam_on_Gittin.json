@@ -1,0 +1,92 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Gittin", 
+            "he": "גיטין"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Poland", 
+    "heTitleVariants": [
+        "מהר\"ם על גיטין"
+    ], 
+    "heTitle": "מהר\"ם על גיטין", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "מהר\"ם", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1619", 
+    "title": "Maharam on Gittin", 
+    "compDate": "1600", 
+    "compDateString": {
+        "en": " (c.1585  - c.1615 CE)", 
+        "he": " (1585 - 1615 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Poland", 
+        "he": "פולין"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Maharam on Gittin", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "מהר\"ם על גיטין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מהר\"ם על גיטין", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maharam on Gittin", 
+                "primary": true
+            }
+        ], 
+        "key": "Maharam on Gittin", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "A commentary on the Talmud written by Rabbi Meir of Lublin (Maharam 1558 – 1616). Published after his death by his son, Gedaliah, in 1619, the commentary deals extensively with the interpretations of Rashi and the Tosafists.  ", 
+    "authors": [
+        {
+            "en": "Maharam Lublin", 
+            "he": "מהר\"ם לובלין"
+        }
+    ], 
+    "titleVariants": [
+        "Maharam on Gittin"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Maharam", 
+        "Seder Nashim"
+    ], 
+    "collective_title": {
+        "en": "Maharam", 
+        "he": "מהר\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 2, 
+    "era": "AH"
+}

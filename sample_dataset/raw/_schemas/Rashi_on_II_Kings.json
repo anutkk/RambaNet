@@ -1,0 +1,150 @@
+{
+    "base_text_titles": [
+        {
+            "en": "II Kings", 
+            "he": "מלכים ב"
+        }
+    ], 
+    "pubPlace": "Guadalajara, Spain", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רש\"י על מלכים ב", 
+        "רש\"י על מ\"ב", 
+        "רש\"י על מ״ב", 
+        "רש\"י על מלכים ב׳", 
+        "רש\"י על מלכים ב'"
+    ], 
+    "heTitle": "רש\"י על מלכים ב", 
+    "errorMargin": "15", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רש\"י", 
+        "נביאים"
+    ], 
+    "pubDate": "1476", 
+    "title": "Rashi on II Kings", 
+    "compDate": "1090", 
+    "compDateString": {
+        "en": " (c.1075  - c.1105 CE)", 
+        "he": " (1075 - 1105 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashi on II Kings", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רש\"י על מלכים ב", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rashi on Melachim Bet"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Melachim II"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Second Kings"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on 2 Kings"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on II Melachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on Kings II"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on II Melakhim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על מלכים ב", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על מ\"ב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על מ״ב"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על מלכים ב׳"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רש\"י על מלכים ב'"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashi on II Kings", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashi on II Kings", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Commentary on the Tanakh written by Rabbi Shlomo Yitzchaki (Rashi). Rashi lived in Troyes, France (1040-1105). Rashi’s commentary is an essential explanation of the Tanakh and resides in a place of honor on the page of almost all editions of the Tanakh. Over 300 supercommentaries have been written to further explain Rashi’s comments on the Torah. While quoting many midrashim and Talmudic passages, Rashi, in his commentary, states that his purpose is to present the pshat (contextual meaning) of the text.  ", 
+    "authors": [
+        {
+            "en": "Rashi", 
+            "he": "רש״י"
+        }
+    ], 
+    "titleVariants": [
+        "Rashi on Melachim Bet", 
+        "Rashi on Melachim II", 
+        "Rashi on Second Kings", 
+        "Rashi on 2 Kings", 
+        "Rashi on II Melachim", 
+        "Rashi on Kings II", 
+        "Rashi on II Melakhim", 
+        "Rashi on II Kings"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Rashi", 
+        "Prophets"
+    ], 
+    "collective_title": {
+        "en": "Rashi", 
+        "he": "רש\"י"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

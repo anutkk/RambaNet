@@ -1,0 +1,2245 @@
+{
+    "heTitleVariants": [
+        "ספר הקנה"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Comment"
+    ], 
+    "heCategories": [
+        "קבלה"
+    ], 
+    "pubDate": "1786", 
+    "title": "Sefer HaKana", 
+    "compDate": "", 
+    "pubPlace": "Pavlivka / Poryck", 
+    "compPlace": "", 
+    "enDesc": "Anonymous Kabbalistic work containing a lengthy commentary on the 613 commandments. It was ascribed by some to the 2nd century Tanna, R' Nehunya ben HaKanah, but it has been proven to be of much later authorship.", 
+    "depth": 2, 
+    "heDesc": "טעמי תרי\"ג המצוות בדרך הקבלה. יש המייחסים אותו להתנא ר' נחוניא בן הקנה, אך החיד\"א פקפק בכך מכיון שמוזכר בהספר גם שמות של אמוראים. ", 
+    "heTitle": "ספר הקנה", 
+    "era": null, 
+    "authors": [], 
+    "titleVariants": [
+        "Sefer HaQana", 
+        "Sefer HaQanah", 
+        "Sefer Hakana", 
+        "Sefer HaKanah", 
+        "Sefer HaKana"
+    ], 
+    "errorMargin": "", 
+    "alts": {
+        "Titles": {
+            "nodes": [
+                {
+                    "wholeRef": "Sefer HaKana 1", 
+                    "title": "Chapter 1", 
+                    "heTitle": "ענין יראת המקום", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 1", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ענין יראת המקום", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 2", 
+                    "title": "Chapter 2", 
+                    "heTitle": " ענין קידוש השם", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 2", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": " ענין קידוש השם", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 3", 
+                    "title": "Chapter 3", 
+                    "heTitle": "לשמוע לנביא", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 3", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "לשמוע לנביא", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 4", 
+                    "title": "Chapter 4", 
+                    "heTitle": "ללכת בדרכי הש\"י", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 4", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ללכת בדרכי הש\"י", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 5", 
+                    "title": "Chapter 5", 
+                    "heTitle": "לילך בדרכי השם דביקות בהשם", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 5", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "לילך בדרכי השם דביקות בהשם", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 6", 
+                    "title": "Chapter 6", 
+                    "heTitle": " ואהבת לרעך כמוך", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 6", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": " ואהבת לרעך כמוך", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 7", 
+                    "title": "Chapter 7", 
+                    "heTitle": "אהבת הגר", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 7", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "אהבת הגר", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 8", 
+                    "title": "Chapter 8", 
+                    "heTitle": "הוכח תוכיח", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 8", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "הוכח תוכיח", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 9", 
+                    "title": "Chapter 9", 
+                    "heTitle": "מצות תלמוד תורה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 9", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מצות תלמוד תורה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 10", 
+                    "title": "Chapter 10", 
+                    "heTitle": "מצות מפני שיבה תקום", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 10", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מצות מפני שיבה תקום", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 11", 
+                    "title": "Chapter 11", 
+                    "heTitle": "מצות קימה מפני שיבה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 11", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מצות קימה מפני שיבה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 12", 
+                    "title": "Chapter 12", 
+                    "heTitle": "מצוה שלא להורות הלכה בפני רבו", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 12", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מצוה שלא להורות הלכה בפני רבו", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 13", 
+                    "title": "Chapter 13", 
+                    "heTitle": "מצוה לאבד ע\"ז", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 13", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מצוה לאבד ע\"ז", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 14", 
+                    "title": "Chapter 14", 
+                    "heTitle": "דין עיר הנידחת", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 14", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דין עיר הנידחת", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 15", 
+                    "title": "Chapter 15", 
+                    "heTitle": " להתודות חטאים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 15", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": " להתודות חטאים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 16", 
+                    "title": "Chapter 16", 
+                    "heTitle": "תשובת אדה\"ר ותשובת הקנה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 16", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "תשובת אדה\"ר ותשובת הקנה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 17", 
+                    "title": "Chapter 17", 
+                    "heTitle": "קבלת היסורים באהבה ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 17", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "קבלת היסורים באהבה ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 18", 
+                    "title": "Chapter 18", 
+                    "heTitle": "כוונת ק\"ש ובשכמל\"ו ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 18", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "כוונת ק\"ש ובשכמל\"ו ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 19", 
+                    "title": "Chapter 19", 
+                    "heTitle": "כוונת התפילה  ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 19", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "כוונת התפילה  ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 20", 
+                    "title": "Chapter 20", 
+                    "heTitle": "כוונות הקדושה והתפלה ועושה שלום  ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 20", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "כוונות הקדושה והתפלה ועושה שלום  ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 21", 
+                    "title": "Chapter 21", 
+                    "heTitle": "הליכה לבהכנ\"ס ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 21", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "הליכה לבהכנ\"ס ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 22", 
+                    "title": "Chapter 22", 
+                    "heTitle": "ברכות ק\"ש ושלא לאכול סמוך למנחה ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 22", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ברכות ק\"ש ושלא לאכול סמוך למנחה ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 23", 
+                    "title": "Chapter 23", 
+                    "heTitle": "הנהגת הקדושה בבהכנ\"ס ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 23", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "הנהגת הקדושה בבהכנ\"ס ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 24", 
+                    "title": "Chapter 24", 
+                    "heTitle": "ברכת כהנים ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 24", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ברכת כהנים ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 25", 
+                    "title": "Chapter 25", 
+                    "heTitle": "סוד מצות תפילין וכוונותיהם ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 25", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מצות תפילין וכוונותיהם ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 26", 
+                    "title": "Chapter 26", 
+                    "heTitle": "סוד מצות מזוזה וכתיבתה ומקום קביעתה ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 26", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מצות מזוזה וכתיבתה ומקום קביעתה ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 27", 
+                    "title": "Chapter 27", 
+                    "heTitle": "סוד ומצות ס\"ת וכתיבתה וקדושת ס\"ת בהיכל  ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 27", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד ומצות ס\"ת וכתיבתה וקדושת ס\"ת בהיכל  ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 28", 
+                    "title": "Chapter 28", 
+                    "heTitle": "ענין כתיבת ס\"ת למלך", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 28", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ענין כתיבת ס\"ת למלך", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 29", 
+                    "title": "Chapter 29", 
+                    "heTitle": "סוד ברכת המפיל וברכות השחר", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 29", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד ברכת המפיל וברכות השחר", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 30", 
+                    "title": "Chapter 30", 
+                    "heTitle": "סוד ברכת הנהנין", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 30", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד ברכת הנהנין", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 31", 
+                    "title": "Chapter 31", 
+                    "heTitle": "כוונת ההודאות והברכות:", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 31", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "כוונת ההודאות והברכות:", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 32", 
+                    "title": "Chapter 32", 
+                    "heTitle": "סוד ברכת הלבנה והחמה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 32", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד ברכת הלבנה והחמה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 33", 
+                    "title": "Chapter 33", 
+                    "heTitle": "סוד ברכות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 33", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד ברכות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 34", 
+                    "title": "Chapter 34", 
+                    "heTitle": "ענין מילה וכוונותיה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 34", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ענין מילה וכוונותיה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 35", 
+                    "title": "Chapter 35", 
+                    "heTitle": "סוד מילה וכוונותיה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 35", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מילה וכוונותיה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 36", 
+                    "title": "Chapter 36", 
+                    "heTitle": "סוד הקידוש והבדלה ודיניהם", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 36", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד הקידוש והבדלה ודיניהם", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 37", 
+                    "title": "Chapter 37", 
+                    "heTitle": "דיני שבת וקבלת שבת", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 37", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דיני שבת וקבלת שבת", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 38", 
+                    "title": "Chapter 38", 
+                    "heTitle": "סוד שלוש סעודות בשבת", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 38", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד שלוש סעודות בשבת", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 39", 
+                    "title": "Chapter 39", 
+                    "heTitle": "ענין יום הכיפורים וענויו", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 39", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ענין יום הכיפורים וענויו", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 40", 
+                    "title": "Chapter 40", 
+                    "heTitle": "דיני פסח ובדיקת חמץ", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 40", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דיני פסח ובדיקת חמץ", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 41", 
+                    "title": "Chapter 41", 
+                    "heTitle": "דיני אכילת מצה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 41", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דיני אכילת מצה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 42", 
+                    "title": "Chapter 42", 
+                    "heTitle": "ענין לספר ביציאת מצרים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 42", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ענין לספר ביציאת מצרים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 43", 
+                    "title": "Chapter 43", 
+                    "heTitle": "סוד עשר מכות במצרים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 43", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד עשר מכות במצרים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 44", 
+                    "title": "Chapter 44", 
+                    "heTitle": "דיני תקיעת שופר", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 44", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דיני תקיעת שופר", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 45", 
+                    "title": "Chapter 45", 
+                    "heTitle": "סוד תקיעת שופר", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 45", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד תקיעת שופר", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 46", 
+                    "title": "Chapter 46", 
+                    "heTitle": "סדר ברכת שופר", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 46", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סדר ברכת שופר", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 47", 
+                    "title": "Chapter 47", 
+                    "heTitle": "סוד ג' ספרים נפתחים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 47", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד ג' ספרים נפתחים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 48", 
+                    "title": "Chapter 48", 
+                    "heTitle": "סוד סוכה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 48", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד סוכה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 49", 
+                    "title": "Chapter 49", 
+                    "heTitle": "סוד דיני הלולב ומיניו", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 49", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד דיני הלולב ומיניו", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 50", 
+                    "title": "Chapter 50", 
+                    "heTitle": "סוד ההקפות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 50", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד ההקפות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 51", 
+                    "title": "Chapter 51", 
+                    "heTitle": "סוד מחצית השקל", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 51", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מחצית השקל", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 52", 
+                    "title": "Chapter 52", 
+                    "heTitle": "סוד קידוש החודש", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 52", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד קידוש החודש", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 53", 
+                    "title": "Chapter 53", 
+                    "heTitle": "סוד חישוב התקופות וציור הפעולות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 53", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד חישוב התקופות וציור הפעולות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 54", 
+                    "title": "Chapter 54", 
+                    "heTitle": "סוד של שם מ\"ב אותיות:", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 54", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד של שם מ\"ב אותיות:", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 55", 
+                    "title": "Chapter 55", 
+                    "heTitle": "סוד חשבון תקופות ומזלות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 55", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד חשבון תקופות ומזלות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 56", 
+                    "title": "Chapter 56", 
+                    "heTitle": "סוד קידושין וכוונותיה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 56", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד קידושין וכוונותיה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 57", 
+                    "title": "Chapter 57", 
+                    "heTitle": "סוד ועונש גלגול על העריות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 57", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד ועונש גלגול על העריות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 58", 
+                    "title": "Chapter 58", 
+                    "heTitle": "סוד קידושין", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 58", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד קידושין", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 59", 
+                    "title": "Chapter 59", 
+                    "heTitle": "סוד שבע ברכות וברכת אירוסין", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 59", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד שבע ברכות וברכת אירוסין", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 60", 
+                    "title": "Chapter 60", 
+                    "heTitle": "סוד כתובה וביאה וברכת בתולים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 60", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד כתובה וביאה וברכת בתולים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 61", 
+                    "title": "Chapter 61", 
+                    "heTitle": "סוד י' דברים שחייב הבעל לאשה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 61", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד י' דברים שחייב הבעל לאשה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 62", 
+                    "title": "Chapter 62", 
+                    "heTitle": "דין כתובות בנין דכרין ועישור נכסים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 62", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דין כתובות בנין דכרין ועישור נכסים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 63", 
+                    "title": "Chapter 63", 
+                    "heTitle": "דין וסוד עוברת על דת משה ויהודית וא\"א מזנה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 63", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דין וסוד עוברת על דת משה ויהודית וא\"א מזנה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 64", 
+                    "title": "Chapter 64", 
+                    "heTitle": "דין איסור רקודים עם הנשים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 64", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דין איסור רקודים עם הנשים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 65", 
+                    "title": "Chapter 65", 
+                    "heTitle": "דיני נדרים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 65", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דיני נדרים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 66", 
+                    "title": "Chapter 66", 
+                    "heTitle": "ענין מומין ונדרים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 66", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ענין מומין ונדרים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 67", 
+                    "title": "Chapter 67", 
+                    "heTitle": "דין אשה שאין לה וסת", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 67", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דין אשה שאין לה וסת", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 68", 
+                    "title": "Chapter 68", 
+                    "heTitle": "סוד מצות פרו ורבו", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 68", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מצות פרו ורבו", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 69", 
+                    "title": "Chapter 69", 
+                    "heTitle": "סוד מצות גיטין", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 69", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מצות גיטין", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 70", 
+                    "title": "Chapter 70", 
+                    "heTitle": "סוד דיקדוק וכתיבת הגט", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 70", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד דיקדוק וכתיבת הגט", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 71", 
+                    "title": "Chapter 71", 
+                    "heTitle": "נוסח הגט", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 71", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "נוסח הגט", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 72", 
+                    "title": "Chapter 72", 
+                    "heTitle": "סוד מיאון הקטנה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 72", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מיאון הקטנה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 73", 
+                    "title": "Chapter 73", 
+                    "heTitle": "ענין סימנים ובדיקת איילונית וסריס", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 73", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ענין סימנים ובדיקת איילונית וסריס", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 74", 
+                    "title": "Chapter 74", 
+                    "heTitle": "טעם וסוד הבחנה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 74", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "טעם וסוד הבחנה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 75", 
+                    "title": "Chapter 75", 
+                    "heTitle": "דין עדות להתיר אשת איש", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 75", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דין עדות להתיר אשת איש", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 76", 
+                    "title": "Chapter 76", 
+                    "heTitle": "סוד מים שאין להם סוף", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 76", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מים שאין להם סוף", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 77", 
+                    "title": "Chapter 77", 
+                    "heTitle": "ענין יבום וסודותיו", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 77", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ענין יבום וסודותיו", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 78", 
+                    "title": "Chapter 78", 
+                    "heTitle": "סודות נפלאים במצות יבום", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 78", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סודות נפלאים במצות יבום", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 79", 
+                    "title": "Chapter 79", 
+                    "heTitle": "סוד יבום ומאמר", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 79", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד יבום ומאמר", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 80", 
+                    "title": "Chapter 80", 
+                    "heTitle": "סוד איסור יבום בעריות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 80", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד איסור יבום בעריות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 81", 
+                    "title": "Chapter 81", 
+                    "heTitle": "סוד חליצה וכוונותיה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 81", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד חליצה וכוונותיה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 82", 
+                    "title": "Chapter 82", 
+                    "heTitle": "וסדר החליצה כך הוא", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 82", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "וסדר החליצה כך הוא", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 83", 
+                    "title": "Chapter 83", 
+                    "heTitle": "סוד המפותה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 83", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד המפותה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 84", 
+                    "title": "Chapter 84", 
+                    "heTitle": "סוד קנס האונס והמפותה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 84", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד קנס האונס והמפותה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 85", 
+                    "title": "Chapter 85", 
+                    "heTitle": "סוד סוטה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 85", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד סוטה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 86", 
+                    "title": "Chapter 86", 
+                    "heTitle": "סדר הסוטה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 86", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סדר הסוטה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 87", 
+                    "title": "Chapter 87", 
+                    "heTitle": "סוד בתולה לכהן גדול", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 87", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד בתולה לכהן גדול", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 88", 
+                    "title": "Chapter 88", 
+                    "heTitle": "סוד טומאת כהן הדיוט לשארו ולקרוביו", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 88", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד טומאת כהן הדיוט לשארו ולקרוביו", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 89", 
+                    "title": "Chapter 89", 
+                    "heTitle": "סוד בהמות טהורות וטמאות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 89", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד בהמות טהורות וטמאות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 90", 
+                    "title": "Chapter 90", 
+                    "heTitle": "סימני עופות טהורות וטמאות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 90", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סימני עופות טהורות וטמאות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 91", 
+                    "title": "Chapter 91", 
+                    "heTitle": "דיני וסוד חגבים ודגים טהורות וטמאות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 91", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דיני וסוד חגבים ודגים טהורות וטמאות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 92", 
+                    "title": "Chapter 92", 
+                    "heTitle": "סוד טהרות וטמאות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 92", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד טהרות וטמאות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 93", 
+                    "title": "Chapter 93", 
+                    "heTitle": "סוד מי מותר באכילת בשר", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 93", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מי מותר באכילת בשר", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 94", 
+                    "title": "Chapter 94", 
+                    "heTitle": "סוד השחיטה חיות ובהמות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 94", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד השחיטה חיות ובהמות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 95", 
+                    "title": "Chapter 95", 
+                    "heTitle": "סוד דגים באסיפה בעלמא", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 95", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד דגים באסיפה בעלמא", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 96", 
+                    "title": "Chapter 96", 
+                    "heTitle": "סוד מי הם האנשים הראויים לשחיטה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 96", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מי הם האנשים הראויים לשחיטה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 97", 
+                    "title": "Chapter 97", 
+                    "heTitle": "סוד הסכין הראוי לשחיטה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 97", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד הסכין הראוי לשחיטה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 98", 
+                    "title": "Chapter 98", 
+                    "heTitle": "סוד מקום השחיטה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 98", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד מקום השחיטה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 99", 
+                    "title": "Chapter 99", 
+                    "heTitle": "סוד שחיטת שני הסימנים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 99", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד שחיטת שני הסימנים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 100", 
+                    "title": "Chapter 100", 
+                    "heTitle": "סוד ה' דברים הפוסלים בשחיטה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 100", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד ה' דברים הפוסלים בשחיטה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 101", 
+                    "title": "Chapter 101", 
+                    "heTitle": "סוד הלכות טריפות", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 101", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד הלכות טריפות", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 102", 
+                    "title": "Chapter 102", 
+                    "heTitle": "מוסר למורי הוראות ושוחטים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 102", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מוסר למורי הוראות ושוחטים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 103", 
+                    "title": "Chapter 103", 
+                    "heTitle": "סוד כסוי הדם", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 103", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד כסוי הדם", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 104", 
+                    "title": "Chapter 104", 
+                    "heTitle": "סוד שלוח הקן", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 104", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד שלוח הקן", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 105", 
+                    "title": "Chapter 105", 
+                    "heTitle": "מוסר גדול משילוח הקן להתאבל על גלות השכינה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 105", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מוסר גדול משילוח הקן להתאבל על גלות השכינה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 106", 
+                    "title": "Chapter 106", 
+                    "heTitle": "סוד נזקי קרן ונזקי שן ורגל", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 106", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד נזקי קרן ונזקי שן ורגל", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 107", 
+                    "title": "Chapter 107", 
+                    "heTitle": "סוד להלכות נזיקין", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 107", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד להלכות נזיקין", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 108", 
+                    "title": "Chapter 108", 
+                    "heTitle": "דינים יקרים בדיני שמים נאים וטובים", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 108", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דינים יקרים בדיני שמים נאים וטובים", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 109", 
+                    "title": "Chapter 109", 
+                    "heTitle": "סוד גדול בגלגול ובקבוע", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 109", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד גדול בגלגול ובקבוע", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 110", 
+                    "title": "Chapter 110", 
+                    "heTitle": "סוד דיני תרומה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 110", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "סוד דיני תרומה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 111", 
+                    "title": "Chapter 111", 
+                    "heTitle": "שקליה וטרייה בדיני תרומה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 111", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "שקליה וטרייה בדיני תרומה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }, 
+                {
+                    "wholeRef": "Sefer HaKana 112", 
+                    "title": "Chapter 112", 
+                    "heTitle": "דיני חמץ בפסח ומצה", 
+                    "depth": 0, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 112", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "דיני חמץ בפסח ומצה", 
+                            "primary": true
+                        }
+                    ], 
+                    "nodeType": "ArrayMapNode"
+                }
+            ], 
+            "titles": [
+                {
+                    "lang": "he", 
+                    "text": "ספר הקנה", 
+                    "primary": true
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sefer HaQana"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sefer HaQanah"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sefer Hakana"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sefer HaKanah"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Sefer HaKana", 
+                    "primary": true
+                }
+            ], 
+            "heTitle": "ספר הקנה", 
+            "title": "Sefer HaKana"
+        }
+    }, 
+    "categories": [
+        "Kabbalah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Sefer HaKana", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "ספר הקנה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "ספר הקנה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Sefer HaQana"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Sefer HaQanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Sefer Hakana"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Sefer HaKanah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Sefer HaKana", 
+                "primary": true
+            }
+        ], 
+        "key": "Sefer HaKana", 
+        "heSectionNames": [
+            "פרק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Comment"
+        ]
+    }
+}

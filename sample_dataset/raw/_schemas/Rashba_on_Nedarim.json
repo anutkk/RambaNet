@@ -1,0 +1,91 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Nedarim", 
+            "he": "נדרים"
+        }
+    ], 
+    "compPlace": "Barcelona, Spain", 
+    "heTitleVariants": [
+        "רשב״א על נדרים"
+    ], 
+    "heTitle": "רשב״א על נדרים", 
+    "errorMargin": "20", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רשב\"א", 
+        "סדר נשים"
+    ], 
+    "title": "Rashba on Nedarim", 
+    "compDate": "1290", 
+    "compDateString": {
+        "en": " (c.1270  - c.1310 CE)", 
+        "he": " (1270 - 1310 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Barcelona, Spain", 
+        "he": "ברצלונה, ספרד"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashba on Nedarim", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "רשב״א על נדרים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "רשב״א על נדרים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashba on Nedarim", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashba on Nedarim", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "Commentary on the Talmud written by the Rashba, Rabbi Shlomo ben Avraham ibn Aderet (1235–1310). Rashba was a student of Ramban and follows his methodology. Rashba’s commentary is characterized by the depth of analysis and his search for the pshat (contextual meaning) of the text. Rashba’s commentary includes definitive legal rulings. ", 
+    "authors": [
+        {
+            "en": "Rashba", 
+            "he": "רשב\"א"
+        }
+    ], 
+    "titleVariants": [
+        "Rashba on Nedarim"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashba", 
+        "Seder Nashim"
+    ], 
+    "collective_title": {
+        "en": "Rashba", 
+        "he": "רשב\"א"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 2, 
+    "era": "RI", 
+    "base_text_mapping": null
+}

@@ -1,0 +1,78 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "Deuteronomy", 
+            "he": "ספר דברים"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "הרחב דבר", 
+        "תורה"
+    ], 
+    "title": "Harchev Davar on Deuteronomy", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Harchev Davar", 
+        "he": "הרחב דבר"
+    }, 
+    "enDesc": "Harchev Davar are the footnotes that the Netziv wrote to his commentary, Haamek Davar.", 
+    "dependence": "Commentary", 
+    "heTitleVariants": [
+        "הרחב דבר על דברים"
+    ], 
+    "heTitle": "הרחב דבר על דברים", 
+    "authors": [
+        {
+            "en": "Naphtali Zevi Yehudah Berlin", 
+            "he": "נפתלי צבי יהודה ברלין"
+        }
+    ], 
+    "titleVariants": [
+        "Harchev Davar on Deuteronomy"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Passuk"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Harchev Davar", 
+        "Torah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Harchev Davar on Deuteronomy", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "הרחב דבר על דברים", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "הרחב דבר על דברים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Harchev Davar on Deuteronomy", 
+                "primary": true
+            }
+        ], 
+        "key": "Harchev Davar on Deuteronomy", 
+        "heSectionNames": [
+            "פרק", 
+            ""
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Passuk"
+        ]
+    }
+}

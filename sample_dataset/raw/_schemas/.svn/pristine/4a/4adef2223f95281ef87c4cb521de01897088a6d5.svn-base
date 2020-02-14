@@ -1,0 +1,235 @@
+{
+    "heTitleVariants": [
+        "מנחת קנאות"
+    ], 
+    "heCategories": [
+        "מחשבת ישראל"
+    ], 
+    "pubDate": "1838", 
+    "title": "Minhat Kenaot", 
+    "compDate": "1304", 
+    "pubPlace": "Pressburg", 
+    "compPlace": "Montpellier", 
+    "enDesc": "A collection of correspondence related to the author's campaign against the study of philosophy, with a lengthy introduction concerning principles of faith. The book was published in 1838 in Pressburg, with an approbation from the leading authority at the time, R' Moshe Sofer (Chatam Sofer).", 
+    "compPlaceString": {
+        "en": "Montpellier", 
+        "he": "מונפלייה"
+    }, 
+    "compDateString": {
+        "en": " (1304 CE)", 
+        "he": " (1304 לספירה)"
+    }, 
+    "heDesc": "אוסף התכתבות בענין המלחמה שניהל המחבר נגד לימוד הפילוסופיה, עם הקדמה ארוכה המבאר עיקרי האמונה ויסודות התורה. הספר נדפס בפרשבורג ב-1838 עם הסכמה מה\"חתם סופר\". ", 
+    "heTitle": "מנחת קנאות", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Abba Mari ben Moses HaYarchi", 
+            "he": "אבא מארי ב\"ר משה מלוניל"
+        }
+    ], 
+    "titleVariants": [
+        "Minchat Kenaot", 
+        "Minhat Kenaot"
+    ], 
+    "categories": [
+        "Philosophy"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Title page", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "שער", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Title page", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "שער", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Title page", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Approbation", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "מכתב מליצה", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Approbation", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מכתב מליצה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Approbation", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Preface", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "הקדמה", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Preface", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "הקדמה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Preface", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Treatise", 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "הצעה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Treatise", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "הצעה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Treatise", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Correspondence", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "מכתבים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Correspondence", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מכתבים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Correspondence", 
+                "heSectionNames": [
+                    "אות", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Letter", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "A Defense of The Guide", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "מכתב על דבר המורה", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "he", 
+                        "text": "מכתב על דבר המורה", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "en", 
+                        "text": "A Defense of The Guide", 
+                        "primary": true
+                    }
+                ], 
+                "key": "A defense of The Guide", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מנחת קנאות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Minchat Kenaot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Minhat Kenaot", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "מנחת קנאות", 
+        "key": "Minhat Kenaot", 
+        "title": "Minhat Kenaot"
+    }
+}

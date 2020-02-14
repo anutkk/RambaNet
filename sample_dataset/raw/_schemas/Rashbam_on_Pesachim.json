@@ -1,0 +1,167 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Pesachim", 
+            "he": "פסחים"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "compPlace": "Middle-Age France", 
+    "heTitleVariants": [
+        "רשב\"ם על פסחים"
+    ], 
+    "heTitle": "רשב\"ם על פסחים", 
+    "errorMargin": "20", 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רשב\"ם", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1520", 
+    "title": "Rashbam on Pesachim", 
+    "compDate": "1140", 
+    "compDateString": {
+        "en": " (c.1120  - c.1160 CE)", 
+        "he": " (1120 - 1160 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashbam on Pesachim", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רשב\"ם על פסחים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Masekhet Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Talmud Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Tractate Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Pesahim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Masekhet Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Talmud Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Tractate Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Pesahim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Masekhet Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Talmud Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Tractate Pesachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Pesahim"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רשב\"ם על פסחים", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Pesachim", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashbam on Pesachim", 
+        "heSectionNames": [
+            "דף", 
+            "שורה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "A classic Talmud commentary written by Rashbam -  Rashi’s grandson and a major Tosafist. Rashbam’s commentary on Bava Batra and the last chapter of Pesachim are extant. ", 
+    "authors": [
+        {
+            "en": "Rashbam", 
+            "he": "רשב״ם"
+        }
+    ], 
+    "titleVariants": [
+        "Shumel ben Meir on Masekhet Pesachim", 
+        "Shumel ben Meir on Talmud Pesachim", 
+        "Shumel ben Meir on Tractate Pesachim", 
+        "Shumel ben Meir on Pesahim", 
+        "Shumel ben Meir on Pesachim", 
+        "Samuel ben Meir on Masekhet Pesachim", 
+        "Samuel ben Meir on Talmud Pesachim", 
+        "Samuel ben Meir on Tractate Pesachim", 
+        "Samuel ben Meir on Pesahim", 
+        "Samuel ben Meir on Pesachim", 
+        "Rashbam on Masekhet Pesachim", 
+        "Rashbam on Talmud Pesachim", 
+        "Rashbam on Tractate Pesachim", 
+        "Rashbam on Pesahim", 
+        "Rashbam on Pesachim"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashbam", 
+        "Seder Moed"
+    ], 
+    "collective_title": {
+        "en": "Rashbam", 
+        "he": "רשב\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

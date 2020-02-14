@@ -1,0 +1,94 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Parah", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Parah (Cow) belongs to the sixth order, Tahorot (Purities) and discusses the laws of the Red Heifer (Para Adumah). It has twelve chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא פרה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא פרה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Parah", 
+        "T. Parah", 
+        "Tosef. Par.", 
+        "Tosefta Parah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        6
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            12
+        ], 
+        "title": "Tosefta Parah", 
+        "heTitle": "תוספתא פרה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Parah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Parah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא פרה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Par."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Parah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Parah", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

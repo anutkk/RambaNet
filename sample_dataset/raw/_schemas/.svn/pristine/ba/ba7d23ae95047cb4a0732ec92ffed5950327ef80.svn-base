@@ -1,0 +1,99 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Pirkei Avot", 
+            "he": "פרקי אבות"
+        }
+    ], 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "רבינו יונה", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1848", 
+    "title": "Rabbeinu Yonah on Pirkei Avot", 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "compDate": "1230", 
+    "pubPlace": "Berlin", 
+    "collective_title": {
+        "en": "Rabbeinu Yonah", 
+        "he": "רבינו יונה"
+    }, 
+    "heTitleVariants": [
+        "רבינו יונה על פרקי אבות", 
+        "רבנו יונה על אבות", 
+        "פירוש רבינו יונה על מסכת אבות"
+    ], 
+    "dependence": "Commentary", 
+    "compDateString": {
+        "en": " (c.1200  - c.1260 CE)", 
+        "he": " (1200 - 1260 לספירה בקירוב)"
+    }, 
+    "base_text_mapping": null, 
+    "heTitle": "רבינו יונה על פרקי אבות", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rabbeinu Yonah of Gerondi", 
+            "he": "רבינו יונה"
+        }
+    ], 
+    "titleVariants": [
+        "Rabbeinu Yonah on Pirkei Avot"
+    ], 
+    "errorMargin": "30", 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Rabbeinu Yonah", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rabbeinu Yonah on Pirkei Avot", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "רבינו יונה על פרקי אבות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "רבינו יונה על פרקי אבות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רבנו יונה על אבות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "פירוש רבינו יונה על מסכת אבות"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rabbeinu Yonah on Pirkei Avot", 
+                "primary": true
+            }
+        ], 
+        "key": "Rabbeinu Yonah on Pirkei Avot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Moed Kattan", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Moed Qatan (Little Festival) belongs to the second order, Moed (Festivals) and discusses Hol Hamoed, the intermediate festival days of Pesach and Sukkot and the laws of mourning. It has two chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא מועד קטן"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא מועד קטן", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tosefta Mo'ed Kattan", 
+        "T. Moed Katan", 
+        "T. Moed Kattan", 
+        "Tosefta Moed Katan", 
+        "Tos. Moed Kattan", 
+        "Tos. Moed Katan", 
+        "Tosef. M. Kat.", 
+        "Tosefta Moed Kattan"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        11
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            2
+        ], 
+        "title": "Tosefta Moed Kattan", 
+        "heTitle": "תוספתא מועד קטן", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tosefta Mo'ed Kattan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Moed Katan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Moed Kattan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Moed Katan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Moed Kattan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Moed Katan"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא מועד קטן", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. M. Kat."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Moed Kattan", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Moed Kattan", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

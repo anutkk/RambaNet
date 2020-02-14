@@ -1,0 +1,109 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Berakhot", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Berakhot (Blessings) belongs to the first order, Zera'im (seeds) and discusses the rules of blessings and prayers, particularly the Shema and the Amidah. It consists of six chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא ברכות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא ברכות", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "Tos. Berakhot", 
+        "Tosefta Berachot", 
+        "T. Berakhot", 
+        "Tosefta Brachot", 
+        "Tos. Berachot", 
+        "Tosef. Ber.", 
+        "Tosefta Berakhot"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        1
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            7
+        ], 
+        "title": "Tosefta Berakhot", 
+        "heTitle": "תוספתא ברכות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tos. Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Berachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Berakhot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Brachot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Berachot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא ברכות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Ber."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Berakhot", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Berakhot", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

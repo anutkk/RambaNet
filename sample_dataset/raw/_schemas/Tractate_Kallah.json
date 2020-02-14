@@ -1,0 +1,65 @@
+{
+    "is_cited": true, 
+    "heCategories": [
+        "ספרות תנאית", 
+        "מסכתות קטנות"
+    ], 
+    "title": "Tractate Kallah", 
+    "heTitleVariants": [
+        "מסכת כלה"
+    ], 
+    "depth": 2, 
+    "heTitle": "מסכת כלה", 
+    "titleVariants": [
+        "Kallah", 
+        "Treat. Kallah", 
+        "Tractate Kallah"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Tractate Kallah", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "heTitle": "מסכת כלה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Kallah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Treat. Kallah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מסכת כלה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tractate Kallah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tractate Kallah", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

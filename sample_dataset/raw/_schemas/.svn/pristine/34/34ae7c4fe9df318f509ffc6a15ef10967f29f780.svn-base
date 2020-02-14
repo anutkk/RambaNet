@@ -1,0 +1,73 @@
+{
+    "heTitleVariants": [
+        "קסת הסופר"
+    ], 
+    "heCategories": [
+        "הלכה"
+    ], 
+    "pubDate": "1835", 
+    "title": "Keset HaSofer", 
+    "compDate": "1835", 
+    "pubPlace": "Ungvar", 
+    "compPlace": "Brezovica, Slovenia", 
+    "enDesc": "A compendium of the laws of scribal writing, by the author of \"Kitzur Shulchan Arukh\".", 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (1835 CE)", 
+        "he": " (1835 לספירה)"
+    }, 
+    "compPlaceString": {
+        "en": "Brezovica, Slovenia", 
+        "he": "ברזובקה, סלובניה"
+    }, 
+    "heDesc": "הלכות ספרות (כתיבת ספר תורה, תפלין ומזוזות) מבעל ה\"קיצור שלחן ערוך\".", 
+    "heTitle": "קסת הסופר", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Shlomo Ganzfried", 
+            "he": "רבי שלמה בן יוסף גאנצפריד"
+        }
+    ], 
+    "titleVariants": [
+        "Keset HaSofer"
+    ], 
+    "sectionNames": [
+        "Siman", 
+        "Seif"
+    ], 
+    "categories": [
+        "Halakhah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Keset HaSofer", 
+        "addressTypes": [
+            "Siman", 
+            "Seif"
+        ], 
+        "heTitle": "קסת הסופר", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "קסת הסופר", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Keset HaSofer", 
+                "primary": true
+            }
+        ], 
+        "key": "Keset HaSofer", 
+        "heSectionNames": [
+            "סימן", 
+            "סעיף"
+        ], 
+        "sectionNames": [
+            "Siman", 
+            "Seif"
+        ]
+    }
+}

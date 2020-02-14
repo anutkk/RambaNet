@@ -1,0 +1,80 @@
+{
+    "depth": 3, 
+    "base_text_titles": [
+        {
+            "en": "Pirkei Avot", 
+            "he": "פרקי אבות"
+        }
+    ], 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "גר\"א", 
+        "סדר נזיקין"
+    ], 
+    "title": "Gra on Pirkei Avot", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Gra", 
+        "he": "גר\"א"
+    }, 
+    "heTitleVariants": [
+        "גר\"א על פרקי אבות"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "גר\"א על פרקי אבות", 
+    "authors": [
+        {
+            "en": "Vilna Gaon", 
+            "he": "אליהו בן שלומו זלמן מווילנה"
+        }
+    ], 
+    "titleVariants": [
+        "Gra on Pirkei Avot"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Comment"
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Gra", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Gra on Pirkei Avot", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "heTitle": "גר\"א על פרקי אבות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "גר\"א על פרקי אבות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gra on Pirkei Avot", 
+                "primary": true
+            }
+        ], 
+        "key": "Gra on Pirkei Avot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Comment"
+        ]
+    }
+}

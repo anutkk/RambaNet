@@ -1,0 +1,65 @@
+{
+    "is_cited": true, 
+    "heCategories": [
+        "ספרות תנאית", 
+        "מסכתות קטנות"
+    ], 
+    "title": "Tractate Tzitzit", 
+    "heTitleVariants": [
+        "מסכת ציצית"
+    ], 
+    "depth": 2, 
+    "heTitle": "מסכת ציצית", 
+    "titleVariants": [
+        "Tsits.", 
+        "Tsitsith", 
+        "Tractate Tzitzit"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Minor Tractates"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Tractate Tzitzit", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "heTitle": "מסכת ציצית", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "מסכת ציצית", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tsits."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tsitsith"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tractate Tzitzit", 
+                "primary": true
+            }
+        ], 
+        "key": "Tractate Tzitzit", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

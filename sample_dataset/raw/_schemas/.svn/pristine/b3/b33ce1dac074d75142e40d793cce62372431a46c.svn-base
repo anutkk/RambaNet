@@ -1,0 +1,105 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Daf", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "ירושלמי", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1523", 
+    "title": "Jerusalem Talmud Kiddushin", 
+    "compDate": "400", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Kiddushin (Documents) belongs to the third order, Nashim (Women) and discusses the initial stage of marriage – betrothal, as well as the laws of Jewish lineages. It has four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תלמוד ירושלמי קידושין", 
+        "ירושלמי קידושין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)", 
+        "he": " (375 - 425 לספירה בקירוב)"
+    }, 
+    "heTitle": "תלמוד ירושלמי קידושין", 
+    "era": "A", 
+    "authors": [], 
+    "titleVariants": [
+        "Yerushalmi Kiddushin", 
+        "Talmud Yerushalmi Kiddushin", 
+        "JT Kiddushin", 
+        "Y. Kidd.", 
+        "Jerusalem Talmud Kiddushin"
+    ], 
+    "errorMargin": "25", 
+    "order": [
+        30
+    ], 
+    "categories": [
+        "Talmud", 
+        "Yerushalmi", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            96, 
+            175
+        ], 
+        "title": "Jerusalem Talmud Kiddushin", 
+        "heTitle": "תלמוד ירושלמי קידושין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Talmud Yerushalmi Kiddushin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Kiddushin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תלמוד ירושלמי קידושין", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ירושלמי קידושין"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Y. Kidd."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Jerusalem Talmud Kiddushin", 
+                "primary": true
+            }
+        ], 
+        "key": "Jerusalem Talmud Kiddushin", 
+        "heSectionNames": [
+            "דף", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Halakhah"
+        ]
+    }
+}

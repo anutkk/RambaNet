@@ -1,0 +1,106 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Song of Songs", 
+            "he": "שיר השירים"
+        }
+    ], 
+    "pubPlace": "Venice", 
+    "heTitleVariants": [
+        "שושנת העמקים על שיר השירים", 
+        "אלשיך על שיר השירים"
+    ], 
+    "heTitle": "שושנת העמקים על שיר השירים", 
+    "errorMargin": "25", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "אלשיך", 
+        "כתובים"
+    ], 
+    "pubDate": "1591", 
+    "title": "Shoshanat HaAmakim on Song of Songs", 
+    "compDate": "1567", 
+    "compDateString": {
+        "en": " (c.1542  - c.1592 CE)", 
+        "he": " (1542 - 1592 לספירה בקירוב)"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "title": "Shoshanat HaAmakim on Song of Songs", 
+        "heTitle": "שושנת העמקים על שיר השירים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Alshich on Song of Songs"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shoshanat haAmakim on Song of Songs"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שושנת העמקים על שיר השירים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "אלשיך על שיר השירים"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shoshanat HaAmakim on Song of Songs", 
+                "primary": true
+            }
+        ], 
+        "key": "Shoshanat HaAmakim on Song of Songs", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ], 
+        "toc_zoom": 2
+    }, 
+    "enDesc": "Commentary of R' Moshe Alshikh on Solomon's Song of Songs, based on his lectures. It was the first to appear in print, and was edited by Alshikh himself in 1591.  Like many other commentators, he understands the Song to be an allegory which represents a dialogue between God and the exiled nation of Israel.", 
+    "heDesc": "ביאורו של ר' משה אלשיך למגילת שיר השירים, מבוסס על דרשותיו. הספר הוא הראשון לראות אור הדפוס ונערך על ידי האלשיך עצמו ב-1591. ", 
+    "authors": [
+        {
+            "en": "Alshikh", 
+            "he": "אלשיך"
+        }
+    ], 
+    "titleVariants": [
+        "Alshich on Song of Songs", 
+        "Shoshanat haAmakim on Song of Songs", 
+        "Shoshanat HaAmakim on Song of Songs"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Alshich", 
+        "Writings"
+    ], 
+    "collective_title": {
+        "en": "Alshich", 
+        "he": "אלשיך"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH"
+}

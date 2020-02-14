@@ -1,0 +1,375 @@
+{
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Babylon", 
+    "enDesc": "Moed Qatan (Little Festival) belongs to the second order, Moed (Festivals) and discusses Hol Hamoed, the intermediate festival days of Pesach and Sukkot and the laws of mourning. It has three chapters.", 
+    "heTitle": "מועד קטן", 
+    "errorMargin": "50", 
+    "is_cited": true, 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1523", 
+    "title": "Moed Katan", 
+    "compDate": "500", 
+    "compDateString": {
+        "en": " (c.450  - c.550 CE)", 
+        "he": " (450 - 550 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Talmudic Babylon", 
+        "he": "בבל התלמודית"
+    }, 
+    "sectionNames": [
+        "Daf", 
+        "Line"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "lengths": [
+            55, 
+            3322
+        ], 
+        "title": "Moed Katan", 
+        "heTitle": "מועד קטן", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Masekhet Moed Katan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tractate Moed Katan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Talmud Moed Katan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mo'ed Katan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Talmud Mo'ed Katan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Masekhet Mo'ed Katan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tractate Mo'ed Katan"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Kat."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Moʿed Ḳaṭon"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M.K."
+            }, 
+            {
+                "lang": "he", 
+                "text": "מועד קטן", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "מ\"ק"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מו״ק"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מ״ק"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מו\"ק"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Moed Katan", 
+                "primary": true
+            }
+        ], 
+        "key": "Moed Katan", 
+        "checkFirst": {
+            "en": "Mishnah Moed Katan", 
+            "he": "משנה מועד קטן"
+        }, 
+        "heSectionNames": [
+            "דף", 
+            "שורה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Line"
+        ]
+    }, 
+    "heTitleVariants": [
+        "מועד קטן", 
+        "מ\"ק", 
+        "מו״ק", 
+        "מ״ק", 
+        "מו\"ק"
+    ], 
+    "authors": [], 
+    "titleVariants": [
+        "Masekhet Moed Katan", 
+        "Tractate Moed Katan", 
+        "Talmud Moed Katan", 
+        "Mo'ed Katan", 
+        "Talmud Mo'ed Katan", 
+        "Masekhet Mo'ed Katan", 
+        "Tractate Mo'ed Katan", 
+        "M. Kat.", 
+        "Moʿed Ḳaṭon", 
+        "M.K.", 
+        "Moed Katan"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Seder Moed"
+    ], 
+    "depth": 2, 
+    "era": "A", 
+    "default_struct": "Chapters", 
+    "alts": {
+        "Chapters": {
+            "nodes": [
+                {
+                    "wholeRef": "Moed Katan 2a:1-11a:21", 
+                    "title": "Chapter 1", 
+                    "refs": [
+                        "Moed Katan 2a:1-15", 
+                        "Moed Katan 2b", 
+                        "Moed Katan 3a", 
+                        "Moed Katan 3b", 
+                        "Moed Katan 4a", 
+                        "Moed Katan 4b", 
+                        "Moed Katan 5a", 
+                        "Moed Katan 5b", 
+                        "Moed Katan 6a", 
+                        "Moed Katan 6b", 
+                        "Moed Katan 7a", 
+                        "Moed Katan 7b", 
+                        "Moed Katan 8a", 
+                        "Moed Katan 8b", 
+                        "Moed Katan 9a", 
+                        "Moed Katan 9b", 
+                        "Moed Katan 10a", 
+                        "Moed Katan 10b", 
+                        "Moed Katan 11a:1-21"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "משקין בית השלחין", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 1", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "משקין בית השלחין", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 2, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Moed Katan 11b:1-13b:14", 
+                    "title": "Chapter 2", 
+                    "refs": [
+                        "Moed Katan 11b:1-13", 
+                        "Moed Katan 12a", 
+                        "Moed Katan 12b", 
+                        "Moed Katan 13a", 
+                        "Moed Katan 13b:1-14"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "מי שהפך", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 2", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "מי שהפך", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 21, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }, 
+                {
+                    "wholeRef": "Moed Katan 13b:15-29a:7", 
+                    "title": "Chapter 3", 
+                    "refs": [
+                        "Moed Katan 13b:15-16", 
+                        "Moed Katan 14a", 
+                        "Moed Katan 14b", 
+                        "Moed Katan 15a", 
+                        "Moed Katan 15b", 
+                        "Moed Katan 16a", 
+                        "Moed Katan 16b", 
+                        "Moed Katan 17a", 
+                        "Moed Katan 17b", 
+                        "Moed Katan 18a", 
+                        "Moed Katan 18b", 
+                        "Moed Katan 19a", 
+                        "Moed Katan 19b", 
+                        "Moed Katan 20a", 
+                        "Moed Katan 20b", 
+                        "Moed Katan 21a", 
+                        "Moed Katan 21b", 
+                        "Moed Katan 22a", 
+                        "Moed Katan 22b", 
+                        "Moed Katan 23a", 
+                        "Moed Katan 23b", 
+                        "Moed Katan 24a", 
+                        "Moed Katan 24b", 
+                        "Moed Katan 25a", 
+                        "Moed Katan 25b", 
+                        "Moed Katan 26a", 
+                        "Moed Katan 26b", 
+                        "Moed Katan 27a", 
+                        "Moed Katan 27b", 
+                        "Moed Katan 28a", 
+                        "Moed Katan 28b", 
+                        "Moed Katan 29a:1-7"
+                    ], 
+                    "addressTypes": [
+                        "Talmud"
+                    ], 
+                    "heTitle": "ואלו מגלחין", 
+                    "depth": 1, 
+                    "titles": [
+                        {
+                            "lang": "en", 
+                            "text": "Chapter 3", 
+                            "primary": true
+                        }, 
+                        {
+                            "lang": "he", 
+                            "text": "ואלו מגלחין", 
+                            "primary": true
+                        }
+                    ], 
+                    "offset": 25, 
+                    "nodeType": "ArrayMapNode", 
+                    "sectionNames": [
+                        "Daf"
+                    ], 
+                    "includeSections": true
+                }
+            ], 
+            "titles": [
+                {
+                    "lang": "en", 
+                    "text": "Masekhet Moed Katan"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Tractate Moed Katan"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Talmud Moed Katan"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Mo'ed Katan"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Talmud Mo'ed Katan"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Masekhet Mo'ed Katan"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Tractate Mo'ed Katan"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "M. Kat."
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Moʿed Ḳaṭon"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "M.K."
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "מועד קטן", 
+                    "primary": true
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "מ\"ק"
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "מו״ק"
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "מ״ק"
+                }, 
+                {
+                    "lang": "he", 
+                    "text": "מו\"ק"
+                }, 
+                {
+                    "lang": "en", 
+                    "text": "Moed Katan", 
+                    "primary": true
+                }
+            ], 
+            "heTitle": "מועד קטן", 
+            "title": "Moed Katan"
+        }
+    }, 
+    "order": [
+        11, 
+        10
+    ]
+}

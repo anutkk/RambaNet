@@ -1,0 +1,83 @@
+{
+    "depth": 3, 
+    "heTitleVariants": [
+        "ר\"ש משאנץ על משנה תרומות"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Mishnah Terumot", 
+            "he": "משנה תרומות"
+        }
+    ], 
+    "heCategories": [
+        "משנה", 
+        "מפרשים", 
+        "ר\"ש משאנץ"
+    ], 
+    "title": "Rash MiShantz on Mishnah Terumot", 
+    "compDate": "1200", 
+    "enDesc": "Commentary on the Mishnah written by Rabbi Samson ben Abraham of Sens (Rash). The Rash (c. 1150 – c. 1230) was a prominent French Tosafist.", 
+    "dependence": "Commentary", 
+    "compDateString": {
+        "en": " (c.1180  - c.1220 CE)", 
+        "he": " (1180 - 1220 לספירה בקירוב)"
+    }, 
+    "base_text_mapping": "many_to_one", 
+    "heDesc": "פירושו של אחד מגדולי בעלי התוספות, רבינו שמשון משאנץ (הר\"ש), על משניות סדרי זרעים וטהרות שאין עליהן גמרא.", 
+    "heTitle": "ר\"ש משאנץ על משנה תרומות", 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah", 
+        "Paragraph"
+    ], 
+    "authors": [
+        {
+            "en": "Samson ben Abraham of Sens", 
+            "he": "שמשון בן אברהם משאנץ"
+        }
+    ], 
+    "titleVariants": [
+        "Rash MiShantz on Mishnah Terumot"
+    ], 
+    "errorMargin": "20", 
+    "categories": [
+        "Mishnah", 
+        "Commentary", 
+        "Rash MiShantz"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah", 
+            "Integer"
+        ], 
+        "title": "Rash MiShantz on Mishnah Terumot", 
+        "heTitle": "ר\"ש משאנץ על משנה תרומות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "ר\"ש משאנץ על משנה תרומות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rash MiShantz on Mishnah Terumot", 
+                "primary": true
+            }
+        ], 
+        "key": "Rash MiShantz on Mishnah Terumot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah", 
+            "Paragraph"
+        ], 
+        "toc_zoom": 2
+    }
+}

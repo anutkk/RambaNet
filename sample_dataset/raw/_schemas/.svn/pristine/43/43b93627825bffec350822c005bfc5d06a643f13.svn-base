@@ -1,0 +1,130 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Deuteronomy", 
+            "he": "ספר דברים"
+        }
+    ], 
+    "pubPlace": "Istanbul", 
+    "compPlace": "Toledo, Spain", 
+    "enDesc": "Abridgement of the Torah commentary written by Jacob ben Asher, Ba’al HaTurim. The author was a halakhic scholar and biblical commentator in Medieval Spain. ", 
+    "heTitle": "קיצור בעל הטורים על דברים", 
+    "is_cited": true, 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "קיצור בעל הטורים", 
+        "תורה"
+    ], 
+    "pubDate": "1514", 
+    "title": "Kitzur Baal Haturim on Deuteronomy", 
+    "compDate": "1300", 
+    "compDateString": {
+        "en": " (1300 CE)", 
+        "he": " (1300 לספירה)"
+    }, 
+    "compPlaceString": {
+        "en": "Toledo, Spain", 
+        "he": "טולדו, ספרד"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Kitzur Baal Haturim on Deuteronomy", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "קיצור בעל הטורים על דברים", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Kitzur Baal Haturim on Deu."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kitzur Baal Haturim on Devarim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kitzur Baal Haturim on Deu"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kitzur Baal Haturim on Deut."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kitzur Baal Haturim on Deut"
+            }, 
+            {
+                "lang": "he", 
+                "text": "קיצור בעל הטורים על דברים", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "קיצור בעל הטורים על דברי'"
+            }, 
+            {
+                "lang": "he", 
+                "text": "קיצור בעל הטורים על דברי׳"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Kitzur Baal Haturim on Deuteronomy", 
+                "primary": true
+            }
+        ], 
+        "key": "Kitzur Baal Haturim on Deuteronomy", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "heTitleVariants": [
+        "קיצור בעל הטורים על דברים", 
+        "קיצור בעל הטורים על דברי'", 
+        "קיצור בעל הטורים על דברי׳"
+    ], 
+    "authors": [
+        {
+            "en": "Jacob ben Asher", 
+            "he": "יעקב בן אשר"
+        }
+    ], 
+    "titleVariants": [
+        "Kitzur Baal Haturim on Deu.", 
+        "Kitzur Baal Haturim on Devarim", 
+        "Kitzur Baal Haturim on Deu", 
+        "Kitzur Baal Haturim on Deut.", 
+        "Kitzur Baal Haturim on Deut", 
+        "Kitzur Baal Haturim on Deuteronomy"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Kitzur Baal Haturim", 
+        "Torah"
+    ], 
+    "collective_title": {
+        "en": "Kitzur Baal Haturim", 
+        "he": "קיצור בעל הטורים"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

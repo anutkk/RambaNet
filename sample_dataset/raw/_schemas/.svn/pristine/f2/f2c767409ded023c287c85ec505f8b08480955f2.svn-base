@@ -1,0 +1,115 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Daf", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "ירושלמי", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1523", 
+    "title": "Jerusalem Talmud Chagigah", 
+    "compDate": "400", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Hagggiah (Festival Offering) belongs to the second order, Moed (Festivals) and the Three Pilgrimage Festivals (Passover, Shavuot, Sukkot) and the pilgrimage offering that men were supposed to bring in Jerusalem. It has three chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תלמוד ירושלמי חגיגה", 
+        "ירושלמי חגיגה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)", 
+        "he": " (375 - 425 לספירה בקירוב)"
+    }, 
+    "heTitle": "תלמוד ירושלמי חגיגה", 
+    "era": "A", 
+    "authors": [], 
+    "titleVariants": [
+        "Yerushalmi Hagigah", 
+        "JT Chagigah", 
+        "Talmud Yerushalmi Chagigah", 
+        "Yerushalmi Chagigah", 
+        "JT Hagigah", 
+        "Y. Ḥag.", 
+        "Jerusalem Talmud Chagigah"
+    ], 
+    "errorMargin": "25", 
+    "order": [
+        22
+    ], 
+    "categories": [
+        "Talmud", 
+        "Yerushalmi", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            44, 
+            87
+        ], 
+        "title": "Jerusalem Talmud Chagigah", 
+        "heTitle": "תלמוד ירושלמי חגיגה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Hagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Chagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Talmud Yerushalmi Chagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Chagigah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Hagigah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תלמוד ירושלמי חגיגה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ירושלמי חגיגה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Y. Ḥag."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Jerusalem Talmud Chagigah", 
+                "primary": true
+            }
+        ], 
+        "key": "Jerusalem Talmud Chagigah", 
+        "heSectionNames": [
+            "דף", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Halakhah"
+        ]
+    }
+}

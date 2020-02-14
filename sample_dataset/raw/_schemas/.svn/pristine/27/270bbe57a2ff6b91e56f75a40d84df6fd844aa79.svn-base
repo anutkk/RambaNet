@@ -1,0 +1,94 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר זרעים"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Orlah", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Orlah (Blockage [of Trees]) belongs to the first order, Zera'im (seeds) and discusses the first-fruit gifts to the Kohanim and Temple, as stated in Exodus 23:19; Deuteronomy 26:1. It consists of three to one chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא ערלה"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא ערלה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "T. Orlah", 
+        "Tos. Orlah", 
+        "Tosef. Orl.", 
+        "Tosefta Orlah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        9
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Zeraim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            1
+        ], 
+        "title": "Tosefta Orlah", 
+        "heTitle": "תוספתא ערלה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "T. Orlah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Orlah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא ערלה", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Orl."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Orlah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Orlah", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

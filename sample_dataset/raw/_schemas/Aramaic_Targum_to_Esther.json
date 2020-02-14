@@ -1,0 +1,76 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "Esther", 
+            "he": "אסתר"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "תרגומים", 
+        "תרגום", 
+        "כתובים"
+    ], 
+    "title": "Aramaic Targum to Esther", 
+    "base_text_mapping": "one_to_one", 
+    "collective_title": {
+        "en": "Aramaic Targum", 
+        "he": "תרגום"
+    }, 
+    "heTitleVariants": [
+        "תרגום אסתר"
+    ], 
+    "dependence": "Targum", 
+    "heTitle": "תרגום אסתר", 
+    "titleVariants": [
+        "Targ. Esth.", 
+        "Aramaic Targum to Esther"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Targum", 
+        "Aramaic Targum", 
+        "Writings"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Aramaic Targum to Esther", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תרגום אסתר", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תרגום אסתר", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. Esth."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Aramaic Targum to Esther", 
+                "primary": true
+            }
+        ], 
+        "key": "Aramaic Targum to Esther", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

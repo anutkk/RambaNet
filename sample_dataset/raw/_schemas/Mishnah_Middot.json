@@ -1,0 +1,129 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר קדשים"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Middot", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Middot (Measurements) belongs to the fifth order, Kodshim (Holy things) and discusses the measurements of the second Temple. It has four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה מדות", 
+        "מדות", 
+        "מידות", 
+        "משנה מידות"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה מדות", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M Middot", 
+        "Mishna Middot", 
+        "M. Middot", 
+        "Midd.", 
+        "Middoth", 
+        "Mishnah Midd.", 
+        "Mishnah Middoth", 
+        "Mishnah Middot"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        50, 
+        10
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Kodashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            5, 
+            34
+        ], 
+        "title": "Mishnah Middot", 
+        "heTitle": "משנה מדות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M Middot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Middot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Middot"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה מדות", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "מדות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "מידות"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה מידות"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Midd."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Middoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Midd."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Middoth"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Middot", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Middot", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "", 
+    "title": "Tosefta Kelim Kamma", 
+    "compDate": "", 
+    "pubPlace": "", 
+    "compPlace": "", 
+    "enDesc": "", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא כלים קמא", 
+        "תוספתא כלים"
+    ], 
+    "heTitle": "תוספתא כלים קמא", 
+    "era": null, 
+    "authors": [], 
+    "titleVariants": [
+        "Tosefta Keilim", 
+        "T. Keilim Kama", 
+        "Tos. Keilim Kamma", 
+        "T. Keilim Kamma", 
+        "Tosefta Keilim Kama", 
+        "Tos. Keilim Kama", 
+        "Tosefta Keilim Kamma", 
+        "Tosef. Kel. B. Kam.", 
+        "Tosefta Kelim Kamma"
+    ], 
+    "errorMargin": "", 
+    "order": [
+        1
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            7
+        ], 
+        "title": "Tosefta Kelim Kamma", 
+        "heTitle": "תוספתא כלים קמא", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Tosefta Keilim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Keilim Kama"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Keilim Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Keilim Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Keilim Kama"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Keilim Kama"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Keilim Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Kel. B. Kam."
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא כלים קמא", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא כלים"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Kelim Kamma", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Kelim Kamma", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

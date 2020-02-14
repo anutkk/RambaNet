@@ -1,0 +1,78 @@
+{
+    "heTitleVariants": [
+        "דרך מצותך"
+    ], 
+    "sectionNames": [
+        "Mitzvah", 
+        "Paragraph"
+    ], 
+    "heCategories": [
+        "חסידות"
+    ], 
+    "pubDate": "1910", 
+    "title": "Derekh Mitsvotekha", 
+    "compDate": "1820", 
+    "pubPlace": "Poltava, Ukraine", 
+    "enDesc": "Interpretation of the 613 Mitzvot and the daily prayers based on Chassidut.", 
+    "depth": 2, 
+    "compDateString": {
+        "en": " (c.1813  - c.1827 CE)", 
+        "he": " (1813 - 1827 לספירה בקירוב)"
+    }, 
+    "heTitle": "דרך מצותך", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Menachem Mendel Schneersohn", 
+            "he": "מנחם מנדל שניאורסון‏"
+        }
+    ], 
+    "titleVariants": [
+        "Derech Mitzvosecha", 
+        "Derech Mitzvotecha", 
+        "Derekh Mitsvotekha"
+    ], 
+    "errorMargin": "7", 
+    "categories": [
+        "Chasidut"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Derekh Mitsvotekha", 
+        "addressTypes": [
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "דרך מצותך", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Derech Mitzvosecha"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Derech Mitzvotecha"
+            }, 
+            {
+                "lang": "he", 
+                "text": "דרך מצותך", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Derekh Mitsvotekha", 
+                "primary": true
+            }
+        ], 
+        "key": "Derekh Mitsvotekha", 
+        "heSectionNames": [
+            "מצוה", 
+            "פסקה"
+        ], 
+        "sectionNames": [
+            "Mitzvah", 
+            "Paragraph"
+        ]
+    }
+}

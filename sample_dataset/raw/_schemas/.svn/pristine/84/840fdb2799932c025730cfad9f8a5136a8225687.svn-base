@@ -1,0 +1,110 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Shulchan Arukh, Even HaEzer", 
+            "he": "אבן העזר"
+        }
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "שולחן ערוך", 
+        "מפרשים", 
+        "באר היטב"
+    ], 
+    "pubDate": "", 
+    "title": "Ba'er Hetev on Shulchan Arukh, Even HaEzer", 
+    "heTitleVariants": [
+        "באר היטב אבן העזר"
+    ], 
+    "pubPlace": "", 
+    "collective_title": {
+        "en": "Ba'er Hetev", 
+        "he": "באר היטב"
+    }, 
+    "enDesc": "", 
+    "dependence": "Commentary", 
+    "heTitle": "באר היטב אבן העזר", 
+    "era": null, 
+    "authors": [
+        {
+            "en": "Yehudah ben Shimon Ashkenazi", 
+            "he": "יהודה בן שמעון אשכנזי"
+        }
+    ], 
+    "titleVariants": [
+        "Ba'er Hetev on Shulchan Arukh, Even HaEzer"
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Shulchan Arukh", 
+        "Commentary", 
+        "Ba'er Hetev"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "", 
+                "default": true, 
+                "addressTypes": [
+                    "Siman", 
+                    "Integer"
+                ], 
+                "heTitle": "", 
+                "depth": 2, 
+                "key": "default", 
+                "heSectionNames": [
+                    "סימן", 
+                    "סעיף קטן"
+                ], 
+                "sectionNames": [
+                    "Siman", 
+                    "Seif Katan"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Seder Halitzah", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "סדר חליצה", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Seder Halitzah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "סדר חליצה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Seder Halitzah", 
+                "heSectionNames": [
+                    "סעיף קטן"
+                ], 
+                "sectionNames": [
+                    "Seif Katan"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "באר היטב אבן העזר", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ba'er Hetev on Shulchan Arukh, Even HaEzer", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "באר היטב אבן העזר", 
+        "key": "Ba'er Hetev on Shulchan Arukh, Even HaEzer", 
+        "title": "Ba'er Hetev on Shulchan Arukh, Even HaEzer"
+    }
+}

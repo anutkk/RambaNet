@@ -1,0 +1,167 @@
+{
+    "heCategories": [
+        "הלכה"
+    ], 
+    "title": "Ein HaTekhelet", 
+    "heTitleVariants": [
+        "עין התכלת"
+    ], 
+    "heTitle": "עין התכלת", 
+    "authors": [
+        {
+            "en": "Gershon Henoch Leiner of Radzin", 
+            "he": "גרשון חנוך העניך ליינר"
+        }
+    ], 
+    "titleVariants": [
+        "Ein HaTekhelet"
+    ], 
+    "categories": [
+        "Halakhah"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "title": "Introduction", 
+                "heTitle": "הקדמה", 
+                "sharedTitle": "Introduction", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Introduction", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "הקדמה", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מבוא"
+                    }
+                ], 
+                "key": "Introduction", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "First Article", 
+                "addressTypes": [
+                    "Seif", 
+                    "Integer"
+                ], 
+                "heTitle": "פרט הראשון", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "First Article", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "פרט הראשון", 
+                        "primary": true
+                    }
+                ], 
+                "key": "First Article", 
+                "heSectionNames": [
+                    "סעיף", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Seif", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Second Article", 
+                "addressTypes": [
+                    "Seif", 
+                    "Integer"
+                ], 
+                "heTitle": "פרט השני", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Second Article", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "פרט השני", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Second Article", 
+                "heSectionNames": [
+                    "סעיף", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Seif", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Third Article", 
+                "addressTypes": [
+                    "Seif", 
+                    "Integer"
+                ], 
+                "heTitle": "פרט השלישי", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Third Article", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "פרט השלישי", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Third Article", 
+                "heSectionNames": [
+                    "סעיף", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Seif", 
+                    "Paragraph"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "עין התכלת", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ein HaTekhelet", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "עין התכלת", 
+        "key": "Ein HaTekhelet", 
+        "title": "Ein HaTekhelet"
+    }
+}

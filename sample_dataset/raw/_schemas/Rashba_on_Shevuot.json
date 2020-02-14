@@ -1,0 +1,79 @@
+{
+    "depth": 2, 
+    "heTitleVariants": [
+        "רשב״א על שבועות"
+    ], 
+    "base_text_titles": [
+        {
+            "en": "Shevuot", 
+            "he": "שבועות"
+        }
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "בבלי", 
+        "מפרשים", 
+        "רשב\"א", 
+        "סדר נזיקין"
+    ], 
+    "title": "Rashba on Shevuot", 
+    "base_text_mapping": null, 
+    "collective_title": {
+        "en": "Rashba", 
+        "he": "רשב\"א"
+    }, 
+    "enDesc": "Commentary on the Talmud written by the Rashba, Rabbi Shlomo ben Avraham ibn Aderet (1235–1310). Rashba was a student of Ramban and follows his methodology. Rashba’s commentary is characterized by the depth of analysis and his search for the pshat (contextual meaning) of the text. Rashba’s commentary includes definitive legal rulings. ", 
+    "dependence": "Commentary", 
+    "heTitle": "רשב״א על שבועות", 
+    "authors": [
+        {
+            "en": "Rashba", 
+            "he": "רשב\"א"
+        }
+    ], 
+    "titleVariants": [
+        "Rashba on Shevuot"
+    ], 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "categories": [
+        "Talmud", 
+        "Bavli", 
+        "Commentary", 
+        "Rashba", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashba on Shevuot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "רשב״א על שבועות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "רשב״א על שבועות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashba on Shevuot", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashba on Shevuot", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Tosefta"
+    ], 
+    "heCategories": [
+        "ספרות תנאית", 
+        "תוספתא", 
+        "סדר מועד"
+    ], 
+    "pubDate": "1521", 
+    "title": "Tosefta Beitsah", 
+    "compDate": "210", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Bezah (Eggs) belongs to the second order, Moed (Festivals) and discusses the rules to be observed on Festivals. It has four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תוספתא ביצה", 
+        "תוספתא יום טוב"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "תוספתא ביצה", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "T. Beitzah", 
+        "Tosefta Beitzah", 
+        "Tos. Beitzah", 
+        "T. Beitsah,", 
+        "Tos. Beitsah", 
+        "Tosef. Bets.", 
+        "Tosefta Beitsah"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        7
+    ], 
+    "categories": [
+        "Tanaitic", 
+        "Tosefta", 
+        "Seder Moed"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "lengths": [
+            4
+        ], 
+        "title": "Tosefta Beitsah", 
+        "heTitle": "תוספתא ביצה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "T. Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Beitzah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T. Beitsah,"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tos. Beitsah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosef. Bets."
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא ביצה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "תוספתא יום טוב"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Tosefta Beitsah", 
+                "primary": true
+            }
+        ], 
+        "key": "Tosefta Beitsah", 
+        "heSectionNames": [
+            "פרק", 
+            "תוספתא"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Tosefta"
+        ]
+    }
+}

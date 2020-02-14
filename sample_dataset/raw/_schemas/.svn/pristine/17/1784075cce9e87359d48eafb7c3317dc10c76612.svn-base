@@ -1,0 +1,155 @@
+{
+    "heTitleVariants": [
+        "שבט מוסר"
+    ], 
+    "heCategories": [
+        "ספרי מוסר"
+    ], 
+    "pubDate": "1712", 
+    "title": "Shevet Musar", 
+    "compDate": "1712", 
+    "pubPlace": "Constantinople", 
+    "enDesc": "Ethical work divided into fifty-two chapters corresponding to the weeks of the year. The book, which gained much popularity, has been published in many editions and translated into several languages since it first appeared in 1712.", 
+    "compDateString": {
+        "en": " (1712 CE)", 
+        "he": " (1712 לספירה)"
+    }, 
+    "heDesc": "חיבור מוסרי המחולק לחמישים ושניים פרקים המקבילים לשבועי השנה. הוא זכה לפופולאריות רבה, נדפס במהדורות רבות ותורגם לכמה שפות מאז הופיע לראשונה בשנת 1712.", 
+    "heTitle": "שבט מוסר", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Eliyahu HaKohen Ha'Itamri", 
+            "he": "אליהו הכהן האיתמרי"
+        }
+    ], 
+    "titleVariants": [
+        "Shevet Musar"
+    ], 
+    "categories": [
+        "Musar"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Title", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "שער", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Title", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "שער", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Title", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Author's Preface", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "הקדמת המחבר", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Author's Preface", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "הקדמת המחבר", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Author's Preface", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Index", 
+                "addressTypes": [
+                    "Integer"
+                ], 
+                "heTitle": "מפתחות הפרקים", 
+                "depth": 1, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Index", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "מפתחות הפרקים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Index", 
+                "heSectionNames": [
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "", 
+                "default": true, 
+                "addressTypes": [
+                    "Perek", 
+                    "Integer"
+                ], 
+                "heTitle": "", 
+                "depth": 2, 
+                "key": "default", 
+                "heSectionNames": [
+                    "פרק", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Chapter", 
+                    "Paragraph"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "שבט מוסר", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shevet Musar", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "שבט מוסר", 
+        "key": "Shevet Musar", 
+        "title": "Shevet Musar"
+    }
+}

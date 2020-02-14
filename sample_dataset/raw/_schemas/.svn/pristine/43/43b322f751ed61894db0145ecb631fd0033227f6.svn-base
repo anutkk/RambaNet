@@ -1,0 +1,141 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Exodus", 
+            "he": "ספר שמות"
+        }
+    ], 
+    "pubPlace": "Padua", 
+    "compPlace": "Padua", 
+    "enDesc": "Commentary written by Samuel David Luzzatto (known by the acronym, Shadal), (Italy 1800 – 1865). Shadal’s commentary develops a unique approach to resolving the problem that occurs when the pshat (contextual) meaning of the text conflicts with halakha, as presented in midrash halakha. Shadal argues that the pshat reflects what the Torah means and the midrash reflects the halakha and not biblical interpretation. He claims that instead of being biblical interpretation, the midrash halakha is rabbinic legislation with the desire to take a more lenient position than the Torah text.", 
+    "heTitle": "שד\"ל על שמות", 
+    "errorMargin": "15", 
+    "is_cited": true, 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "שד\"ל", 
+        "תורה"
+    ], 
+    "pubDate": "1871", 
+    "title": "Shadal on Exodus", 
+    "compDate": "1850", 
+    "compDateString": {
+        "en": " (c.1835  - c.1865 CE)", 
+        "he": " (1835 - 1865 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Padua", 
+        "he": "פדובה"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Shadal on Exodus", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "שד\"ל על שמות", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Shadal on Exod."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shadal on Ex."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shadal on Exo"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shadal on Shmot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shadal on Shemot"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shadal on Ex"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shadal on Exo."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shadal on Exod"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shadal on Shemoth"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שד\"ל על שמות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shadal on Exodus", 
+                "primary": true
+            }
+        ], 
+        "key": "Shadal on Exodus", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "heTitleVariants": [
+        "שד\"ל על שמות"
+    ], 
+    "authors": [
+        {
+            "en": "Shadal", 
+            "he": "שד\"ל"
+        }
+    ], 
+    "titleVariants": [
+        "Shadal on Exod.", 
+        "Shadal on Ex.", 
+        "Shadal on Exo", 
+        "Shadal on Shmot", 
+        "Shadal on Shemot", 
+        "Shadal on Ex", 
+        "Shadal on Exo.", 
+        "Shadal on Exod", 
+        "Shadal on Shemoth", 
+        "Shadal on Exodus"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Shadal", 
+        "Torah"
+    ], 
+    "collective_title": {
+        "en": "Shadal", 
+        "he": "שד\"ל"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "AH", 
+    "base_text_mapping": "many_to_one"
+}

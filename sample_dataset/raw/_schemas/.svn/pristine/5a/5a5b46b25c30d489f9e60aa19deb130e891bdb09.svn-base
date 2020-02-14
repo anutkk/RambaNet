@@ -1,0 +1,63 @@
+{
+    "depth": 2, 
+    "heCategories": [
+        "יצירות מודרניות"
+    ], 
+    "title": "Abraham Cohen Footnotes to the English Translation of Masechet Berakhot", 
+    "collective_title": {
+        "en": "Abraham Cohen", 
+        "he": "אברהם כהן"
+    }, 
+    "heTitleVariants": [
+        "הערות באנגלית של אברהם כהן על מסכת ברכות"
+    ], 
+    "dependence": "Commentary", 
+    "heTitle": "הערות באנגלית של אברהם כהן על מסכת ברכות", 
+    "authors": [
+        {
+            "en": "Abraham Cohen", 
+            "he": ""
+        }
+    ], 
+    "titleVariants": [
+        "Abraham Cohen Footnotes to the English Translation of Masechet Berakhot"
+    ], 
+    "sectionNames": [
+        "Daf", 
+        "Comment"
+    ], 
+    "categories": [
+        "Modern Works"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Abraham Cohen Footnotes to the English Translation of Masechet Berakhot", 
+        "addressTypes": [
+            "Talmud", 
+            "Integer"
+        ], 
+        "heTitle": "הערות באנגלית של אברהם כהן על מסכת ברכות", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "הערות באנגלית של אברהם כהן על מסכת ברכות", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Abraham Cohen Footnotes to the English Translation of Masechet Berakhot", 
+                "primary": true
+            }
+        ], 
+        "key": "Abraham Cohen Footnotes to the English Translation of Masechet Berakhot", 
+        "heSectionNames": [
+            "דף", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Comment"
+        ]
+    }
+}

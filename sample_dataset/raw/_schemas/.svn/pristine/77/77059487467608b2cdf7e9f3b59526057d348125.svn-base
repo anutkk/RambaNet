@@ -1,0 +1,155 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר אהבה"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Circumcision", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The second book is Ahavah (Love): the precepts which must be observed at all times if the love due to God is to be remembered continually (prayer, tefillin).", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות מילה", 
+        "רמב\"ם, הלכות מילה", 
+        "משנה תורה, הל' מילה", 
+        "רמב\"ם, הל' מילה", 
+        "רמב\"ם הלכות מילה", 
+        "רמב\"ם הל' מילה"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות מילה", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Rambam, Milah", 
+        "Mishneh Torah, Hilchot Milah", 
+        "Mishneh Torah, Laws of Circumcision", 
+        "Rambam, Laws of Circumcision", 
+        "Mishneh Torah, Milah", 
+        "Rambam, Circumcision", 
+        "Rambam, Hilchot Milah", 
+        "Mishneh Torah, Hilkhot Milah", 
+        "Rambam, Hilkhot Milah", 
+        "Mishneh Torah, Circumcision"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        15, 
+        6
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Ahavah"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            3
+        ], 
+        "title": "Mishneh Torah, Circumcision", 
+        "heTitle": "משנה תורה, הלכות מילה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Rambam, Milah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Milah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Circumcision"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Circumcision"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Milah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Circumcision"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Milah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות מילה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות מילה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Milah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Milah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' מילה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' מילה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות מילה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' מילה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Circumcision", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Circumcision", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

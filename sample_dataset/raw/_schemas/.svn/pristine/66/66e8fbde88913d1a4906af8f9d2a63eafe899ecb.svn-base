@@ -1,0 +1,190 @@
+{
+    "base_text_titles": [
+        {
+            "en": "I Kings", 
+            "he": "מלכים א"
+        }
+    ], 
+    "pubPlace": "Mantua", 
+    "compPlace": "Provence, France", 
+    "heTitleVariants": [
+        "רלב\"ג על מלכים א", 
+        "רלב\"ג על מ״א", 
+        "רלב\"ג על מ\"א", 
+        "רלב\"ג על מלכים א׳", 
+        "רלב\"ג על מלכים א'"
+    ], 
+    "heTitle": "רלב\"ג על מלכים א", 
+    "errorMargin": "10", 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רלב\"ג", 
+        "נביאים"
+    ], 
+    "pubDate": "1480", 
+    "title": "Ralbag on I Kings", 
+    "compDate": "1335", 
+    "compDateString": {
+        "en": " (c.1325  - c.1345 CE)", 
+        "he": " (1325 - 1345 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Provence, France", 
+        "he": "פרובנס, צרפת"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Ralbag on I Kings", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רלב\"ג על מלכים א", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Ralbag on I Melachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Melachim Aleph"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Kings I"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on Melachim I"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on 1 Kings"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on First Kings"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on I Melakhim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on I Melachim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Melachim Aleph"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Kings I"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on Melachim I"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on 1 Kings"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on First Kings"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on I Melakhim"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Gersonides on I Kings"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רלב\"ג על מלכים א", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רלב\"ג על מ״א"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רלב\"ג על מ\"א"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רלב\"ג על מלכים א׳"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רלב\"ג על מלכים א'"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Ralbag on I Kings", 
+                "primary": true
+            }
+        ], 
+        "key": "Ralbag on I Kings", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "enDesc": "A commentary written by Rabbi Levi ben Gershon (1288–1344) of Provence. Ralbag was a Talmudist, mathematician and astronomer. He was a rationalist which is reflected in his approach to angels and miracles in his commentary. The commentary is divided into 3 parts: the lexicon (bi’ur ha-milot), exegesis (bi’ur ha-parasha), and the lessons (to’alot). ", 
+    "authors": [
+        {
+            "en": "Ralbag", 
+            "he": "רלב\"ג"
+        }
+    ], 
+    "titleVariants": [
+        "Ralbag on I Melachim", 
+        "Ralbag on Melachim Aleph", 
+        "Ralbag on Kings I", 
+        "Ralbag on Melachim I", 
+        "Ralbag on 1 Kings", 
+        "Ralbag on First Kings", 
+        "Ralbag on I Melakhim", 
+        "Gersonides on I Melachim", 
+        "Gersonides on Melachim Aleph", 
+        "Gersonides on Kings I", 
+        "Gersonides on Melachim I", 
+        "Gersonides on 1 Kings", 
+        "Gersonides on First Kings", 
+        "Gersonides on I Melakhim", 
+        "Gersonides on I Kings", 
+        "Ralbag on I Kings"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Ralbag", 
+        "Prophets"
+    ], 
+    "collective_title": {
+        "en": "Ralbag", 
+        "he": "רלב\"ג"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

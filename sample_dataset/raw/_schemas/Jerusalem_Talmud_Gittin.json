@@ -1,0 +1,105 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Daf", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "תלמוד", 
+        "ירושלמי", 
+        "סדר נשים"
+    ], 
+    "pubDate": "1523", 
+    "title": "Jerusalem Talmud Gittin", 
+    "compDate": "400", 
+    "pubPlace": "Venice", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Gittin (Documents) belongs to the third order, Nashim (Women) and discusses the concepts of divorces and other documents. It has nine chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "תלמוד ירושלמי גיטין", 
+        "ירושלמי גיטין"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.375  - c.425 CE)", 
+        "he": " (375 - 425 לספירה בקירוב)"
+    }, 
+    "heTitle": "תלמוד ירושלמי גיטין", 
+    "era": "A", 
+    "authors": [], 
+    "titleVariants": [
+        "Talmud Yerushalmi Gittin", 
+        "Yerushalmi Gittin", 
+        "JT Gittin", 
+        "Y. Gitt.", 
+        "Jerusalem Talmud Gittin"
+    ], 
+    "errorMargin": "25", 
+    "order": [
+        29
+    ], 
+    "categories": [
+        "Talmud", 
+        "Yerushalmi", 
+        "Seder Nashim"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Talmud", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            108, 
+            239
+        ], 
+        "title": "Jerusalem Talmud Gittin", 
+        "heTitle": "תלמוד ירושלמי גיטין", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Talmud Yerushalmi Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Yerushalmi Gittin"
+            }, 
+            {
+                "lang": "en", 
+                "text": "JT Gittin"
+            }, 
+            {
+                "lang": "he", 
+                "text": "תלמוד ירושלמי גיטין", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "ירושלמי גיטין"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Y. Gitt."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Jerusalem Talmud Gittin", 
+                "primary": true
+            }
+        ], 
+        "key": "Jerusalem Talmud Gittin", 
+        "heSectionNames": [
+            "דף", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Daf", 
+            "Halakhah"
+        ]
+    }
+}

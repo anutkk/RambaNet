@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר נזיקין"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Bava Kamma", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Bava Kamma (First Gate) belongs to the fourth order, Nezikin (The Order of Damages) and discusses the civil matters, largely damages and compensation. It has ten chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה בבא קמא"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה בבא קמא", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M. Bava Kamma", 
+        "Mishna Bava Kamma", 
+        "M Bava Kamma", 
+        "Mishnah B. Kam.", 
+        "Mishnah Baba Ḳamma", 
+        "Mishnah Bava Kamma"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        31, 
+        1
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Nezikin"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            10, 
+            79
+        ], 
+        "title": "Mishnah Bava Kamma", 
+        "heTitle": "משנה בבא קמא", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M. Bava Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Bava Kamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M Bava Kamma"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה בבא קמא", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah B. Kam."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Baba Ḳamma"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Bava Kamma", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Bava Kamma", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

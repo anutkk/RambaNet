@@ -1,0 +1,232 @@
+{
+    "heTitleVariants": [
+        "שו\"ת חתם סופר", 
+        "שו\"ת חת\"ס"
+    ], 
+    "heCategories": [
+        "שו\"ת"
+    ], 
+    "title": "Responsa Chatam Sofer", 
+    "compDate": "1810", 
+    "enDesc": " Responsa of R' Moshe Sofer of Pressburg.", 
+    "compDateString": {
+        "en": " (c.1780  - c.1840 CE)", 
+        "he": " (1780 - 1840 לספירה בקירוב)"
+    }, 
+    "heDesc": "שו\"ת חת\"ם סופר כולל 1225 תשובות במגוון נושאים", 
+    "heTitle": "שו\"ת חתם סופר", 
+    "era": "AH", 
+    "authors": [
+        {
+            "en": "Moses Sofer", 
+            "he": "משה סופר"
+        }
+    ], 
+    "dedication": {
+        "en": "Dedicated in loving memory of our father and grandfather Moshe Avraham Oscar Reichner of Pressburg and New York, proud scion of the Chatam Sofer and upholder of his legacy, by the Rubinstein, Koschitzky and Pertman families– Toronto, Canada and Raanana, Israel.", 
+        "he": "לעילוי נשמת אבינו וסבנו משה אברהם רייכנר, נצר גאה לחתם סופר והולך בדרכיו. נדבת משפחות רובינשטיין, קושיצקי ופרטמן — טורונטו, קנדה ורעננה, ישראל"
+    }, 
+    "titleVariants": [
+        "Teshuvot Hatam Sofer", 
+        "Teshuvot Chatam Sofer", 
+        "Responsa Hatam Sofer", 
+        "Responsa Chatam Sofer"
+    ], 
+    "errorMargin": "30", 
+    "categories": [
+        "Responsa"
+    ], 
+    "schema": {
+        "nodes": [
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Orach Chayim", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "אורח חיים", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Orach Chayim", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "אורח חיים", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Orach Chayim", 
+                "heSectionNames": [
+                    "", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Teshuva", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Yoreh De'ah", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "יורה דעה", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Yoreh De'ah", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "יורה דעה", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Yoreh De'ah", 
+                "heSectionNames": [
+                    "", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Teshuva", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Even HaEzer", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "אבן העזר", 
+                "depth": 3, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Even HaEzer", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "אבן העזר", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Even HaEzer", 
+                "heSectionNames": [
+                    "חלק", 
+                    "", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Section", 
+                    "Teshuva", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Choshen Mishpat", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "חושן משפט", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Choshen Mishpat", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "חושן משפט", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Choshen Mishpat", 
+                "heSectionNames": [
+                    "", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Teshuva", 
+                    "Paragraph"
+                ]
+            }, 
+            {
+                "nodeType": "JaggedArrayNode", 
+                "title": "Collected Responsa", 
+                "addressTypes": [
+                    "Integer", 
+                    "Integer"
+                ], 
+                "heTitle": "ליקוטי שו\"ת", 
+                "depth": 2, 
+                "titles": [
+                    {
+                        "lang": "en", 
+                        "text": "Collected Responsa", 
+                        "primary": true
+                    }, 
+                    {
+                        "lang": "he", 
+                        "text": "ליקוטי שו\"ת", 
+                        "primary": true
+                    }
+                ], 
+                "key": "Collected Responsa", 
+                "heSectionNames": [
+                    "", 
+                    "פסקה"
+                ], 
+                "sectionNames": [
+                    "Teshuva", 
+                    "Paragraph"
+                ]
+            }
+        ], 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Teshuvot Hatam Sofer"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Teshuvot Chatam Sofer"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Responsa Hatam Sofer"
+            }, 
+            {
+                "lang": "he", 
+                "text": "שו\"ת חתם סופר", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "שו\"ת חת\"ס"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Responsa Chatam Sofer", 
+                "primary": true
+            }
+        ], 
+        "heTitle": "שו\"ת חתם סופר", 
+        "key": "Responsa Chatam Sofer", 
+        "title": "Responsa Chatam Sofer"
+    }
+}

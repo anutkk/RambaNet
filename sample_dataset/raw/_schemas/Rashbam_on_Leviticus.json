@@ -1,0 +1,151 @@
+{
+    "base_text_titles": [
+        {
+            "en": "Leviticus", 
+            "he": "ספר ויקרא"
+        }
+    ], 
+    "pubPlace": "Berlin", 
+    "compPlace": "Middle-Age France", 
+    "enDesc": "Commentary written by Rabbi Shmuel ben Meir, Rashbam (France, c.1080 - c.1160). Rashbam, a grandson of Rashi, was part of the Tosafist school. Whereas Rashi famously claimed that his commentary would present the pshat (contextual meaning) of the text, when in reality it relies heavily on midrash; Rashbam’s commentary actually stays very loyal to the pshat.  ", 
+    "heTitle": "רשב\"ם על ויקרא", 
+    "errorMargin": "20", 
+    "is_cited": true, 
+    "heCategories": [
+        "תנ\"ך", 
+        "מפרשים", 
+        "רשב\"ם", 
+        "תורה"
+    ], 
+    "pubDate": "1705", 
+    "title": "Rashbam on Leviticus", 
+    "compDate": "1140", 
+    "compDateString": {
+        "en": " (c.1120  - c.1160 CE)", 
+        "he": " (1120 - 1160 לספירה בקירוב)"
+    }, 
+    "compPlaceString": {
+        "en": "Middle-Age France", 
+        "he": "צרפת של ימי הביניים"
+    }, 
+    "sectionNames": [
+        "Chapter", 
+        "Verse", 
+        "Comment"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Rashbam on Leviticus", 
+        "addressTypes": [
+            "Perek", 
+            "Integer", 
+            "Integer"
+        ], 
+        "heTitle": "רשב\"ם על ויקרא", 
+        "depth": 3, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Vayikra"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Lev."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Lev"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Shumel ben Meir on Leviticus"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Vayikra"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Lev."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Lev"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Samuel ben Meir on Leviticus"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Vayikra"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Lev."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Lev"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רשב\"ם על ויקרא", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rashbam on Leviticus", 
+                "primary": true
+            }
+        ], 
+        "key": "Rashbam on Leviticus", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק", 
+            "פירוש"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse", 
+            "Comment"
+        ]
+    }, 
+    "heTitleVariants": [
+        "רשב\"ם על ויקרא"
+    ], 
+    "authors": [
+        {
+            "en": "Rashbam", 
+            "he": "רשב״ם"
+        }
+    ], 
+    "titleVariants": [
+        "Shumel ben Meir on Vayikra", 
+        "Shumel ben Meir on Lev.", 
+        "Shumel ben Meir on Lev", 
+        "Shumel ben Meir on Leviticus", 
+        "Samuel ben Meir on Vayikra", 
+        "Samuel ben Meir on Lev.", 
+        "Samuel ben Meir on Lev", 
+        "Samuel ben Meir on Leviticus", 
+        "Rashbam on Vayikra", 
+        "Rashbam on Lev.", 
+        "Rashbam on Lev", 
+        "Rashbam on Leviticus"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Commentary", 
+        "Rashbam", 
+        "Torah"
+    ], 
+    "collective_title": {
+        "en": "Rashbam", 
+        "he": "רשב\"ם"
+    }, 
+    "dependence": "Commentary", 
+    "depth": 3, 
+    "era": "RI", 
+    "base_text_mapping": "many_to_one"
+}

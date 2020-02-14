@@ -1,0 +1,76 @@
+{
+    "depth": 2, 
+    "is_cited": true, 
+    "base_text_titles": [
+        {
+            "en": "Ecclesiastes", 
+            "he": "קהלת"
+        }
+    ], 
+    "heCategories": [
+        "תנ\"ך", 
+        "תרגומים", 
+        "תרגום", 
+        "כתובים"
+    ], 
+    "title": "Aramaic Targum to Ecclesiastes", 
+    "base_text_mapping": "one_to_one", 
+    "collective_title": {
+        "en": "Aramaic Targum", 
+        "he": "תרגום"
+    }, 
+    "heTitleVariants": [
+        "תרגום קהלת"
+    ], 
+    "dependence": "Targum", 
+    "heTitle": "תרגום קהלת", 
+    "titleVariants": [
+        "Targ. Koh.", 
+        "Aramaic Targum to Ecclesiastes"
+    ], 
+    "sectionNames": [
+        "Chapter", 
+        "Verse"
+    ], 
+    "categories": [
+        "Tanakh", 
+        "Targum", 
+        "Aramaic Targum", 
+        "Writings"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "title": "Aramaic Targum to Ecclesiastes", 
+        "addressTypes": [
+            "Perek", 
+            "Integer"
+        ], 
+        "heTitle": "תרגום קהלת", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "he", 
+                "text": "תרגום קהלת", 
+                "primary": true
+            }, 
+            {
+                "lang": "en", 
+                "text": "Targ. Koh."
+            }, 
+            {
+                "lang": "en", 
+                "text": "Aramaic Targum to Ecclesiastes", 
+                "primary": true
+            }
+        ], 
+        "key": "Aramaic Targum to Ecclesiastes", 
+        "heSectionNames": [
+            "פרק", 
+            "פסוק"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Verse"
+        ]
+    }
+}

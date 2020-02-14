@@ -1,0 +1,200 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Halakhah"
+    ], 
+    "heCategories": [
+        "הלכה", 
+        "משנה תורה", 
+        "ספר מדע"
+    ], 
+    "pubDate": "1474", 
+    "title": "Mishneh Torah, Repentance", 
+    "compDate": "1177", 
+    "pubPlace": "Rome", 
+    "compPlace": "Middle-Age Egypt", 
+    "enDesc": "The first book is HaMadda (Knowledge): Teshuvah: the law and philosophy of repentance", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה תורה, הלכות תשובה", 
+        "רמב\"ם, הלכות תשובה", 
+        "הלכות תשובה", 
+        "משנה תורה, הל' תשובה", 
+        "רמב\"ם, הל' תשובה", 
+        "הל' תשובה", 
+        "רמב\"ם הלכות תשובה", 
+        "רמב\"ם הל' תשובה"
+    ], 
+    "compPlaceString": {
+        "en": "Middle-Age Egypt", 
+        "he": "מצרים של ימי הביניים"
+    }, 
+    "compDateString": {
+        "en": " (c.1176  - c.1178 CE)", 
+        "he": " (1176 - 1178 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה תורה, הלכות תשובה", 
+    "era": "RI", 
+    "authors": [
+        {
+            "en": "Rambam", 
+            "he": "רמב\"ם"
+        }
+    ], 
+    "titleVariants": [
+        "Mishneh Torah, Laws of Repentance", 
+        "Mishneh Torah, Teshuvah", 
+        "Rambam, Laws of Repentance", 
+        "Rambam, Repentance", 
+        "Mishneh Torah, Hilchot Teshuvah", 
+        "Rambam, Teshuvah", 
+        "Rambam, Hilchot Teshuvah", 
+        "Mishneh Torah, Hilkhot Teshuvah", 
+        "Rambam, Hilkhot Teshuvah", 
+        "Hilkhot Teshuva", 
+        "Hilchot Teshuva", 
+        "Rambam, Hilkhot Teshuva", 
+        "Rambam, Hilchot Teshuva", 
+        "Mishneh Torah, Hilkhot Teshuva", 
+        "Mishneh Torah, Hilchot Teshuva", 
+        "Maimonides, Hilkhoth Teshubah", 
+        "Mishneh Torah, Repentance"
+    ], 
+    "errorMargin": "1", 
+    "order": [
+        9, 
+        5
+    ], 
+    "categories": [
+        "Halakhah", 
+        "Mishneh Torah", 
+        "Sefer Madda"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Halakhah"
+        ], 
+        "lengths": [
+            10
+        ], 
+        "title": "Mishneh Torah, Repentance", 
+        "heTitle": "משנה תורה, הלכות תשובה", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Laws of Repentance"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Teshuvah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Laws of Repentance"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Repentance"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Teshuvah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Teshuvah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Teshuvah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Teshuvah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Teshuvah"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Hilkhot Teshuva"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Hilchot Teshuva"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilkhot Teshuva"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Rambam, Hilchot Teshuva"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilkhot Teshuva"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Hilchot Teshuva"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Maimonides, Hilkhoth Teshubah"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הלכות תשובה", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הלכות תשובה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "הלכות תשובה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה תורה, הל' תשובה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם, הל' תשובה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "הל' תשובה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הלכות תשובה"
+            }, 
+            {
+                "lang": "he", 
+                "text": "רמב\"ם הל' תשובה"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishneh Torah, Repentance", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishneh Torah, Repentance", 
+        "heSectionNames": [
+            "פרק", 
+            "הלכה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Halakhah"
+        ]
+    }
+}

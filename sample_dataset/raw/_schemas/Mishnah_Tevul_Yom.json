@@ -1,0 +1,104 @@
+{
+    "is_cited": true, 
+    "sectionNames": [
+        "Chapter", 
+        "Mishnah"
+    ], 
+    "heCategories": [
+        "משנה", 
+        "סדר טהרות"
+    ], 
+    "pubDate": "1492", 
+    "title": "Mishnah Tevul Yom", 
+    "compDate": "210", 
+    "pubPlace": "Naples", 
+    "compPlace": "Talmudic Israel", 
+    "enDesc": "Tevul Yom (Immersed [on that] day) belongs to the sixth order, Tahorot (Purities) and discusses a special kind of impurity where the person immerses in a mikveh (ritual bath) but is still unclean for the rest of the day. It has four chapters.", 
+    "depth": 2, 
+    "heTitleVariants": [
+        "משנה טבול יום", 
+        "טבול יום"
+    ], 
+    "compPlaceString": {
+        "en": "Talmudic Israel", 
+        "he": "ישראל התלמודית"
+    }, 
+    "compDateString": {
+        "en": " (c.190  - c.230 CE)", 
+        "he": " (190 - 230 לספירה בקירוב)"
+    }, 
+    "heTitle": "משנה טבול יום", 
+    "era": "T", 
+    "authors": [], 
+    "titleVariants": [
+        "M Tevul Yom", 
+        "M. Tevul Yom", 
+        "Mishna Tevul Yom", 
+        "T’bul Yom", 
+        "Mishnah Tevul Yom"
+    ], 
+    "errorMargin": "20", 
+    "order": [
+        61, 
+        10
+    ], 
+    "categories": [
+        "Mishnah", 
+        "Seder Tahorot"
+    ], 
+    "schema": {
+        "nodeType": "JaggedArrayNode", 
+        "addressTypes": [
+            "Perek", 
+            "Mishnah"
+        ], 
+        "lengths": [
+            4, 
+            26
+        ], 
+        "title": "Mishnah Tevul Yom", 
+        "heTitle": "משנה טבול יום", 
+        "depth": 2, 
+        "titles": [
+            {
+                "lang": "en", 
+                "text": "M Tevul Yom"
+            }, 
+            {
+                "lang": "en", 
+                "text": "M. Tevul Yom"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishna Tevul Yom"
+            }, 
+            {
+                "lang": "he", 
+                "text": "משנה טבול יום", 
+                "primary": true
+            }, 
+            {
+                "lang": "he", 
+                "text": "טבול יום"
+            }, 
+            {
+                "lang": "en", 
+                "text": "T’bul Yom"
+            }, 
+            {
+                "lang": "en", 
+                "text": "Mishnah Tevul Yom", 
+                "primary": true
+            }
+        ], 
+        "key": "Mishnah Tevul Yom", 
+        "heSectionNames": [
+            "פרק", 
+            "משנה"
+        ], 
+        "sectionNames": [
+            "Chapter", 
+            "Mishnah"
+        ]
+    }
+}

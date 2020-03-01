@@ -1,6 +1,6 @@
 
 # Organize dataset
-
+#TODO: transform to functions
 
 import os
 import json

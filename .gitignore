@@ -9,6 +9,7 @@ __pycache__
 __pycache__/*
 
 raw_dataset/*
+!raw_dataset/_PUT_HERE_DATASET_
 
 .ipynb_checkpoints
 .ipynb_checkpoints/*

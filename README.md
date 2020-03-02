@@ -23,20 +23,17 @@ An extensive litterature review (see reference) seems to lead to the conclusion 
 
 ### Embeddings
 
-Generally in NLP embeddings are created for words or sentences. However, the latest studies [TODO] seem to suggest that using character-level embeddings may lead to better results. Moreover, word embeddings were crafted with Engligh (or other Roman or Anglo-Saxon languages) in mind, where prepositions, linking words, determiners and possessive adjectives are always separate words and have low semantic meaning.
+Generally in NLP embeddings are created for words or sentences. However, recent studies [Zhang 2015] seem to suggest that character-level embeddings provide competetitive results while being less complex, requiring less parameters and training time. In this model we choose to research character embeddings, for two main reasons.
 
-Medieval Hebrew possesses properties which may challenge word embedding methods like GloVe and word2vec. For example, there may be several different orthographs for the same word; prepositions, linking words, determiners and possessive adjectives are often part of other words and not independent words. 
+Firstly, an important drawback of word embeddings is that the vocabulary must be defined in advance, and out-of-vocabulary and less common words are left out of the embedding. However, for authorship attribution purposes the study of hapax legomena (unique words) or just uncommon expressions bears a lot of information.
 
-Moreover, homonyms and homographs are frequent in Hebrew, much more than in English (see [this paper](https://m.tau.ac.il/~pelegor/pdfs/15.%20Peleg,%20Edelist,%20Eviatar,%20&%20Bergerbest,%20in%20press.pdf), pp. 3-4 and [that paper](https://www.academia.edu/35145231/The_Vocabulary_of_Classical_Hebrew_New_Facts_and_Figures) pp. 9-10); and the number of byforms (alternative spellings of words) is astoninishgly high (more than 30% of Classical Hebrew according to [that paper](https://www.academia.edu/35145231/The_Vocabulary_of_Classical_Hebrew_New_Facts_and_Figures)).
+Second, the method of embedding words was crafted with Engligh (or other Roman or Anglo-Saxon languages) in mind. In English,prepositions, linking words, determiners and possessive adjectives are always separate words and have low semantic meaning. Medieval Hebrew possesses properties which may challenge word embedding methods like GloVe and word2vec. Prepositions, linking words, determiners and possessive adjectives are often part of other words and not independent words. Moreover, homonyms and homographs are frequent in Hebrew, much more than in English (see [this paper](https://m.tau.ac.il/~pelegor/pdfs/15.%20Peleg,%20Edelist,%20Eviatar,%20&%20Bergerbest,%20in%20press.pdf), pp. 3-4 and [that paper](https://www.academia.edu/35145231/The_Vocabulary_of_Classical_Hebrew_New_Facts_and_Figures) pp. 9-10). The number of byforms (alternative spellings of words) is astoninishgly high (more than 30% of Biblical Hebrew according to [that paper](https://www.academia.edu/35145231/The_Vocabulary_of_Classical_Hebrew_New_Facts_and_Figures)).
 
 Recent research in Bengali [Khatun 2020] suggests that character-level embeddings lead to better accuracy. Bengali shares some characteristics with Hebrew [SOURCE?].
-
-Lastly, an important drawback of word embeddings is that the vocabulary must be defined in advance, and out-of-vocabulary and less common words are left out of the embedding. However, for authorship attribution purposes the study of hapax legomena (unique words) or just uncommon expressions bears a lot of information.
 
 ## Results
 
 ### Character-Level CNN
-
 
 
 ## References

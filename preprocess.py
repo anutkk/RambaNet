@@ -5,22 +5,24 @@ import warnings
 import json
 import collections
 import re
+import numpy as np
 
 
-def preprocess_data(dataset_directory, input_size=1024, alphabet="אבגדהוזחטיכךלמםנןסעפףצץקרשת "):
+def preprocess_data(dataset_directory, input_size=1024, alphabet='אבגדהוזחטיכךלמםנןסעפףצץקרשת "'):
     """ 
     Gets dataset directory path (which has structure as detailed behind TODO), and returns:
         - data as a list of (sample, label). Each sample is a numpy array of one-hot vectors, each label is an integer.
         - a dict where dict[label]=author_name
     """
     preprocessed_data = []
+    author_dict = {}
     ds_path = pathlib.Path(dataset_directory)
-    for author_dir in ds_path.iterdir():
+    for author_label, author_dir in enumerate(ds_path.iterdir()):
         if ~author_dir.is_dir():
             warnings.warn('File '+str(author_dir) +
                           ' ignored (invalid location).')
             continue
-
+        author_dict[author_label] = author_dir.name
         for book_path in author_dir.iterdir():
             # validation check
             if ~book_path.is_file():
@@ -57,8 +59,7 @@ def preprocess_data(dataset_directory, input_size=1024, alphabet="אבגדהוז
             # concatenate
             flattened_raw_str = ''.join(flattened_raw_lst)
 
-            # TODO: handle double quotes and keep them!
-            # TODO: handle special double quotes characters. maybe convert all to special double quotes characters so that no need to escape?
+            # TODO: handle single quote characters
 
             # keep only letters in alphabet and remove multiple spaces
             filtered = re.sub('[^'+alphabet+']', ' ', flattened_raw_str)
@@ -68,7 +69,16 @@ def preprocess_data(dataset_directory, input_size=1024, alphabet="אבגדהוז
             # split to samples
             #TODO: prevent cutting in the middle of words
             n = input_size
-            chunks = [filtered[i:i+n] for i in range(0, len(filtered), n)]
+            samples = [filtered[i:i+n] for i in range(0, len(filtered), n)]
+
+            #convert to one-hot and aggregate
+            preprocessed_data.extend( \
+                [(str2onehot(sample, alphabet), author_label) for sample in samples] \
+                    )
+            
+            #TODO: should author labels be one-hot vectors too? 
+
+
 
 
 def flatten(l):
@@ -77,3 +87,15 @@ def flatten(l):
             yield from flatten(el)
         else:
             yield el
+
+
+def str2onehot(sample, alphabet):  # idxs is list of integers
+    #return numpy 2D array where each character is a one-hot column vector
+    #convert to indexes
+    idxs = [alphabet.index(c) for c in sample]
+    #convert to one-hot
+    idxs_arr = np.array(idxs)
+    length = len(alphabet)
+    b = np.zeros((idxs_arr.size, length))
+    b[np.arange(idxs_arr.size), idxs_arr] = 1
+    return b.T

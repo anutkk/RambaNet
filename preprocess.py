@@ -11,15 +11,13 @@ import tables
 
 def preprocess_data(dataset_directory, input_size=1024, alphabet='אבגדהוזחטיכךלמםנןסעפףצץקרשת "', output_filename='./sample_dataset/sample_dataset.h5'):
     """ 
-    Gets dataset directory path (which has structure as detailed behind TODO), and writes to file:
-        - data as a list of (sample, label). Each sample is a numpy array of one-hot vectors, each label is an integer.
-        - a dict where dict[label]=author_name
+    Gets dataset directory path (which has structure as detailed behind TODO), and writes to file data as numeric NumPy ndarray in HDF5 file.
 
-    If the output file already exists the preprocessed data is *appended*.
+    If the output file already exists the preprocessed data is *overwritenn*.
     """
     #initialize variables
-    preprocessed_samples = np.array([])
-    preprocessed_labels =  np.array([])
+    preprocessed_samples = np.array([], dtype=np.int8)
+    preprocessed_labels =  np.array([], dtype=np.int8)
     # author_dict = {}
 
     #initialize file dataset will be stored in
@@ -37,8 +35,7 @@ def preprocess_data(dataset_directory, input_size=1024, alphabet='אבגדהוז
 
             #create h5 group and table
             gauthor = h5file.create_group(h5file.root, 'author'+str(author_label), author_dir.name)
-            array_c = h5file.create_earray(gauthor, 'samples', typeAtom, (0,len(alphabet), input_size),
-                                author_dir.name+" Samples")
+            array_c = h5file.create_earray(gauthor, 'samples', typeAtom, (0,len(alphabet), input_size), author_dir.name+" Samples")
 
             # author_dict[author_label] = author_dir.name
             for book_path in author_dir.iterdir():
@@ -89,7 +86,7 @@ def preprocess_data(dataset_directory, input_size=1024, alphabet='אבגדהוז
                 filtered = re.sub('[^'+alphabet+']', ' ', flattened_raw_str)
                 filtered = re.sub(' +', ' ', filtered)
                 # TODO: is it always correct to replace out-of-alphabet characters by spaces?
-                print('Length processed: ' + str(len(filtered)))
+                # print('Length processed: ' + str(len(filtered)))
 
                 # split to samples
                 #TODO: prevent cutting in the middle of words

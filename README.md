@@ -35,6 +35,12 @@ Recent research in Bengali [Khatun 2020] suggests that character-level embedding
 
 ### Character-Level CNN
 
+## Requirements
+
+- Python 3.7
+- PyTables
+- TensorFlow
+
 
 ## References
 1. Sebastian Ruder, Parsa Ghaffari, John G. Breslin, "Character-level and Multi-channel Convolutional Neural Networks for Large-scale Authorship Attribution", [_arXiv:1609.06686_](https://arxiv.org/abs/1609.06686) (2016).

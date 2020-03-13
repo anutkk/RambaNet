@@ -1,16 +1,113 @@
-# TODO: convert to TensorFlow Dataset class - see https://www.tensorflow.org/datasets/add_dataset
-
-import pathlib
-import warnings
 import json
-import collections
+import pathlib
+import shutil
 import re
 import numpy as np
-# import h5py
 import tables
 import tensorflow as tf
+import os
+from utils import *
+import io
 
-def preprocess_data(dataset_directory, input_size=1024, alphabet='אבגדהוזחטיכךלמםנןסעפףצץקרשת "', output_filename='./sample_dataset/sample_dataset'):
+
+#Organize dataset
+def organize_data(dataset_dirname = "./sample_dataset/"):
+    """ 
+    Organize dataset in convenient folder structure and keep only relevant files in convenient form. 
+    Existing data is overwritten.
+    """
+    #TODO: explain folder structure of input and output
+    # dataset_dirname = "./sample_dataset/"
+    raw_subdirname = "raw/"
+    raw_metadata_subdirame = "_schemas/"
+    organized_subdirname = "organized/"
+
+    #load all relevant metadata
+    authors_dict = {}
+    error_count=0
+    metadata_dir = dataset_dirname + raw_subdirname + raw_metadata_subdirame
+    for metadata_fn in os.listdir(metadata_dir):
+        filename, file_extension = os.path.splitext(metadata_fn)
+        if file_extension != '.json':
+            continue
+        with open(metadata_dir+metadata_fn, 'r', encoding="utf8") as metadata_file:
+            try:
+                metadata = json.load(metadata_file)
+            except:
+                continue
+        bookname = filename.replace('_', ' ')
+        # author = ""
+        try:
+            author = metadata['authors'][0]['en']
+        except: #if author=='':
+            idx = bookname.find(" on ")
+            if idx>0:
+                author = bookname[0:idx]
+            else:
+                author = bookname
+            # print("Book '" + filename +"' has no valid author information")
+            error_count+=1
+        authors_dict[bookname] = author
+    print(str(error_count) + ' books out of '+ str(len(os.listdir(metadata_dir))) +' without valid author information were corrected. ')
+
+    #get list of all directories in raw folder
+    books = os.listdir(dataset_dirname + raw_subdirname)
+    #remove metadata directory from list
+    books.remove(raw_metadata_subdirame.replace('/', ''))
+    books.remove('_links')
+    #organize books
+    for book in books:
+        book_path = pathlib.Path(dataset_dirname + raw_subdirname+book+'/Hebrew/merged.json')
+        #validate
+        if not book_path.is_file():
+            print('Directory ' + str(book_path) + ' ignored (invalid location).')
+            continue
+        if book_path.suffix != '.json':
+            print('File ' + str(book_path) + ' ignored (type should be JSON).')
+            continue
+        #get author
+        if book in authors_dict.keys():
+            curr_author = authors_dict[book]
+            author_dirname = dataset_dirname+organized_subdirname+curr_author+'/'
+            pathlib.Path(author_dirname).mkdir(parents=True, exist_ok=True)
+            out_file = author_dirname+book+".txt"
+            # shutil.copyfile(dataset_dirname + raw_subdirname+book+'/Hebrew/merged.json',)
+
+            # Put content into simple TXT file
+            # Load JSON data
+            with book_path.open(mode='r', encoding='utf8') as book_file:
+                try:
+                    book_raw_text = json.load(book_file)['text']
+                except:
+                    print('File '+str(book_path) +' ignored (impossible to read JSON).')
+                    continue
+
+            # flatten
+            if isinstance(book_raw_text, list):  # no internal separation of text
+                flattened_raw_lst = list(flatten(book_raw_text))
+            elif isinstance(book_raw_text, dict):# internal separation of text - dict of dicts
+                tmp = []
+                for d in book_raw_text.values():
+                    if isinstance(d, dict):
+                        tmp.extend(list(d.values()))
+                    elif isinstance(d, list):
+                        tmp.extend(d)
+                flattened_raw_lst = list(flatten(tmp))
+            else:
+                raise ValueError(str(book_path)+ ': Could not parse.')
+
+            # ensure file does not have different structure from expected
+            assert(all(isinstance(x, str) for x in flattened_raw_lst))
+            # TODO: check manually all is well
+
+            # concatenate
+            flattened_raw_str = ''.join(flattened_raw_lst)
+
+            #write to file
+            with io.open(out_file, 'w', encoding='utf8') as f:
+                f.write(flattened_raw_str)
+
+def preprocess_all_data(dataset_directory, input_size=1024, alphabet='אבגדהוזחטיכךלמםנןסעפףצץקרשת "', output_filename='./sample_dataset/sample_dataset'):
     """ 
     Gets dataset directory path (which has structure as detailed behind TODO), and writes to file data as numeric NumPy ndarray in HDF5 file and TFrecord file.
 
@@ -56,7 +153,7 @@ def preprocess_data(dataset_directory, input_size=1024, alphabet='אבגדהוז
                         book_raw_text = json.load(book_file)['text']
                         # book_raw_text = book_raw_data
                     except:
-                        warnings.warn('File '+str(author_dir) +
+                        print('File '+str(author_dir) +
                                     ' ignored (impossible to read JSON).')
                         continue
 
@@ -112,64 +209,6 @@ def preprocess_data(dataset_directory, input_size=1024, alphabet='אבגדהוז
             tfwriter.flush()
 
 
-# flatten list/dict of string
-def flatten(l):
-    for el in l:
-        if isinstance(el, collections.Iterable) and not isinstance(el, (str, bytes)):
-            yield from flatten(el)
-        else:
-            yield el
+organize_data() #DEBUG
 
-#convert string to one-hot numerical embedding
-def str2onehot(sample, alphabet):  # idxs is list of integers
-    #return numpy 2D array where each character is a one-hot column vector
-    #convert to indexes
-    idxs = [alphabet.index(c) for c in sample]
-    #convert to one-hot
-    idxs_arr = np.array(idxs)
-    length = len(alphabet)
-    b = np.zeros((idxs_arr.size, length))
-    b[np.arange(idxs_arr.size), idxs_arr] = 1
-    return b.T.astype(np.int8)
-
-## Functions to write/read to/from TFrecord files ##
-def text_example(text, label):
-    """
-    Creates a tf.Example message ready to be written to a file.
-    text is a NumPy ndarray
-    """
-
-    def _bytes_feature(value):
-        """Returns a bytes_list from a string / byte."""
-        if isinstance(value, type(tf.constant(0))):
-            value = value.numpy() # BytesList won't unpack a string from an EagerTensor.
-        return tf.train.Feature(bytes_list=tf.train.BytesList(value=[value]))
-
-    def _float_feature(value):
-        """Returns a float_list from a float / double."""
-        return tf.train.Feature(float_list=tf.train.FloatList(value=[value]))
-
-    def _int64_feature(value):
-        """Returns an int64_list from a bool / enum / int / uint."""
-        return tf.train.Feature(int64_list=tf.train.Int64List(value=[value]))
-
-    text_tensor = tf.convert_to_tensor(text)
-    text_str = tf.io.serialize_tensor(text_tensor)
-    feature = {
-        'text': _bytes_feature(text_str),
-        'label': _int64_feature(label),
-    }
-    return tf.train.Example(features=tf.train.Features(feature=feature))
-
-def parse_text_example(example_proto):
-    text_feature_description = {
-        'text': tf.io.FixedLenFeature([], tf.string),
-        'label': tf.io.FixedLenFeature([], tf.int64),
-    }
-    return tf.io.parse_single_example(example_proto, text_feature_description)
-
-    # text_tensor = tf.convert_to_tensor(text)
-    # text_str = tf.io.serialize_tensor(text_tensor)
-    # return tf.train.Example(features=tf.train.Features(feature=feature))
-
-preprocess_data('./sample_dataset/organized') #DEBUG!
+# preprocess_data('./sample_dataset/organized') #DEBUG!

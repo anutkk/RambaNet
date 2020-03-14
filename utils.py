@@ -1,5 +1,6 @@
 import collections
 import tensorflow as tf
+import numpy as np
 
 # flatten list/dict of string
 def flatten(l):

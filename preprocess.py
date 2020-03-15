@@ -12,6 +12,13 @@ import io
 
 #Organize dataset
 #TODO: consider write to TFRecord file
+# https://towardsdatascience.com/working-with-tfrecords-and-tf-train-example-36d111b3ff4d
+# https://medium.com/@prasad.pai/how-to-use-tfrecord-with-datasets-and-iterators-in-tensorflow-with-code-samples-ffee57d298af
+# https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564
+# https://www.tensorflow.org/tutorials/load_data/tfrecord
+# https://www.tensorflow.org/guide/data
+# https://www.tensorflow.org/guide/data_performance
+# https://www.tensorflow.org/tutorials/load_data/tfrecord
 def organize_data(dataset_dirname = "./sample_dataset/"):
     """ 
     Organize dataset in convenient folder structure and keep only relevant files in convenient form. 
@@ -112,9 +119,11 @@ def organize_data(dataset_dirname = "./sample_dataset/"):
 #TODO: consider making preprocessing after generation. For now most compatible
 def get_sample(dataset_directory = "./sample_dataset/organized", input_size=1024, alphabet='אבגדהוזחטיכךלמםנןסעפףצץקרשת "'):
     ds_path = pathlib.Path(dataset_directory)
-    for author_label, author_dir in enumerate(ds_path.iterdir()):
+    authors = list(enumerate(ds_path.iterdir()))
+    one_hot_matrix = np.eye(len(authors), dtype='int8')
+    for author_id, author_dir in authors:
         for book_path in author_dir.iterdir():
-            with book_path.open(mode='r', encoding='utf8') as book_file:
+            with book_path.open(mode    ='r', encoding='utf8') as book_file:
                 flattened_raw_str = book_file.read()
                 # keep only letters in alphabet and remove multiple spaces
             filtered = re.sub('[^'+alphabet+']', ' ', flattened_raw_str)
@@ -134,8 +143,9 @@ def get_sample(dataset_directory = "./sample_dataset/organized", input_size=1024
             lastsample_onehot_padded = np.zeros_like(samples_onehot_minus1[-1,:,:], dtype=np.int8)
             lastsample_onehot_padded[0:lastsample_onehot.shape[0], 0:lastsample_onehot.shape[1]] = lastsample_onehot
             samples_onehot = np.concatenate((samples_onehot_minus1, lastsample_onehot_padded[np.newaxis,:,:]))
+            author_label = one_hot_matrix[:,author_id]
             for sample in samples_onehot:
-                yield sample
+                yield (sample, author_label)
 
 
 # def preprocess_all_data(dataset_directory, input_size=1024, alphabet='אבגדהוזחטיכךלמםנןסעפףצץקרשת "', output_filename='./sample_dataset/sample_dataset'):

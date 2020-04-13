@@ -8,7 +8,7 @@ The use of Neural Networks and semantically-inclined embeddings may allow to tak
 
 We use the JSON Hebrew version of the dataset [Sefaria-Export](https://github.com/Sefaria/Sefaria-Export), which is graciously provided by Sefaria. The raw dataset is not included in the repository due to its size.
 
-**Some basic data analysis and vizualizations of the dataset may be found in the folder `basic_data_analysis/`.**
+**Data exploration and vizualizations of the Sefaria dataset may be found in the folder `data_exploration`.**
 
 ## Background and Methodoloy
 
